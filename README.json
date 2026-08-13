@@ -1,0 +1,3639 @@
+{
+  "items": [
+    {
+      "description": "Documentation, indexes, troubleshooting material, and external reference pages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-15T03:12:10Z",
+            "owner": "thedjchi",
+            "repo": "Shizuku",
+            "stars": 5019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-03-17T19:43:54Z",
+            "owner": "KobeW50",
+            "repo": "ReVanced-Documentation",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-20T20:12:20Z",
+            "owner": "inotia00",
+            "repo": "revanced-documentation",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:15:50Z",
+            "owner": "nvbangg",
+            "repo": "awesome-morphe",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-10T13:56:03Z",
+            "owner": "ReVanced-Extended-Community",
+            "repo": "Patches-Documentation",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-04T01:24:36Z",
+            "owner": "ReVanced-Extended-Community",
+            "repo": "Community-Guides",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Basic patching guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-09T14:32:39Z",
+                "owner": "MorpheApp",
+                "repo": "morphe-documentation",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Frequently asked questions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-09T14:32:39Z",
+                "owner": "MorpheApp",
+                "repo": "morphe-documentation",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Troubleshooting Help",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-09T14:32:39Z",
+                "owner": "MorpheApp",
+                "repo": "morphe-documentation",
+                "stars": 124
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T14:32:39Z",
+            "owner": "MorpheApp",
+            "repo": "morphe-documentation",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smali",
+            "last_commit": "2026-08-13T02:02:53Z",
+            "owner": "rushiforai",
+            "repo": "morphe-archive",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-14T12:59:31Z",
+            "owner": "Francesco146",
+            "repo": "revanced-for-dummies",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-16T15:58:06Z",
+                "owner": "SodaWithoutSparkles",
+                "repo": "revanced-troubleshooting-guide",
+                "stars": 66
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T09:15:50Z",
+                "owner": "nvbangg",
+                "repo": "awesome-morphe",
+                "stars": 313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T09:15:50Z",
+                "owner": "nvbangg",
+                "repo": "awesome-morphe",
+                "stars": 313
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T06:21:07Z",
+                "owner": "dmh84",
+                "repo": "morphe-space-explorer",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T07:20:41Z",
+                "owner": "drnx64",
+                "repo": "morphe-track-patches",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-04-26T16:24:38Z",
+                "owner": "Paresh-Maheshwari",
+                "repo": "patch-explorer",
+                "stars": 65
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-04-02T10:36:39Z",
+                "owner": "kazimmt",
+                "repo": "kazimmt.github.io",
+                "stars": 264
+              }
+            }
+          ]
+        }
+      ],
+      "title": "📚 Resources"
+    },
+    {
+      "description": "Patch repositories and related integration repositories.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2025-09-17T10:37:53Z",
+                "owner": "crimera",
+                "repo": "revanced-integrations",
+                "stars": 106
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T06:11:38Z",
+            "owner": "crimera",
+            "repo": "piko",
+            "stars": 4657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-29T02:06:27Z",
+            "owner": "BiliRoamingX",
+            "repo": "BiliRoamingX",
+            "stars": 3759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2025-12-29T06:11:57Z",
+                "owner": "inotia00",
+                "repo": "revanced-integrations",
+                "stars": 169
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-03-10T01:41:56Z",
+            "owner": "inotia00",
+            "repo": "revanced-patches",
+            "stars": 2288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2024-11-10T11:24:25Z",
+                "owner": "anddea",
+                "repo": "revanced-integrations",
+                "stars": 58
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T09:34:52Z",
+            "owner": "anddea",
+            "repo": "revanced-patches",
+            "stars": 1825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T17:59:02Z",
+            "owner": "RookieEnough",
+            "repo": "De-Vanced",
+            "stars": 1106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T00:14:13Z",
+            "owner": "hoo-dles",
+            "repo": "morphe-patches",
+            "stars": 933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-03T22:15:42Z",
+            "owner": "wchill",
+            "repo": "patcheddit",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2024-12-07T12:56:35Z",
+                "owner": "fromhgbwithluv",
+                "repo": "ReX-integrations",
+                "stars": 83
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-07-22T09:16:23Z",
+            "owner": "fromhgbwithluv",
+            "repo": "ReX-patches",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T08:19:38Z",
+            "owner": "rushiranpise",
+            "repo": "morphe-patches",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T14:24:10Z",
+            "owner": "brosssh",
+            "repo": "morphe-patches",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T21:00:21Z",
+            "owner": "jasonwu1994",
+            "repo": "Gboard-patches",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-04-06T17:20:02Z",
+            "owner": "wchill",
+            "repo": "rvx-morphed",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-05T16:49:46Z",
+            "owner": "kitadai31",
+            "repo": "revanced-patches-android6-7",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-02T19:53:49Z",
+            "owner": "Nai64",
+            "repo": "Nai64Patches",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T20:13:09Z",
+            "owner": "icysymmetra",
+            "repo": "tiktok-patches-for-morphe",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T15:18:12Z",
+            "owner": "jkennethcarino",
+            "repo": "adobo",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T18:30:25Z",
+            "owner": "sti-233",
+            "repo": "BiliRoamingX",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-02-03T07:15:49Z",
+            "owner": "sakarie9",
+            "repo": "BiliRoamingM",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T08:47:26Z",
+            "owner": "The412Banner",
+            "repo": "bannerhub-revanced",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T12:34:48Z",
+            "owner": "AmpleReVanced",
+            "repo": "revanced-patches",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-01T13:09:48Z",
+            "owner": "binarymend",
+            "repo": "morphe-patches",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-06-03T12:04:09Z",
+                "owner": "rufusin",
+                "repo": "revanced-integrations",
+                "stars": 14
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-21T08:57:57Z",
+            "owner": "rufusin",
+            "repo": "revanced-patches",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Kotlin",
+                "last_commit": "2024-06-01T17:47:21Z",
+                "owner": "jkennethcarino",
+                "repo": "privacy-revanced-integrations",
+                "stars": 4
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-04-01T00:23:42Z",
+            "owner": "jkennethcarino",
+            "repo": "privacy-revanced-patches",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T18:08:07Z",
+            "owner": "ajstrick81",
+            "repo": "morphe-androidtv-patches",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T04:58:30Z",
+            "owner": "arandomhooman",
+            "repo": "hoomans-morphe-patches",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-23T06:49:57Z",
+            "owner": "Aunali321",
+            "repo": "ReVancedExperiments",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T13:03:51Z",
+            "owner": "bufferk",
+            "repo": "morphe-patches",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-01T00:23:45Z",
+            "owner": "indrastorms",
+            "repo": "Dropped-Patches",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T16:33:25Z",
+            "owner": "andronedev",
+            "repo": "morphe-patches",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-06-05T21:00:22Z",
+                "owner": "d4n3436",
+                "repo": "revanced-integrations",
+                "stars": 9
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-06-20T19:58:28Z",
+            "owner": "d4n3436",
+            "repo": "revanced-patches-android5",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-22T17:44:44Z",
+            "owner": "BholeyKaBhakt",
+            "repo": "android-patches-xtra",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-12-29T06:12:01Z",
+            "owner": "inotia00",
+            "repo": "revanced-patches-arsclib",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T13:48:34Z",
+            "owner": "meridianfresco",
+            "repo": "morphe-meta-patches",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T10:26:37Z",
+            "owner": "PrathxmOp",
+            "repo": "Prathxm-Patches",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-05T23:08:23Z",
+            "owner": "wchill",
+            "repo": "anddea-rvx-morphed",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T07:44:19Z",
+            "owner": "alejandrobellver",
+            "repo": "pichiwa-patches",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-13T02:49:44Z",
+            "owner": "sjshb57",
+            "repo": "Pairip-Patches",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T08:45:56Z",
+            "owner": "docbt",
+            "repo": "patched-up",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T01:24:57Z",
+            "owner": "quantavil",
+            "repo": "edge-morphe-patches",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-03-24T19:36:10Z",
+            "owner": "Slenderman00",
+            "repo": "revanced-patches-grindr",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T05:25:27Z",
+            "owner": "kiraio-moe",
+            "repo": "Lain-Patches",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T22:28:18Z",
+            "owner": "browzomje",
+            "repo": "browzomje-patches",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-01-22T03:31:30Z",
+            "owner": "hoo-dles",
+            "repo": "revanced-custom-patches",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T07:25:25Z",
+            "owner": "xob0t",
+            "repo": "morphe-patches",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-07-26T14:26:44Z",
+            "owner": "IndusAryan",
+            "repo": "twitter-patches",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T12:27:27Z",
+            "owner": "kondratjev",
+            "repo": "morphe-patches",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-23T01:30:46Z",
+            "owner": "durgesh0505",
+            "repo": "chiggi_morphe_patches",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T11:26:19Z",
+            "owner": "rabilrbl",
+            "repo": "fluffy-patches",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-22T08:02:41Z",
+            "owner": "PixelPusher247",
+            "repo": "morphe-patches",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-02T01:07:57Z",
+            "owner": "eyalm2000",
+            "repo": "tidal-debug-menu",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-15T18:07:00Z",
+            "owner": "saieshshirodkar",
+            "repo": "saiesh-morphe-patches",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T15:20:34Z",
+            "owner": "andrewliang25",
+            "repo": "morphe-patches",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-01T08:27:11Z",
+            "owner": "RealCyberwash",
+            "repo": "max-patches",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T12:47:55Z",
+            "owner": "hxreborn",
+            "repo": "morphe-patches",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T22:41:12Z",
+            "owner": "humzakh",
+            "repo": "HK-Morphe-Patches",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-31T17:27:20Z",
+            "owner": "MiguelNinja19",
+            "repo": "miguel-morphe-patches",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T12:45:38Z",
+            "owner": "IMXEren",
+            "repo": "mix-patches",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T02:27:12Z",
+            "owner": "SouBryan",
+            "repo": "pinterest-morphed",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-01T19:17:41Z",
+            "owner": "polka-bear",
+            "repo": "morphe-patches",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T00:05:50Z",
+            "owner": "dh6k",
+            "repo": "morphe-patches",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-04T07:43:28Z",
+            "owner": "ameenalasady",
+            "repo": "ameen-morphe",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T16:46:12Z",
+            "owner": "Almewty",
+            "repo": "my-morphe-patches",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-17T06:24:39Z",
+            "owner": "abhis1n",
+            "repo": "Morphe-Patches",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T18:51:37Z",
+            "owner": "rushiranpise",
+            "repo": "Ri-Vanced-Universal-Morphe-Patches",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-01T19:34:18Z",
+            "owner": "lennyRBLX",
+            "repo": "apk-patches",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-01T08:58:17Z",
+            "owner": "ariecos",
+            "repo": "gemini-patches",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-01-31T10:10:47Z",
+            "owner": "Faith001",
+            "repo": "revanced-molten-glass",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-02T20:22:05Z",
+            "owner": "Quantro100",
+            "repo": "Morphe-patches",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T05:32:53Z",
+            "owner": "LaKakaReal",
+            "repo": "LaKakaShitPatches",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T05:38:37Z",
+            "owner": "franticg33k",
+            "repo": "morphe-patches",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-24T18:29:12Z",
+            "owner": "Joristdh",
+            "repo": "Platypatch",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T23:20:40Z",
+            "owner": "cesbar",
+            "repo": "zpatches",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-16T19:22:45Z",
+            "owner": "Xhehab",
+            "repo": "Xhehab-Patches",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T08:58:22Z",
+            "owner": "byehi98",
+            "repo": "okish-morphe-patches",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T04:23:59Z",
+            "owner": "kolaron",
+            "repo": "morphe-patches",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-19T12:15:17Z",
+            "owner": "totsiaw",
+            "repo": "proxma-patches",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T15:47:22Z",
+            "owner": "fangkampanat",
+            "repo": "gmaps-patches",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T18:33:01Z",
+            "owner": "Entree3k",
+            "repo": "Morning-Entree-Patches",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-30T21:43:56Z",
+            "owner": "loskutov",
+            "repo": "youtube-domain-fronting-patch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-03T20:18:35Z",
+            "owner": "HvQ",
+            "repo": "eksi-morphe",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T03:33:49Z",
+            "owner": "bigyank",
+            "repo": "morphe-patches-samsung",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T19:04:33Z",
+            "owner": "ch3thanhs",
+            "repo": "stylus",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T04:20:06Z",
+            "owner": "liongalahad",
+            "repo": "nuviotv-morphe-patches",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T16:00:02Z",
+            "owner": "Taknok",
+            "repo": "revanced-patches",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-14T01:03:06Z",
+            "owner": "PawiX25",
+            "repo": "pepper-morphe-patches",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-05T12:06:38Z",
+            "owner": "AlexNaga",
+            "repo": "android-patches",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T18:21:17Z",
+            "owner": "kun-codes",
+            "repo": "npci-bhim-morphe-patches",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-01T06:05:19Z",
+            "owner": "1fexd",
+            "repo": "revanced-patches",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T02:24:05Z",
+            "owner": "Tosox",
+            "repo": "revanced-patches",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T11:11:42Z",
+            "owner": "bdgerszewski",
+            "repo": "morphe-patches-ihealth",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-28T14:29:36Z",
+            "owner": "MoonShadowKeeper",
+            "repo": "Telegram-patchesMorphe",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-01-07T19:35:26Z",
+            "owner": "kangrio",
+            "repo": "MicroG-Patches-Re",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-30T08:54:31Z",
+            "owner": "kareemlukitomo",
+            "repo": "morphe-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-22T02:56:41Z",
+            "owner": "osirisad",
+            "repo": "teamsnap-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-28T11:39:04Z",
+            "owner": "Pa-kon",
+            "repo": "morphe-screenshot-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T17:37:59Z",
+            "owner": "NekoGryphou",
+            "repo": "gryphous-morphe-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T19:54:00Z",
+            "owner": "shaun-the-sheep-patches",
+            "repo": "morphe-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-15T22:26:25Z",
+            "owner": "ethanm6",
+            "repo": "letterboxd-stremio-morphe-patch",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T22:06:53Z",
+            "owner": "TheRealCrazyfuy",
+            "repo": "abeja-morphe-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T10:01:50Z",
+            "owner": "ilikeadofai",
+            "repo": "vocacolle-morphe-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-01T00:29:30Z",
+            "owner": "liaralabs",
+            "repo": "revanced-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-04-30T19:04:15Z",
+            "owner": "ayushTNM",
+            "repo": "gmscore-patches",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-14T00:38:37Z",
+            "owner": "PawiX25",
+            "repo": "pepper-revanced-patches",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-19T22:58:39Z",
+            "owner": "andronedev",
+            "repo": "morphe-portal-patch",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T03:25:51Z",
+            "owner": "Ripthulhu",
+            "repo": "morphe-google-patches",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-13T17:39:18Z",
+            "owner": "Joussflls10",
+            "repo": "Jouss-Patches",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T00:12:32Z",
+            "owner": "logm1lo",
+            "repo": "logm1lo-patches",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T09:45:59Z",
+            "owner": "BlazeFTL",
+            "repo": "FTL-Patches",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-01T05:09:07Z",
+            "owner": "vinceTheProgrammer",
+            "repo": "sticknodes-patches",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-01T00:19:24Z",
+            "owner": "lluni",
+            "repo": "custom-revanced-patches",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-01T11:09:59Z",
+            "owner": "vladon",
+            "repo": "morphe-patches-navi",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T00:35:27Z",
+            "owner": "ImmortalZeus",
+            "repo": "ImmortalZeus-Morphe-Patches",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T09:14:33Z",
+            "owner": "Tornillo2",
+            "repo": "movistar-block-ads-morphe",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-01T01:35:26Z",
+            "owner": "skulldogged",
+            "repo": "cobalt-morphe",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T07:06:08Z",
+            "owner": "MarcaDian",
+            "repo": "morphe-patches-yavot",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T00:26:11Z",
+            "owner": "d0nj",
+            "repo": "morphe-patches",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-11T20:46:45Z",
+            "owner": "alim-zanibekov",
+            "repo": "ultrasandbox",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-01T16:38:20Z",
+            "owner": "burgers1312",
+            "repo": "revanced-patches",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-01-09T21:56:10Z",
+            "owner": "xrogers",
+            "repo": "revanced-patches-galaxy",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-27T19:55:15Z",
+            "owner": "daboynb",
+            "repo": "revanced-instagram-viewonce",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T14:08:12Z",
+            "owner": "BrayDog2010",
+            "repo": "morphe-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-06T13:24:35Z",
+            "owner": "ynotzort",
+            "repo": "morphe-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-01T02:15:33Z",
+            "owner": "PrathxmOp",
+            "repo": "ytmusic-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T07:39:50Z",
+            "owner": "Seobject",
+            "repo": "Seobject-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-23T12:37:53Z",
+            "owner": "mxkrgt",
+            "repo": "dbtcoach-morphe-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T13:09:17Z",
+            "owner": "alan7383",
+            "repo": "sofatime-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T17:46:34Z",
+            "owner": "Jl4cTuk",
+            "repo": "morphe-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-04T12:40:40Z",
+            "owner": "david419kr",
+            "repo": "niconico-yt-morphe-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T11:52:06Z",
+            "owner": "dbhavsar76",
+            "repo": "revanced-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T12:08:32Z",
+            "owner": "ang3lo-azevedo",
+            "repo": "morphe-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-05T11:18:06Z",
+            "owner": "Alexvbp",
+            "repo": "f1tv-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-03-01T03:16:06Z",
+            "owner": "forsyth47",
+            "repo": "revanced-patches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-08-11T10:13:19Z",
+            "owner": "Hepolise",
+            "repo": "LuckyToolPatches",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T06:54:26Z",
+            "owner": "blazskufca",
+            "repo": "revanced-patch",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-19T15:46:01Z",
+            "owner": "MojiRS",
+            "repo": "revanced-rif-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-02T20:47:40Z",
+            "owner": "isuruhg",
+            "repo": "fin-tweaks",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-12T08:56:09Z",
+            "owner": "MaebashiRamens",
+            "repo": "mtga",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-25T21:56:33Z",
+            "owner": "BakasuraRCE",
+            "repo": "bakasura-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-10T23:12:11Z",
+            "owner": "LeeeeT",
+            "repo": "bt-keepalive-patch",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T04:23:56Z",
+            "owner": "lyyako",
+            "repo": "realme-link-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-21T19:08:24Z",
+            "owner": "dalapenko",
+            "repo": "yt-ya.voiceover-android-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T16:33:52Z",
+            "owner": "coronenic",
+            "repo": "revanced-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T19:48:17Z",
+            "owner": "variablenine",
+            "repo": "morphe-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T02:34:54Z",
+            "owner": "Ikuradachi",
+            "repo": "ikura-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-24T08:12:49Z",
+            "owner": "ciraolone",
+            "repo": "morphe-watch-later",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T15:56:41Z",
+            "owner": "Hiosdra",
+            "repo": "morphe-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T09:17:24Z",
+            "owner": "LaBlazer",
+            "repo": "morphe-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T03:25:58Z",
+            "owner": "chukfinley",
+            "repo": "tidal-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-03T07:24:30Z",
+            "owner": "eZ4RK0",
+            "repo": "morphe-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T08:22:25Z",
+            "owner": "Alastor-Kaneki",
+            "repo": "Morphe-Patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-12T08:36:07Z",
+            "owner": "GoldRift",
+            "repo": "morphe-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-15T23:17:33Z",
+            "owner": "RoundSalmon4",
+            "repo": "morphe-patches-template",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T11:07:11Z",
+            "owner": "hu-liberator",
+            "repo": "patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smali",
+            "last_commit": "2026-08-13T05:45:23Z",
+            "owner": "JonnyVR1",
+            "repo": "morph-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-05T13:42:17Z",
+            "owner": "spookyexe",
+            "repo": "morphe-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T19:30:15Z",
+            "owner": "braiNtropy",
+            "repo": "braintropy-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T19:19:12Z",
+            "owner": "sushruth",
+            "repo": "imgur-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-15T14:43:02Z",
+            "owner": "LoV432",
+            "repo": "revanced-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-01T03:20:50Z",
+            "owner": "HZbutcoding",
+            "repo": "sn-patching",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-12-01T18:03:19Z",
+            "owner": "korhelyleves",
+            "repo": "revanced-patches",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T20:16:26Z",
+            "owner": "4831c0",
+            "repo": "custom-revanced-patches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-21T19:25:25Z",
+            "owner": "dalapenko",
+            "repo": "perplexity-stt-android-patches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T14:07:35Z",
+            "owner": "VinkyV",
+            "repo": "AppleMusicPatches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T01:34:33Z",
+            "owner": "AriesAlex",
+            "repo": "edge-revanced",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T22:57:22Z",
+            "owner": "andersonlucasg3",
+            "repo": "PetalMaps-AndroidAuto",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T01:32:07Z",
+            "owner": "roflsunriz",
+            "repo": "chmate-revanced",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T09:28:54Z",
+            "owner": "simnple",
+            "repo": "revanced-patches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T11:17:20Z",
+            "owner": "heval99",
+            "repo": "morphe-patches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T13:08:25Z",
+            "owner": "madhu-gowda6",
+            "repo": "atharv-patches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T13:30:31Z",
+            "owner": "electiveDev",
+            "repo": "tiaruebar-patches-vip-fix",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T06:34:05Z",
+            "owner": "BlazeFTL",
+            "repo": "Morphe-Portal-Patches-New",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T11:43:54Z",
+            "owner": "D4NZ-jpg",
+            "repo": "revanced-patches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T12:48:19Z",
+            "owner": "tadikwa",
+            "repo": "google-clock-morphe-patches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-01T15:58:26Z",
+            "owner": "bawr",
+            "repo": "revanced-patches",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-02T11:20:59Z",
+            "owner": "Vernoxvernax",
+            "repo": "revanced-patches",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-24T15:43:41Z",
+            "owner": "Wyse-",
+            "repo": "revanced-patches",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "🩹 Patches"
+    },
+    {
+      "description": "Managers, patching tools, plugin ecosystems, and adjacent ReVanced/Morphe projects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-03T14:04:12Z",
+            "owner": "NexAlloy",
+            "repo": "NexAlloy",
+            "stars": 2854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2025-12-29T08:50:47Z",
+            "owner": "inotia00",
+            "repo": "revanced-manager",
+            "stars": 1729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T04:35:47Z",
+            "owner": "Jman-Github",
+            "repo": "Universal-ReVanced-Manager",
+            "stars": 1249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T08:43:41Z",
+            "owner": "Jman-Github",
+            "repo": "ReVanced-Patch-Bundles",
+            "stars": 635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T09:31:29Z",
+            "owner": "Svznify",
+            "repo": "MorpheX",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-26T09:10:38Z",
+            "owner": "XDream8",
+            "repo": "revanced-creator",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-12T16:09:01Z",
+            "owner": "selfmusing",
+            "repo": "RVX-Lite-Modules",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T09:11:35Z",
+            "owner": "Graywizard888",
+            "repo": "Enhancify",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-09-03T12:54:36Z",
+            "owner": "kitadai31",
+            "repo": "revanced-manager-android5-7",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-06-29T06:12:29Z",
+            "owner": "LeddaZ",
+            "repo": "MorpheUpdater",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T07:53:03Z",
+            "owner": "rushiranpise",
+            "repo": "apk-download-helper",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-03-04T08:29:56Z",
+            "owner": "prevanced",
+            "repo": "prevanced-manager",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-02T14:47:10Z",
+            "owner": "brosssh",
+            "repo": "revanced-external-bundles",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-21T14:43:44Z",
+            "owner": "exconvinced",
+            "repo": "revanced-web-app",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-01T04:17:29Z",
+            "owner": "Aunali321",
+            "repo": "revanced-downloader-plugins",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-01-05T16:39:37Z",
+            "owner": "MarcaDian",
+            "repo": "Mystery-manager",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-11-07T00:06:47Z",
+            "owner": "inotia00",
+            "repo": "revanced-cli-arsclib",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-01-01T18:47:19Z",
+            "owner": "LisoUseInAIKyrios",
+            "repo": "revanced-patcher",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-05-03T19:17:15Z",
+            "owner": "valonsodev",
+            "repo": "jadx-revanced",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-27T04:34:55Z",
+            "owner": "hoo-dles",
+            "repo": "jadx-morphe",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-11-20T10:54:47Z",
+            "owner": "AmpleReVanced",
+            "repo": "revanced-manager-compose",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-11-18T16:27:56Z",
+            "owner": "Aunali321",
+            "repo": "revanced-web-patcher-backend",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-02-16T08:22:36Z",
+            "owner": "AmpleReVanced",
+            "repo": "revanced-patcher",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-02-16T08:22:50Z",
+            "owner": "AmpleReVanced",
+            "repo": "revanced-cli",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-11-09T04:45:30Z",
+            "owner": "AmpleReVanced",
+            "repo": "revanced-api",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🔨 Projects"
+    },
+    {
+      "description": "Automated build repositories, modules, scripts, and packaged app distributions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T16:23:12Z",
+            "owner": "j-hc",
+            "repo": "revanced-magisk-module",
+            "stars": 7495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T05:53:39Z",
+            "owner": "crimera",
+            "repo": "twitter-apk",
+            "stars": 4857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T00:31:32Z",
+            "owner": "NoName-exe",
+            "repo": "revanced-extended",
+            "stars": 4160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T02:55:13Z",
+            "owner": "FiorenMas",
+            "repo": "Revanced-And-Revanced-Extended-Non-Root",
+            "stars": 2637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T16:08:00Z",
+            "owner": "reisxd",
+            "repo": "revanced-builder",
+            "stars": 1857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-12-06T15:13:19Z",
+            "owner": "decipher3114",
+            "repo": "Revancify",
+            "stars": 1099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T16:23:20Z",
+            "owner": "RookieEnough",
+            "repo": "Morphe-AutoBuilds",
+            "stars": 980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-12-13T03:52:55Z",
+            "owner": "inotia00",
+            "repo": "rvx-builder",
+            "stars": 724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:22:34Z",
+            "owner": "nikhilbadyal",
+            "repo": "docker-py-revanced",
+            "stars": 654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T17:20:41Z",
+            "owner": "krvstek",
+            "repo": "uni-apks",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-23T15:24:01Z",
+            "owner": "fromhgbwithluv",
+            "repo": "GmsCore",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-08T17:29:26Z",
+            "owner": "peternmuller",
+            "repo": "revanced-morphe-builder",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Batchfile",
+            "last_commit": "2024-11-13T17:43:46Z",
+            "owner": "taku-nm",
+            "repo": "auto-cli",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T00:39:17Z",
+            "owner": "Zenlua",
+            "repo": "AT-YT",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-31T15:09:25Z",
+            "owner": "n0k0m3",
+            "repo": "revanced-build-template",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-14T15:46:53Z",
+            "owner": "Xisrr1",
+            "repo": "Revancify-Xisr",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T10:02:46Z",
+            "owner": "nvbangg",
+            "repo": "builder-for-morphe",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-26T07:51:39Z",
+            "owner": "farag2",
+            "repo": "YouTube-Patcher",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-23T00:04:43Z",
+            "owner": "programminghoch10",
+            "repo": "ReVancedRepackaged",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-02T12:29:21Z",
+            "owner": "mentalblank",
+            "repo": "Messenger-Revanced",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2026-06-29T06:11:40Z",
+            "owner": "LeddaZ",
+            "repo": "morphe-repo",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-24T19:19:18Z",
+            "owner": "kazimmt",
+            "repo": "RVX-MMT-module",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-04-01T04:48:21Z",
+            "owner": "elliottophellia",
+            "repo": "revanced",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "⬇️ Builder"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⭐ Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:50:53.864Z",
+    "original_repository": "Jman-Github/Awesome-ReVanced",
+    "original_repository_sha": "2a5b247cbd4eddd191a9e074a067a5a8ce732bcd",
+    "enhanced_repository": "enhansome/enhansome-Awesome-ReVanced",
+    "enhanced_repository_description": null,
+    "title": "Jman-Github/Awesome-ReVanced with stars"
+  }
+}
