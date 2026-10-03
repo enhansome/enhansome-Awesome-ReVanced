@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "revanced-manager",
-              "description": null,
+              "description": "ReVanced/revanced-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -24,7 +24,7 @@
                 "open_issues": 204,
                 "owner": "ReVanced",
                 "repo": "revanced-manager",
-                "stars": 29709,
+                "stars": 29710,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "GmsCore",
-              "description": null,
+              "description": "ReVanced/GmsCore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -52,7 +52,7 @@
                 "open_issues": 18,
                 "owner": "ReVanced",
                 "repo": "GmsCore",
-                "stars": 4751,
+                "stars": 4754,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:15.028Z"
@@ -60,7 +60,7 @@
             {
               "node_type": "item",
               "title": "revanced-patches-template",
-              "description": null,
+              "description": "ReVanced/revanced-patches-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -88,7 +88,7 @@
             {
               "node_type": "item",
               "title": "revanced-patcher",
-              "description": null,
+              "description": "ReVanced/revanced-patcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "revanced-cli",
-              "description": null,
+              "description": "ReVanced/revanced-cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
                 "open_issues": 16,
                 "owner": "ReVanced",
                 "repo": "revanced-cli",
-                "stars": 1601,
+                "stars": 1600,
                 "topics": [
                   "cli",
                   "manager",
@@ -145,7 +145,7 @@
             {
               "node_type": "item",
               "title": "revanced-integrations",
-              "description": null,
+              "description": "ReVanced/revanced-integrations",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -170,7 +170,7 @@
             {
               "node_type": "item",
               "title": "revanced-documentation",
-              "description": null,
+              "description": "ReVanced/revanced-documentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -194,7 +194,7 @@
             {
               "node_type": "item",
               "title": "revanced-website",
-              "description": null,
+              "description": "ReVanced/revanced-website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "revanced-api",
-              "description": null,
+              "description": "ReVanced/revanced-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -246,7 +246,7 @@
             {
               "node_type": "item",
               "title": "revanced-manager-downloaders",
-              "description": null,
+              "description": "ReVanced/revanced-manager-downloaders",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "revanced-library",
-              "description": null,
+              "description": "ReVanced/revanced-library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -299,7 +299,7 @@
             {
               "node_type": "item",
               "title": "revanced-web-manager",
-              "description": null,
+              "description": "ReVanced/revanced-web-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -320,7 +320,7 @@
             {
               "node_type": "item",
               "title": "revanced-manager-play-store-downloader",
-              "description": null,
+              "description": "ReVanced/revanced-manager-play-store-downloader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
             {
               "node_type": "item",
               "title": "revanced-manager-downloaders-template",
-              "description": null,
+              "description": "ReVanced/revanced-manager-downloaders-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -378,7 +378,7 @@
             {
               "node_type": "item",
               "title": "revanced-patches-gradle-plugin",
-              "description": null,
+              "description": "ReVanced/revanced-patches-gradle-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -417,7 +417,7 @@
             {
               "node_type": "item",
               "title": "morphe-manager",
-              "description": null,
+              "description": "MorpheApp/morphe-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,11 +426,11 @@
                 "id": 1104751416,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T12:49:34Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-03T00:23:09Z",
+                "open_issues": 25,
                 "owner": "MorpheApp",
                 "repo": "morphe-manager",
-                "stars": 8562,
+                "stars": 8577,
                 "topics": [
                   "android",
                   "apk",
@@ -446,7 +446,7 @@
             {
               "node_type": "item",
               "title": "MicroG-RE",
-              "description": null,
+              "description": "MorpheApp/MicroG-RE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -455,11 +455,11 @@
                 "id": 725874642,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T11:40:18Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-03T03:50:00Z",
+                "open_issues": 20,
                 "owner": "MorpheApp",
                 "repo": "MicroG-RE",
-                "stars": 5465,
+                "stars": 5475,
                 "topics": [
                   "android",
                   "microg",
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "morphe-patches",
-              "description": null,
+              "description": "MorpheApp/morphe-patches",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -480,11 +480,11 @@
                 "id": 1104583075,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T13:31:49Z",
-                "open_issues": 535,
+                "last_commit": "2026-10-03T03:24:54Z",
+                "open_issues": 540,
                 "owner": "MorpheApp",
                 "repo": "morphe-patches",
-                "stars": 3879,
+                "stars": 3890,
                 "topics": [
                   "android",
                   "morphe"
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "morphe-desktop",
-              "description": null,
+              "description": "MorpheApp/morphe-desktop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -504,11 +504,11 @@
                 "id": 1104582686,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T09:43:37Z",
+                "last_commit": "2026-10-03T02:30:02Z",
                 "open_issues": 17,
                 "owner": "MorpheApp",
                 "repo": "morphe-desktop",
-                "stars": 620,
+                "stars": 621,
                 "topics": [
                   "android",
                   "apk",
@@ -521,7 +521,7 @@
             {
               "node_type": "item",
               "title": "morphe-patcher",
-              "description": null,
+              "description": "MorpheApp/morphe-patcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -530,7 +530,7 @@
                 "id": 1104582111,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T13:58:18Z",
+                "last_commit": "2026-10-03T03:38:58Z",
                 "open_issues": 12,
                 "owner": "MorpheApp",
                 "repo": "morphe-patcher",
@@ -545,7 +545,7 @@
             {
               "node_type": "item",
               "title": "morphe-documentation",
-              "description": null,
+              "description": "MorpheApp/morphe-documentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -568,7 +568,7 @@
             {
               "node_type": "item",
               "title": "morphe-patches-template",
-              "description": null,
+              "description": "MorpheApp/morphe-patches-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,7 +593,7 @@
             {
               "node_type": "item",
               "title": "morphe-patches-library",
-              "description": null,
+              "description": "MorpheApp/morphe-patches-library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -602,7 +602,7 @@
                 "id": 1197972078,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T22:29:03Z",
+                "last_commit": "2026-10-03T03:01:51Z",
                 "open_issues": 1,
                 "owner": "MorpheApp",
                 "repo": "morphe-patches-library",
@@ -614,7 +614,7 @@
             {
               "node_type": "item",
               "title": "morphe-website",
-              "description": null,
+              "description": "MorpheApp/morphe-website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -635,7 +635,7 @@
             {
               "node_type": "item",
               "title": "morphe-library",
-              "description": null,
+              "description": "MorpheApp/morphe-library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -656,7 +656,7 @@
             {
               "node_type": "item",
               "title": "morphe-branding",
-              "description": null,
+              "description": "MorpheApp/morphe-branding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -677,7 +677,7 @@
             {
               "node_type": "item",
               "title": "morphe-patches-gradle-plugin",
-              "description": null,
+              "description": "MorpheApp/morphe-patches-gradle-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -701,7 +701,7 @@
             {
               "node_type": "item",
               "title": "jadb",
-              "description": null,
+              "description": "MorpheApp/jadb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -730,7 +730,7 @@
         {
           "node_type": "item",
           "title": "Shizuku",
-          "description": null,
+          "description": "thedjchi/Shizuku",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -743,7 +743,7 @@
             "open_issues": 82,
             "owner": "thedjchi",
             "repo": "Shizuku",
-            "stars": 6087,
+            "stars": 6102,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -751,7 +751,7 @@
         {
           "node_type": "item",
           "title": "ReVanced-Documentation",
-          "description": null,
+          "description": "KobeW50/ReVanced-Documentation",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -772,7 +772,7 @@
         {
           "node_type": "item",
           "title": "revanced-documentation",
-          "description": null,
+          "description": "inotia00/revanced-documentation",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -793,7 +793,7 @@
         {
           "node_type": "item",
           "title": "Patches-Documentation",
-          "description": null,
+          "description": "ReVanced-Extended-Community/Patches-Documentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,7 +806,7 @@
             "open_issues": 1,
             "owner": "ReVanced-Extended-Community",
             "repo": "Patches-Documentation",
-            "stars": 223,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -814,7 +814,7 @@
         {
           "node_type": "item",
           "title": "Community-Guides",
-          "description": null,
+          "description": "ReVanced-Extended-Community/Community-Guides",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -835,12 +835,12 @@
         {
           "node_type": "item",
           "title": "morphe-documentation",
-          "description": null,
+          "description": "MorpheApp/morphe-documentation",
           "children": [
             {
               "node_type": "item",
               "title": "Basic patching guide",
-              "description": null,
+              "description": "MorpheApp/morphe-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -849,11 +849,11 @@
                 "id": 1104751416,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T12:49:34Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-03T00:23:09Z",
+                "open_issues": 25,
                 "owner": "MorpheApp",
                 "repo": "morphe-manager",
-                "stars": 8562,
+                "stars": 8577,
                 "topics": [
                   "android",
                   "apk",
@@ -869,7 +869,7 @@
             {
               "node_type": "item",
               "title": "Frequently asked questions",
-              "description": null,
+              "description": "MorpheApp/morphe-documentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -892,7 +892,7 @@
             {
               "node_type": "item",
               "title": "Troubleshooting Help",
-              "description": null,
+              "description": "MorpheApp/morphe-documentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -934,7 +934,7 @@
         {
           "node_type": "item",
           "title": "morphe-archive",
-          "description": null,
+          "description": "rushiforai/morphe-archive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -943,11 +943,11 @@
             "id": 1278644333,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-02T04:38:24Z",
+            "last_commit": "2026-10-03T04:07:33Z",
             "open_issues": 0,
             "owner": "rushiforai",
             "repo": "morphe-archive",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -955,7 +955,7 @@
         {
           "node_type": "item",
           "title": "revanced-for-dummies",
-          "description": null,
+          "description": "Francesco146/revanced-for-dummies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -984,7 +984,7 @@
             {
               "node_type": "item",
               "title": "awesome-morphe",
-              "description": null,
+              "description": "nvbangg/awesome-morphe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,7 +993,7 @@
                 "id": 1219854771,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:02:58Z",
+                "last_commit": "2026-10-03T03:02:50Z",
                 "open_issues": 0,
                 "owner": "nvbangg",
                 "repo": "awesome-morphe",
@@ -1018,7 +1018,7 @@
             {
               "node_type": "item",
               "title": "revanced-troubleshooting-guide",
-              "description": null,
+              "description": "SodaWithoutSparkles/revanced-troubleshooting-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1046,7 +1046,7 @@
             {
               "node_type": "item",
               "title": "morphe-track-patches",
-              "description": null,
+              "description": "drnx64/morphe-track-patches",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1055,7 +1055,7 @@
                 "id": 1274962994,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:50:19Z",
+                "last_commit": "2026-10-03T02:08:00Z",
                 "open_issues": 0,
                 "owner": "drnx64",
                 "repo": "morphe-track-patches",
@@ -1074,7 +1074,7 @@
             {
               "node_type": "item",
               "title": "Patch-Atlas",
-              "description": null,
+              "description": "shakir2117/Patch-Atlas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1102,7 +1102,7 @@
             {
               "node_type": "item",
               "title": "patch-explorer",
-              "description": null,
+              "description": "Paresh-Maheshwari/patch-explorer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1137,7 +1137,7 @@
             {
               "node_type": "item",
               "title": "kazimmt.github.io",
-              "description": null,
+              "description": "kazimmt/kazimmt.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1170,7 +1170,7 @@
         {
           "node_type": "item",
           "title": "piko",
-          "description": null,
+          "description": "crimera/piko",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1179,11 +1179,11 @@
             "id": 750390942,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T13:05:00Z",
-            "open_issues": 175,
+            "last_commit": "2026-10-03T00:21:26Z",
+            "open_issues": 174,
             "owner": "crimera",
             "repo": "piko",
-            "stars": 5503,
+            "stars": 5509,
             "topics": [
               "morphe",
               "morphe-patches"
@@ -1194,7 +1194,7 @@
         {
           "node_type": "item",
           "title": "BiliRoamingX",
-          "description": null,
+          "description": "BiliRoamingX/BiliRoamingX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1204,10 +1204,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-04-29T02:06:27Z",
-            "open_issues": 54,
+            "open_issues": 48,
             "owner": "BiliRoamingX",
             "repo": "BiliRoamingX",
-            "stars": 3828,
+            "stars": 3830,
             "topics": [
               "android",
               "bilibili",
@@ -1219,12 +1219,12 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "inotia00/revanced-patches",
           "children": [
             {
               "node_type": "item",
               "title": "revanced-integrations",
-              "description": null,
+              "description": "inotia00/revanced-integrations",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1262,12 +1262,12 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "anddea/revanced-patches",
           "children": [
             {
               "node_type": "item",
               "title": "revanced-integrations",
-              "description": null,
+              "description": "anddea/revanced-integrations",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1280,7 +1280,7 @@
                 "open_issues": 2,
                 "owner": "anddea",
                 "repo": "revanced-integrations",
-                "stars": 58,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1294,7 +1294,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-01T22:40:21Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "anddea",
             "repo": "revanced-patches",
             "stars": 1888,
@@ -1305,20 +1305,20 @@
         {
           "node_type": "item",
           "title": "De-Vanced",
-          "description": null,
+          "description": "RookieEnough/De-Vanced",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": "De-Vanced exists because the old way started getting frustrating, so I migrated everything to Morphe and turned it into a better, cleaner place to keep the experience alive.",
             "homepage": null,
             "id": 1170080143,
-            "language": "Kotlin",
+            "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T19:47:12Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-02T23:19:49Z",
+            "open_issues": 47,
             "owner": "RookieEnough",
             "repo": "De-Vanced",
-            "stars": 1293,
+            "stars": 1295,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1326,7 +1326,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "hoo-dles/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1339,7 +1339,7 @@
             "open_issues": 42,
             "owner": "hoo-dles",
             "repo": "morphe-patches",
-            "stars": 1169,
+            "stars": 1171,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1347,7 +1347,7 @@
         {
           "node_type": "item",
           "title": "patcheddit",
-          "description": null,
+          "description": "wchill/patcheddit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1360,7 +1360,7 @@
             "open_issues": 58,
             "owner": "wchill",
             "repo": "patcheddit",
-            "stars": 800,
+            "stars": 801,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1368,7 +1368,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "rushiranpise/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1381,7 +1381,7 @@
             "open_issues": 61,
             "owner": "rushiranpise",
             "repo": "morphe-patches",
-            "stars": 791,
+            "stars": 796,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1389,7 +1389,7 @@
         {
           "node_type": "item",
           "title": "Gboard-patches",
-          "description": null,
+          "description": "jasonwu1994/Gboard-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1402,7 +1402,7 @@
             "open_issues": 7,
             "owner": "jasonwu1994",
             "repo": "Gboard-patches",
-            "stars": 751,
+            "stars": 754,
             "topics": [
               "android",
               "gboard",
@@ -1416,12 +1416,12 @@
         {
           "node_type": "item",
           "title": "ReX-patches",
-          "description": null,
+          "description": "fromhgbwithluv/ReX-patches",
           "children": [
             {
               "node_type": "item",
               "title": "ReX-integrations",
-              "description": null,
+              "description": "fromhgbwithluv/ReX-integrations",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1459,7 +1459,7 @@
         {
           "node_type": "item",
           "title": "Nai64Patches",
-          "description": null,
+          "description": "Nai64/Nai64Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1469,7 +1469,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-10-01T12:56:47Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "Nai64",
             "repo": "Nai64Patches",
             "stars": 603,
@@ -1497,7 +1497,7 @@
         {
           "node_type": "item",
           "title": "piko-newx",
-          "description": null,
+          "description": "crimera/piko-newx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1507,10 +1507,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-02T03:34:46Z",
-            "open_issues": 24,
+            "open_issues": 27,
             "owner": "crimera",
             "repo": "piko-newx",
-            "stars": 430,
+            "stars": 431,
             "topics": []
           },
           "first_seen": "2026-09-20T13:14:20.476Z"
@@ -1518,7 +1518,7 @@
         {
           "node_type": "item",
           "title": "tiktok-patches-for-morphe",
-          "description": null,
+          "description": "icysymmetra/tiktok-patches-for-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1531,7 +1531,7 @@
             "open_issues": 75,
             "owner": "icysymmetra",
             "repo": "tiktok-patches-for-morphe",
-            "stars": 392,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1539,7 +1539,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "brosssh/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1560,7 +1560,7 @@
         {
           "node_type": "item",
           "title": "adobo",
-          "description": null,
+          "description": "jkennethcarino/adobo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1573,7 +1573,7 @@
             "open_issues": 14,
             "owner": "jkennethcarino",
             "repo": "adobo",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "adblocking",
               "android",
@@ -1594,7 +1594,7 @@
         {
           "node_type": "item",
           "title": "rvx-morphed",
-          "description": null,
+          "description": "wchill/rvx-morphed",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1615,7 +1615,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches-android6-7",
-          "description": null,
+          "description": "kitadai31/revanced-patches-android6-7",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1636,7 +1636,7 @@
         {
           "node_type": "item",
           "title": "hoomans-morphe-patches",
-          "description": null,
+          "description": "arandomhooman/hoomans-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1649,7 +1649,7 @@
             "open_issues": 13,
             "owner": "arandomhooman",
             "repo": "hoomans-morphe-patches",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1657,7 +1657,7 @@
         {
           "node_type": "item",
           "title": "BiliRoamingX",
-          "description": null,
+          "description": "sti-233/BiliRoamingX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1678,7 +1678,7 @@
         {
           "node_type": "item",
           "title": "morphe-androidtv-patches",
-          "description": null,
+          "description": "ajstrick81/morphe-androidtv-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1687,8 +1687,8 @@
             "id": 1241018623,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T00:49:23Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-02T15:55:26Z",
+            "open_issues": 8,
             "owner": "ajstrick81",
             "repo": "morphe-androidtv-patches",
             "stars": 201,
@@ -1699,7 +1699,7 @@
         {
           "node_type": "item",
           "title": "BiliRoamingM",
-          "description": null,
+          "description": "sakarie9/BiliRoamingM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1720,7 +1720,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "AmpleReVanced/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1750,7 +1750,7 @@
         {
           "node_type": "item",
           "title": "bannerhub-revanced",
-          "description": null,
+          "description": "The412Banner/bannerhub-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1759,7 +1759,7 @@
             "id": 1220932653,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-02T12:52:27Z",
+            "last_commit": "2026-10-03T02:06:51Z",
             "open_issues": 7,
             "owner": "The412Banner",
             "repo": "bannerhub-revanced",
@@ -1771,20 +1771,20 @@
         {
           "node_type": "item",
           "title": "HushFacebook",
-          "description": null,
+          "description": "SysAdminDoc/HushFacebook",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Hushfacebook v0.6.0: 59 patches for Facebook 580.0.0.51.74 with Morphe. Hide ads and suggested posts, save videos, tune playback and Reels, and use a focused Marketplace mode.",
+            "description": "Hushfacebook v0.7.0: 60 patches for Facebook 581.0.0.45.58 with Morphe. Hide ads and suggested posts, save videos, tune playback and Reels, and use a focused Marketplace mode.",
             "homepage": "https://github.com/SysAdminDoc/Hushfacebook/releases/latest",
             "id": 1386442796,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T11:58:33Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-03T03:58:05Z",
+            "open_issues": 37,
             "owner": "SysAdminDoc",
             "repo": "HushFacebook",
-            "stars": 154,
+            "stars": 167,
             "topics": [
               "ad-blocker",
               "android",
@@ -1802,7 +1802,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "binarymend/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1822,13 +1822,44 @@
         },
         {
           "node_type": "item",
+          "title": "HushFeed",
+          "description": "SysAdminDoc/HushFeed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hushfeed v0.67.0: 106 patches for TikTok 47.0.3, 47.1.3 and 47.1.4. Less clutter, better controls.",
+            "homepage": "https://github.com/SysAdminDoc/hushfeed/releases/latest",
+            "id": 1358094656,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-03T02:44:09Z",
+            "open_issues": 18,
+            "owner": "SysAdminDoc",
+            "repo": "HushFeed",
+            "stars": 133,
+            "topics": [
+              "android",
+              "customization",
+              "morphe",
+              "morphe-patches",
+              "patches",
+              "privacy",
+              "revanced",
+              "tiktok",
+              "video"
+            ]
+          },
+          "first_seen": "2026-09-07T14:29:16.869Z"
+        },
+        {
+          "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "rufusin/revanced-patches",
           "children": [
             {
               "node_type": "item",
               "title": "revanced-integrations",
-              "description": null,
+              "description": "rufusin/revanced-integrations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1866,12 +1897,12 @@
         {
           "node_type": "item",
           "title": "privacy-revanced-patches",
-          "description": null,
+          "description": "jkennethcarino/privacy-revanced-patches",
           "children": [
             {
               "node_type": "item",
               "title": "privacy-revanced-integrations",
-              "description": null,
+              "description": "jkennethcarino/privacy-revanced-integrations",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1929,39 +1960,8 @@
         },
         {
           "node_type": "item",
-          "title": "HushFeed",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hushfeed v0.66.0: 102 patches for TikTok 47.0.3, 47.1.3 and 47.1.4. Less clutter, better controls.",
-            "homepage": "https://github.com/SysAdminDoc/hushfeed/releases/latest",
-            "id": 1358094656,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T12:31:35Z",
-            "open_issues": 34,
-            "owner": "SysAdminDoc",
-            "repo": "HushFeed",
-            "stars": 129,
-            "topics": [
-              "android",
-              "customization",
-              "morphe",
-              "morphe-patches",
-              "patches",
-              "privacy",
-              "revanced",
-              "tiktok",
-              "video"
-            ]
-          },
-          "first_seen": "2026-09-07T14:29:16.869Z"
-        },
-        {
-          "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "bufferk/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1971,10 +1971,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-08-30T13:02:44Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "bufferk",
             "repo": "morphe-patches",
-            "stars": 120,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1982,7 +1982,7 @@
         {
           "node_type": "item",
           "title": "ReVancedExperiments",
-          "description": null,
+          "description": "Aunali321/ReVancedExperiments",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2002,8 +2002,50 @@
         },
         {
           "node_type": "item",
+          "title": "morphe-patches",
+          "description": "hxreborn/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🧩 Android patches for Morphe: AMOLED themes, ad removal and premium unlocks. Proton Mail, Cx File Explorer, Projectivy Launcher and more.",
+            "homepage": "https://morphe.software/add-source?github=hxreborn/morphe-patches",
+            "id": 1303692775,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-02T15:45:06Z",
+            "open_issues": 31,
+            "owner": "hxreborn",
+            "repo": "morphe-patches",
+            "stars": 103,
+            "topics": [
+              "1weather",
+              "adblock",
+              "amoled",
+              "android",
+              "android-tv",
+              "audible",
+              "cx-file-explorer",
+              "kick",
+              "morphe",
+              "morphe-patches",
+              "moviebox",
+              "patches",
+              "perplexity",
+              "projectivy",
+              "protonmail",
+              "protonvpn",
+              "readera",
+              "revanced",
+              "revanced-patches",
+              "terabox"
+            ]
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
           "title": "kveld-morphe-patches",
-          "description": null,
+          "description": "kveld9/kveld-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2012,11 +2054,11 @@
             "id": 1340143124,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T03:16:08Z",
+            "last_commit": "2026-10-02T17:45:51Z",
             "open_issues": 1,
             "owner": "kveld9",
             "repo": "kveld-morphe-patches",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "android",
               "morphe",
@@ -2030,7 +2072,7 @@
         {
           "node_type": "item",
           "title": "PixelBoard",
-          "description": null,
+          "description": "Akshayykadam/PixelBoard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2068,50 +2110,8 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🧩 Android patches for Morphe: AMOLED themes, ad removal and premium unlocks. Proton Mail, Cx File Explorer, Projectivy Launcher and more.",
-            "homepage": "https://morphe.software/add-source?github=hxreborn/morphe-patches",
-            "id": 1303692775,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T12:54:54Z",
-            "open_issues": 26,
-            "owner": "hxreborn",
-            "repo": "morphe-patches",
-            "stars": 100,
-            "topics": [
-              "1weather",
-              "adblock",
-              "amoled",
-              "android",
-              "android-tv",
-              "audible",
-              "cx-file-explorer",
-              "kick",
-              "morphe",
-              "morphe-patches",
-              "moviebox",
-              "patches",
-              "perplexity",
-              "projectivy",
-              "protonmail",
-              "protonvpn",
-              "readera",
-              "revanced",
-              "revanced-patches",
-              "terabox"
-            ]
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "Pixel-Camera",
-          "description": null,
+          "description": "Akshayykadam/Pixel-Camera",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2124,7 +2124,7 @@
             "open_issues": 7,
             "owner": "Akshayykadam",
             "repo": "Pixel-Camera",
-            "stars": 94,
+            "stars": 96,
             "topics": [
               "gcam",
               "google",
@@ -2136,8 +2136,29 @@
         },
         {
           "node_type": "item",
+          "title": "FroggoMorphePatches",
+          "description": "SapitoSucio/FroggoMorphePatches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1345847623,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-01T06:42:01Z",
+            "open_issues": 39,
+            "owner": "SapitoSucio",
+            "repo": "FroggoMorphePatches",
+            "stars": 93,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "andrewliang25/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2160,29 +2181,8 @@
         },
         {
           "node_type": "item",
-          "title": "FroggoMorphePatches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1345847623,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-01T06:42:01Z",
-            "open_issues": 39,
-            "owner": "SapitoSucio",
-            "repo": "FroggoMorphePatches",
-            "stars": 92,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "Dropped-Patches",
-          "description": null,
+          "description": "indrastorms/Dropped-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2210,7 +2210,7 @@
         {
           "node_type": "item",
           "title": "android-patches-xtra",
-          "description": null,
+          "description": "BholeyKaBhakt/android-patches-xtra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2223,7 +2223,7 @@
             "open_issues": 2,
             "owner": "BholeyKaBhakt",
             "repo": "android-patches-xtra",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -2231,7 +2231,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "andronedev/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2257,7 +2257,7 @@
         {
           "node_type": "item",
           "title": "Prathxm-Patches",
-          "description": null,
+          "description": "PrathxmOp/Prathxm-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2284,7 +2284,7 @@
         {
           "node_type": "item",
           "title": "morphe-meta-patches",
-          "description": null,
+          "description": "meridianfresco/morphe-meta-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2305,7 +2305,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "bearinmindcat/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2315,7 +2315,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T15:33:36Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "bearinmindcat",
             "repo": "morphe-patches",
             "stars": 69,
@@ -2326,12 +2326,12 @@
         {
           "node_type": "item",
           "title": "revanced-patches-android5",
-          "description": null,
+          "description": "d4n3436/revanced-patches-android5",
           "children": [
             {
               "node_type": "item",
               "title": "revanced-integrations",
-              "description": null,
+              "description": "d4n3436/revanced-integrations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2369,7 +2369,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches-arsclib",
-          "description": null,
+          "description": "inotia00/revanced-patches-arsclib",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2390,7 +2390,7 @@
         {
           "node_type": "item",
           "title": "Lain-Patches",
-          "description": null,
+          "description": "kiraio-moe/Lain-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2414,7 +2414,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "dh6k/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2434,8 +2434,29 @@
         },
         {
           "node_type": "item",
+          "title": "UniPatches",
+          "description": "Zanuaimi/UniPatches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Curated list of universal patches for Morphe, including community-driven patches with enhancements and original patches, focusing on quality over quantity",
+            "homepage": "https://morphe.software/add-source?github=Zanuaimi/UniPatches",
+            "id": 1357033174,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-03T02:34:31Z",
+            "open_issues": 2,
+            "owner": "Zanuaimi",
+            "repo": "UniPatches",
+            "stars": 59,
+            "topics": []
+          },
+          "first_seen": "2026-09-05T12:08:29.562Z"
+        },
+        {
+          "node_type": "item",
           "title": "browzomje-patches",
-          "description": null,
+          "description": "browzomje/browzomje-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2448,36 +2469,15 @@
             "open_issues": 5,
             "owner": "browzomje",
             "repo": "browzomje-patches",
-            "stars": 59,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
         },
         {
           "node_type": "item",
-          "title": "UniPatches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Curated list of universal patches for Morphe, including community-driven patches with enhancements and original patches, focusing on quality over quantity",
-            "homepage": "https://morphe.software/add-source?github=Zanuaimi/UniPatches",
-            "id": 1357033174,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T14:26:50Z",
-            "open_issues": 2,
-            "owner": "Zanuaimi",
-            "repo": "UniPatches",
-            "stars": 59,
-            "topics": []
-          },
-          "first_seen": "2026-09-05T12:08:29.562Z"
-        },
-        {
-          "node_type": "item",
           "title": "patched-up",
-          "description": null,
+          "description": "docbt/patched-up",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2487,7 +2487,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-09-01T08:46:00Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "docbt",
             "repo": "patched-up",
             "stars": 56,
@@ -2498,7 +2498,7 @@
         {
           "node_type": "item",
           "title": "Pairip-Patches",
-          "description": null,
+          "description": "sjshb57/Pairip-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2518,8 +2518,57 @@
         },
         {
           "node_type": "item",
+          "title": "HushMessenger",
+          "description": "SysAdminDoc/HushMessenger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patch source for Facebook Messenger 580.0.0.49.91 arm64. v0.8.0, 31 patches. Bring your own APK.",
+            "homepage": null,
+            "id": 1390107523,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-03T04:08:11Z",
+            "open_issues": 2,
+            "owner": "SysAdminDoc",
+            "repo": "HushMessenger",
+            "stars": 54,
+            "topics": [
+              "android",
+              "facebook",
+              "messenger",
+              "morphe",
+              "patches",
+              "revanced"
+            ]
+          },
+          "first_seen": "2026-09-28T17:03:34.552Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Nai64ExtraPatches",
+          "description": "Nai64/Nai64ExtraPatches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1376184436,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-26T08:56:00Z",
+            "open_issues": 4,
+            "owner": "Nai64",
+            "repo": "Nai64ExtraPatches",
+            "stars": 53,
+            "topics": []
+          },
+          "first_seen": "2026-09-23T13:53:17.690Z"
+        },
+        {
+          "node_type": "item",
           "title": "morphe-google-photos",
-          "description": null,
+          "description": "Akash-Sriram/morphe-google-photos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2539,57 +2588,8 @@
         },
         {
           "node_type": "item",
-          "title": "HushMessenger",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe patch source for Facebook Messenger 580.0.0.49.91 arm64. v0.8.0, 31 patches. Bring your own APK.",
-            "homepage": null,
-            "id": 1390107523,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T13:59:51Z",
-            "open_issues": 9,
-            "owner": "SysAdminDoc",
-            "repo": "HushMessenger",
-            "stars": 52,
-            "topics": [
-              "android",
-              "facebook",
-              "messenger",
-              "morphe",
-              "patches",
-              "revanced"
-            ]
-          },
-          "first_seen": "2026-09-28T17:03:34.552Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Nai64ExtraPatches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1376184436,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-26T08:56:00Z",
-            "open_issues": 3,
-            "owner": "Nai64",
-            "repo": "Nai64ExtraPatches",
-            "stars": 51,
-            "topics": []
-          },
-          "first_seen": "2026-09-23T13:53:17.690Z"
-        },
-        {
-          "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "xob0t/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2602,7 +2602,7 @@
             "open_issues": 3,
             "owner": "xob0t",
             "repo": "morphe-patches",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -2610,7 +2610,7 @@
         {
           "node_type": "item",
           "title": "edge-morphe-patches",
-          "description": null,
+          "description": "quantavil/edge-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2635,7 +2635,7 @@
         {
           "node_type": "item",
           "title": "Morning-Entree-Patches",
-          "description": null,
+          "description": "Entree3k/Morning-Entree-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2655,8 +2655,38 @@
         },
         {
           "node_type": "item",
+          "title": "HushGram",
+          "description": "SysAdminDoc/HushGram",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "HushGram v0.0.4: Morphe patches for Instagram on Android that hide ads and suggested posts, clean the links you share and stop analytics uploads. 46 patches for Instagram 449.0.0.52.84.",
+            "homepage": null,
+            "id": 1396702546,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-03T03:09:29Z",
+            "open_issues": 29,
+            "owner": "SysAdminDoc",
+            "repo": "HushGram",
+            "stars": 47,
+            "topics": [
+              "ad-blocker",
+              "android",
+              "customization",
+              "instagram",
+              "morphe",
+              "morphe-patches",
+              "patches",
+              "privacy"
+            ]
+          },
+          "first_seen": "2026-10-02T15:05:56.844Z"
+        },
+        {
+          "node_type": "item",
           "title": "chiggi_morphe_patches",
-          "description": null,
+          "description": "durgesh0505/chiggi_morphe_patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2677,7 +2707,7 @@
         {
           "node_type": "item",
           "title": "okish-morphe-patches",
-          "description": null,
+          "description": "byehi98/okish-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2698,7 +2728,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches-grindr",
-          "description": null,
+          "description": "Slenderman00/revanced-patches-grindr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2719,7 +2749,7 @@
         {
           "node_type": "item",
           "title": "Ri-Vanced-Universal-Morphe-Patches",
-          "description": null,
+          "description": "rushiranpise/Ri-Vanced-Universal-Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2739,29 +2769,8 @@
         },
         {
           "node_type": "item",
-          "title": "HushGram",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "HushGram v0.0.3: Morphe patches for Instagram on Android that hide ads and suggested posts, clean the links you share and stop analytics uploads. 35 patches for Instagram 449.0.0.52.84.",
-            "homepage": null,
-            "id": 1396702546,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T11:37:38Z",
-            "open_issues": 17,
-            "owner": "SysAdminDoc",
-            "repo": "HushGram",
-            "stars": 42,
-            "topics": []
-          },
-          "first_seen": "2026-10-02T15:05:56.844Z"
-        },
-        {
-          "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "kondratjev/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2782,7 +2791,7 @@
         {
           "node_type": "item",
           "title": "hxreborn-tiktok-patches",
-          "description": null,
+          "description": "hxreborn/hxreborn-tiktok-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2814,7 +2823,7 @@
         {
           "node_type": "item",
           "title": "pinterest-morphed",
-          "description": null,
+          "description": "SouBryan/pinterest-morphed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2847,7 +2856,7 @@
         {
           "node_type": "item",
           "title": "Haiagaru-Morphe",
-          "description": null,
+          "description": "areteruhiro/Haiagaru-Morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2856,8 +2865,8 @@
             "id": 1362917541,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T14:43:42Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T03:57:16Z",
+            "open_issues": 8,
             "owner": "areteruhiro",
             "repo": "Haiagaru-Morphe",
             "stars": 35,
@@ -2868,7 +2877,7 @@
         {
           "node_type": "item",
           "title": "fluffy-patches",
-          "description": null,
+          "description": "rabilrbl/fluffy-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2895,7 +2904,7 @@
         {
           "node_type": "item",
           "title": "miguel-morphe-patches",
-          "description": null,
+          "description": "MiguelNinja19/miguel-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2916,7 +2925,7 @@
         {
           "node_type": "item",
           "title": "FTL-Patches",
-          "description": null,
+          "description": "BlazeFTL/FTL-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2925,7 +2934,7 @@
             "id": 1327050341,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T12:48:50Z",
+            "last_commit": "2026-10-02T19:09:31Z",
             "open_issues": 1,
             "owner": "BlazeFTL",
             "repo": "FTL-Patches",
@@ -2937,7 +2946,7 @@
         {
           "node_type": "item",
           "title": "Flexboard",
-          "description": null,
+          "description": "JZ6/Flexboard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2958,7 +2967,7 @@
         {
           "node_type": "item",
           "title": "revanced-custom-patches",
-          "description": null,
+          "description": "hoo-dles/revanced-custom-patches",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2979,7 +2988,7 @@
         {
           "node_type": "item",
           "title": "twitter-patches",
-          "description": null,
+          "description": "IndusAryan/twitter-patches",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3008,7 +3017,7 @@
         {
           "node_type": "item",
           "title": "HK-Morphe-Patches",
-          "description": null,
+          "description": "humzakh/HK-Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3031,7 +3040,7 @@
         {
           "node_type": "item",
           "title": "liongalahad-nuviotv-morphe-patches",
-          "description": null,
+          "description": "liongalahad/liongalahad-nuviotv-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3052,7 +3061,7 @@
         {
           "node_type": "item",
           "title": "liongalahad-nuviotv-morphe-patches",
-          "description": null,
+          "description": "liongalahad/liongalahad-nuviotv-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3073,7 +3082,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "PixelPusher247/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3094,7 +3103,7 @@
         {
           "node_type": "item",
           "title": "max-patches",
-          "description": null,
+          "description": "RealCyberwash/max-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3115,7 +3124,7 @@
         {
           "node_type": "item",
           "title": "saiesh-morphe-patches",
-          "description": null,
+          "description": "saieshshirodkar/saiesh-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3136,7 +3145,7 @@
         {
           "node_type": "item",
           "title": "tidal-debug-menu",
-          "description": null,
+          "description": "eyalm2000/tidal-debug-menu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3162,7 +3171,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "franticg33k/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3183,7 +3192,7 @@
         {
           "node_type": "item",
           "title": "Heval-Morphe-Patches",
-          "description": null,
+          "description": "heval99/Heval-Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3204,7 +3213,7 @@
         {
           "node_type": "item",
           "title": "Heval-Morphe-Patches",
-          "description": null,
+          "description": "heval99/Heval-Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3225,16 +3234,16 @@
         {
           "node_type": "item",
           "title": "HushThreads",
-          "description": null,
+          "description": "SysAdminDoc/HushThreads",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "HushThreads v0.0.3: Morphe patches that take the ads out of your Threads feed and clean the links you share. 6 patches for Threads 449.0.0.54.82.",
+            "description": "HushThreads v0.0.4: Morphe patches that take the ads out of your Threads feed and clean the links you share. 10 patches for Threads 449.0.0.54.82.",
             "homepage": "https://github.com/SysAdminDoc/HushThreads/releases/latest",
             "id": 1396704589,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T14:39:24Z",
+            "last_commit": "2026-10-03T03:19:56Z",
             "open_issues": 3,
             "owner": "SysAdminDoc",
             "repo": "HushThreads",
@@ -3256,7 +3265,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "polka-bear/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3277,7 +3286,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "riky-dev/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3298,7 +3307,7 @@
         {
           "node_type": "item",
           "title": "gmaps-patches",
-          "description": null,
+          "description": "fangkampanat/gmaps-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3319,7 +3328,7 @@
         {
           "node_type": "item",
           "title": "stylus",
-          "description": null,
+          "description": "ch3thanhs/stylus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3347,7 +3356,7 @@
         {
           "node_type": "item",
           "title": "letterboxd-morphe-patches",
-          "description": null,
+          "description": "mvaishak/letterboxd-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3375,8 +3384,29 @@
         },
         {
           "node_type": "item",
+          "title": "morphe-patches",
+          "description": "spicetify/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Spicetify Android patches for use with Morphe",
+            "homepage": null,
+            "id": 1374648129,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-02T15:50:22Z",
+            "open_issues": 5,
+            "owner": "spicetify",
+            "repo": "morphe-patches",
+            "stars": 20,
+            "topics": []
+          },
+          "first_seen": "2026-09-18T13:11:38.802Z"
+        },
+        {
+          "node_type": "item",
           "title": "Wagg13Patch_Morphe",
-          "description": null,
+          "description": "WaggBR/Wagg13Patch_Morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3397,7 +3427,7 @@
         {
           "node_type": "item",
           "title": "Morphe-patches",
-          "description": null,
+          "description": "Quantro100/Morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3418,7 +3448,7 @@
         {
           "node_type": "item",
           "title": "mix-patches",
-          "description": null,
+          "description": "IMXEren/mix-patches",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3439,7 +3469,7 @@
         {
           "node_type": "item",
           "title": "ameen-morphe",
-          "description": null,
+          "description": "ameenalasady/ameen-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3471,7 +3501,7 @@
         {
           "node_type": "item",
           "title": "zpatches",
-          "description": null,
+          "description": "cesbar/zpatches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3491,29 +3521,8 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Spicetify Android patches for use with Morphe",
-            "homepage": null,
-            "id": 1374648129,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-01T10:12:23Z",
-            "open_issues": 5,
-            "owner": "spicetify",
-            "repo": "morphe-patches",
-            "stars": 19,
-            "topics": []
-          },
-          "first_seen": "2026-09-18T13:11:38.802Z"
-        },
-        {
-          "node_type": "item",
           "title": "Morphe-Patches",
-          "description": null,
+          "description": "abhis1n/Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3534,7 +3543,7 @@
         {
           "node_type": "item",
           "title": "proxma-patches",
-          "description": null,
+          "description": "totsiaw/proxma-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3555,7 +3564,7 @@
         {
           "node_type": "item",
           "title": "ipusnas-patches",
-          "description": null,
+          "description": "kuchingneko28/ipusnas-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3576,7 +3585,7 @@
         {
           "node_type": "item",
           "title": "my-morphe-patches",
-          "description": null,
+          "description": "Almewty/my-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3597,7 +3606,7 @@
         {
           "node_type": "item",
           "title": "gemini-patches",
-          "description": null,
+          "description": "ariecos/gemini-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3618,7 +3627,7 @@
         {
           "node_type": "item",
           "title": "Xhehab-Patches",
-          "description": null,
+          "description": "Xhehab/Xhehab-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3639,7 +3648,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "ShuhaibNC/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3649,7 +3658,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-10-01T06:49:05Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "ShuhaibNC",
             "repo": "morphe-patches",
             "stars": 16,
@@ -3663,7 +3672,7 @@
         {
           "node_type": "item",
           "title": "apk-patches",
-          "description": null,
+          "description": "lennyRBLX/apk-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3684,7 +3693,7 @@
         {
           "node_type": "item",
           "title": "LaKakaShitPatches",
-          "description": null,
+          "description": "LaKakaReal/LaKakaShitPatches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3705,7 +3714,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-samsung",
-          "description": null,
+          "description": "bigyank/morphe-patches-samsung",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3726,7 +3735,7 @@
         {
           "node_type": "item",
           "title": "morphe-google-patches",
-          "description": null,
+          "description": "Ripthulhu/morphe-google-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3747,7 +3756,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "zeldrisho/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3757,7 +3766,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T12:52:08Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "zeldrisho",
             "repo": "morphe-patches",
             "stars": 14,
@@ -3768,7 +3777,7 @@
         {
           "node_type": "item",
           "title": "liongalahad-stremio-morphe-patches",
-          "description": null,
+          "description": "liongalahad/liongalahad-stremio-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3794,7 +3803,7 @@
         {
           "node_type": "item",
           "title": "dual-vot-patches",
-          "description": null,
+          "description": "sashade8-ship-it/dual-vot-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3803,8 +3812,8 @@
             "id": 1309958250,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T19:42:27Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-02T18:24:03Z",
+            "open_issues": 7,
             "owner": "sashade8-ship-it",
             "repo": "dual-vot-patches",
             "stars": 13,
@@ -3822,7 +3831,7 @@
         {
           "node_type": "item",
           "title": "HellveticaPatches",
-          "description": null,
+          "description": "HellveticaStandard/HellveticaPatches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3843,7 +3852,7 @@
         {
           "node_type": "item",
           "title": "revanced-molten-glass",
-          "description": null,
+          "description": "Faith001/revanced-molten-glass",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3864,7 +3873,7 @@
         {
           "node_type": "item",
           "title": "Platypatch",
-          "description": null,
+          "description": "Joristdh/Platypatch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3885,7 +3894,7 @@
         {
           "node_type": "item",
           "title": "eksi-morphe",
-          "description": null,
+          "description": "HvQ/eksi-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3905,8 +3914,29 @@
         },
         {
           "node_type": "item",
+          "title": "morphe-patches",
+          "description": "legendsciber/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "legendsciber's Patches - Morphe patches",
+            "homepage": null,
+            "id": 1343938695,
+            "language": "Kotlin",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-01T01:12:03Z",
+            "open_issues": 0,
+            "owner": "legendsciber",
+            "repo": "morphe-patches",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
           "title": "gemini-microg-patches",
-          "description": null,
+          "description": "ryuya0124/gemini-microg-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3927,7 +3957,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "kolaron/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3948,7 +3978,7 @@
         {
           "node_type": "item",
           "title": "rabehx-patches",
-          "description": null,
+          "description": "RabehX/rabehx-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3968,29 +3998,8 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "legendsciber's Patches - Morphe patches",
-            "homepage": null,
-            "id": 1343938695,
-            "language": "Kotlin",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-01T01:12:03Z",
-            "open_issues": 0,
-            "owner": "legendsciber",
-            "repo": "morphe-patches",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "Morphe-Patches",
-          "description": null,
+          "description": "Alastor-Kaneki/Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4011,7 +4020,7 @@
         {
           "node_type": "item",
           "title": "android-patches",
-          "description": null,
+          "description": "Epxec/android-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4020,8 +4029,8 @@
             "id": 1356891325,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T19:48:53Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T16:05:46Z",
+            "open_issues": 2,
             "owner": "Epxec",
             "repo": "android-patches",
             "stars": 10,
@@ -4032,7 +4041,7 @@
         {
           "node_type": "item",
           "title": "Telegram-patchesMorphe",
-          "description": null,
+          "description": "MoonShadowKeeper/Telegram-patchesMorphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4053,7 +4062,7 @@
         {
           "node_type": "item",
           "title": "vocacolle-morphe-patches",
-          "description": null,
+          "description": "ilikeadofai/vocacolle-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4082,7 +4091,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "d0nj/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4103,7 +4112,7 @@
         {
           "node_type": "item",
           "title": "logm1lo-patches",
-          "description": null,
+          "description": "logm1lo/logm1lo-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4124,7 +4133,7 @@
         {
           "node_type": "item",
           "title": "steamlink-patches",
-          "description": null,
+          "description": "AngelDark92/steamlink-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4145,7 +4154,7 @@
         {
           "node_type": "item",
           "title": "D-moniakPatches",
-          "description": null,
+          "description": "SatanMerde/D-moniakPatches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4154,7 +4163,7 @@
             "id": 1373943995,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T14:56:53Z",
+            "last_commit": "2026-10-02T20:58:36Z",
             "open_issues": 0,
             "owner": "SatanMerde",
             "repo": "D-moniakPatches",
@@ -4166,7 +4175,7 @@
         {
           "node_type": "item",
           "title": "pepper-morphe-patches",
-          "description": null,
+          "description": "PawiX25/pepper-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4187,7 +4196,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "Taknok/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4208,7 +4217,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-ihealth",
-          "description": null,
+          "description": "bdgerszewski/morphe-patches-ihealth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4229,7 +4238,7 @@
         {
           "node_type": "item",
           "title": "gryphous-morphe-patches",
-          "description": null,
+          "description": "NekoGryphou/gryphous-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4255,7 +4264,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "shaun-the-sheep-patches/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4276,7 +4285,7 @@
         {
           "node_type": "item",
           "title": "letterboxd-stremio-morphe-patch",
-          "description": null,
+          "description": "ethanm6/letterboxd-stremio-morphe-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4285,7 +4294,7 @@
             "id": 1273189330,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T11:14:43Z",
+            "last_commit": "2026-10-03T02:52:02Z",
             "open_issues": 0,
             "owner": "ethanm6",
             "repo": "letterboxd-stremio-morphe-patch",
@@ -4304,7 +4313,7 @@
         {
           "node_type": "item",
           "title": "tiaruebar-patches",
-          "description": null,
+          "description": "tiaruebar1024/tiaruebar-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4325,7 +4334,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "rhubarbshoelaces/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4346,7 +4355,7 @@
         {
           "node_type": "item",
           "title": "vk-video-morphe-patches",
-          "description": null,
+          "description": "Solvo37/vk-video-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4355,7 +4364,7 @@
             "id": 1377150494,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T02:40:05Z",
+            "last_commit": "2026-10-02T19:13:12Z",
             "open_issues": 3,
             "owner": "Solvo37",
             "repo": "vk-video-morphe-patches",
@@ -4366,8 +4375,39 @@
         },
         {
           "node_type": "item",
+          "title": "HushTelegram",
+          "description": "SysAdminDoc/HushTelegram",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "HushTelegram v0.0.6: Morphe patches that take sponsored messages, search ads, Stories and upsells out of Telegram and keep its usage reports on your phone. 18 patches for Telegram 12.10.6.",
+            "homepage": "https://github.com/SysAdminDoc/HushTelegram/releases/latest",
+            "id": 1399078002,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-03T02:46:59Z",
+            "open_issues": 1,
+            "owner": "SysAdminDoc",
+            "repo": "HushTelegram",
+            "stars": 8,
+            "topics": [
+              "ad-blocker",
+              "android",
+              "customization",
+              "morphe",
+              "morphe-patches",
+              "patches",
+              "privacy",
+              "revanced",
+              "telegram"
+            ]
+          },
+          "first_seen": "2026-10-02T15:05:56.844Z"
+        },
+        {
+          "node_type": "item",
           "title": "android-patches",
-          "description": null,
+          "description": "AlexNaga/android-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4388,7 +4428,7 @@
         {
           "node_type": "item",
           "title": "youtube-domain-fronting-patch",
-          "description": null,
+          "description": "loskutov/youtube-domain-fronting-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4409,7 +4449,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "1fexd/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4430,7 +4470,7 @@
         {
           "node_type": "item",
           "title": "morphe-screenshot-patches",
-          "description": null,
+          "description": "Pa-kon/morphe-screenshot-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4451,7 +4491,7 @@
         {
           "node_type": "item",
           "title": "movistar-block-ads-morphe",
-          "description": null,
+          "description": "Tornillo2/movistar-block-ads-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4472,7 +4512,7 @@
         {
           "node_type": "item",
           "title": "Jouss-Patches",
-          "description": null,
+          "description": "Joussflls10/Jouss-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4493,7 +4533,7 @@
         {
           "node_type": "item",
           "title": "PetalMaps-NonHuawei",
-          "description": null,
+          "description": "andersonlucasg3/PetalMaps-NonHuawei",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4514,7 +4554,7 @@
         {
           "node_type": "item",
           "title": "aapam-patches",
-          "description": null,
+          "description": "WZSE/aapam-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4535,7 +4575,7 @@
         {
           "node_type": "item",
           "title": "anime-witcher-patches",
-          "description": null,
+          "description": "catsmoker/anime-witcher-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4563,7 +4603,7 @@
         {
           "node_type": "item",
           "title": "anxy-patches",
-          "description": null,
+          "description": "anxyis/anxy-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4584,7 +4624,7 @@
         {
           "node_type": "item",
           "title": "aimal-patches",
-          "description": null,
+          "description": "hashtagbasit/aimal-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4613,7 +4653,7 @@
         {
           "node_type": "item",
           "title": "morphe-busuu",
-          "description": null,
+          "description": "Trimpsuz/morphe-busuu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4638,7 +4678,7 @@
         {
           "node_type": "item",
           "title": "gmscore-patches",
-          "description": null,
+          "description": "ayushTNM/gmscore-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4659,7 +4699,7 @@
         {
           "node_type": "item",
           "title": "MicroG-Patches-Re",
-          "description": null,
+          "description": "kangrio/MicroG-Patches-Re",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4680,7 +4720,7 @@
         {
           "node_type": "item",
           "title": "teamsnap-patches",
-          "description": null,
+          "description": "osirisad/teamsnap-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4701,7 +4741,7 @@
         {
           "node_type": "item",
           "title": "abeja-morphe-patches",
-          "description": null,
+          "description": "TheRealCrazyfuy/abeja-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4722,7 +4762,7 @@
         {
           "node_type": "item",
           "title": "Seobject-patches",
-          "description": null,
+          "description": "Seobject/Seobject-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4743,7 +4783,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-yavot",
-          "description": null,
+          "description": "MarcaDian/morphe-patches-yavot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4764,7 +4804,7 @@
         {
           "node_type": "item",
           "title": "sofatime-patches",
-          "description": null,
+          "description": "alan7383/sofatime-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4773,7 +4813,7 @@
             "id": 1312883995,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T08:08:01Z",
+            "last_commit": "2026-10-02T20:28:46Z",
             "open_issues": 0,
             "owner": "alan7383",
             "repo": "sofatime-patches",
@@ -4785,7 +4825,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "GoldRift/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4806,7 +4846,7 @@
         {
           "node_type": "item",
           "title": "rustore-privacy-patches",
-          "description": null,
+          "description": "Freeman022026/rustore-privacy-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4827,7 +4867,7 @@
         {
           "node_type": "item",
           "title": "telegram-patches",
-          "description": null,
+          "description": "Hari-sys786/telegram-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4855,7 +4895,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "dowjames/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4875,8 +4915,50 @@
         },
         {
           "node_type": "item",
+          "title": "media-patches",
+          "description": "HellLord77/media-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1368003510,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-02T17:43:28Z",
+            "open_issues": 3,
+            "owner": "HellLord77",
+            "repo": "media-patches",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-09-23T13:53:17.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "morphe-fb-lite",
+          "description": "ToThangGTVT/morphe-fb-lite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1399634493,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-01T14:11:12Z",
+            "open_issues": 2,
+            "owner": "ToThangGTVT",
+            "repo": "morphe-fb-lite",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-10-02T15:05:56.844Z"
+        },
+        {
+          "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "kareemlukitomo/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4897,7 +4979,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "liaralabs/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4921,7 +5003,7 @@
         {
           "node_type": "item",
           "title": "realme-link-patches",
-          "description": null,
+          "description": "lyyako/realme-link-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4942,7 +5024,7 @@
         {
           "node_type": "item",
           "title": "morphe-portal-patch",
-          "description": null,
+          "description": "andronedev/morphe-portal-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4965,7 +5047,7 @@
         {
           "node_type": "item",
           "title": "dbtcoach-morphe-patches",
-          "description": null,
+          "description": "mxkrgt/dbtcoach-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4986,7 +5068,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "Hiosdra/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5007,7 +5089,7 @@
         {
           "node_type": "item",
           "title": "tidal-patches",
-          "description": null,
+          "description": "chukfinley/tidal-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5028,7 +5110,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-template",
-          "description": null,
+          "description": "RoundSalmon4/morphe-patches-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5048,42 +5130,8 @@
         },
         {
           "node_type": "item",
-          "title": "revanced-patches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ReVanced patches for ZEE5 and SonyLIV — disable video ads on Android TV and mobile builds. Add to ReVanced Manager via URL, or apply with ReVanced CLI.",
-            "homepage": null,
-            "id": 1326278593,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-15T16:57:54Z",
-            "open_issues": 0,
-            "owner": "dbhavsar76",
-            "repo": "revanced-patches",
-            "stars": 5,
-            "topics": [
-              "ad-blocking",
-              "adblock",
-              "android",
-              "apk",
-              "apk-patch",
-              "kotlin",
-              "kotlin-android",
-              "revanced",
-              "revanced-patches",
-              "reverse-engineering",
-              "sonyliv",
-              "zee5"
-            ]
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "ang3lo-azevedo/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5104,7 +5152,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "XTapped/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5125,7 +5173,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "Z-drgon/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5146,7 +5194,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "V4n1X/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5167,7 +5215,7 @@
         {
           "node_type": "item",
           "title": "discord-patches",
-          "description": null,
+          "description": "jrddupont/discord-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5188,7 +5236,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "drosoCode/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5209,7 +5257,7 @@
         {
           "node_type": "item",
           "title": "T2C-App-Patch-Morphe",
-          "description": null,
+          "description": "dumb-software/T2C-App-Patch-Morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5230,7 +5278,7 @@
         {
           "node_type": "item",
           "title": "R3D-PatchLab",
-          "description": null,
+          "description": "xxxR3Dxxx/R3D-PatchLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5250,29 +5298,8 @@
         },
         {
           "node_type": "item",
-          "title": "media-patches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1368003510,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T07:33:02Z",
-            "open_issues": 2,
-            "owner": "HellLord77",
-            "repo": "media-patches",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-09-23T13:53:17.690Z"
-        },
-        {
-          "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "Plyrs1/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5293,7 +5320,7 @@
         {
           "node_type": "item",
           "title": "telegram-morphe-patches-",
-          "description": null,
+          "description": "newuser7171/telegram-morphe-patches-",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5314,7 +5341,7 @@
         {
           "node_type": "item",
           "title": "chrome-morphe",
-          "description": null,
+          "description": "matthewclso/chrome-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5334,39 +5361,8 @@
         },
         {
           "node_type": "item",
-          "title": "HushTelegram",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "HushTelegram v0.0.4: Morphe patches that take sponsored messages and search ads out of Telegram and keep its usage reports on your phone. 4 patches for Telegram 12.10.6.",
-            "homepage": "https://github.com/SysAdminDoc/HushTelegram/releases/latest",
-            "id": 1399078002,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T14:21:41Z",
-            "open_issues": 2,
-            "owner": "SysAdminDoc",
-            "repo": "HushTelegram",
-            "stars": 5,
-            "topics": [
-              "ad-blocker",
-              "android",
-              "customization",
-              "morphe",
-              "morphe-patches",
-              "patches",
-              "privacy",
-              "revanced",
-              "telegram"
-            ]
-          },
-          "first_seen": "2026-10-02T15:05:56.844Z"
-        },
-        {
-          "node_type": "item",
           "title": "pepper-revanced-patches",
-          "description": null,
+          "description": "PawiX25/pepper-revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5387,7 +5383,7 @@
         {
           "node_type": "item",
           "title": "sticknodes-patches",
-          "description": null,
+          "description": "vinceTheProgrammer/sticknodes-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5408,7 +5404,7 @@
         {
           "node_type": "item",
           "title": "ImmortalZeus-Morphe-Patches",
-          "description": null,
+          "description": "ImmortalZeus/ImmortalZeus-Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5429,7 +5425,7 @@
         {
           "node_type": "item",
           "title": "yt-ya.voiceover-android-patches",
-          "description": null,
+          "description": "dalapenko/yt-ya.voiceover-android-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5450,7 +5446,7 @@
         {
           "node_type": "item",
           "title": "cobalt-morphe",
-          "description": null,
+          "description": "skulldogged/cobalt-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5471,7 +5467,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "variablenine/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5492,7 +5488,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "Jl4cTuk/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5513,7 +5509,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "LaBlazer/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5534,7 +5530,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "eZ4RK0/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5555,7 +5551,7 @@
         {
           "node_type": "item",
           "title": "patches",
-          "description": null,
+          "description": "hu-liberator/patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5576,7 +5572,7 @@
         {
           "node_type": "item",
           "title": "morph-patches",
-          "description": null,
+          "description": "JonnyVR1/morph-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5597,7 +5593,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "spookyexe/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5617,8 +5613,42 @@
         },
         {
           "node_type": "item",
+          "title": "revanced-patches",
+          "description": "dbhavsar76/revanced-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ReVanced patches for ZEE5 and SonyLIV — disable video ads on Android TV and mobile builds. Add to ReVanced Manager via URL, or apply with ReVanced CLI.",
+            "homepage": null,
+            "id": 1326278593,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-15T16:57:54Z",
+            "open_issues": 0,
+            "owner": "dbhavsar76",
+            "repo": "revanced-patches",
+            "stars": 4,
+            "topics": [
+              "ad-blocking",
+              "adblock",
+              "android",
+              "apk",
+              "apk-patch",
+              "kotlin",
+              "kotlin-android",
+              "revanced",
+              "revanced-patches",
+              "reverse-engineering",
+              "sonyliv",
+              "zee5"
+            ]
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
           "title": "braintropy-patches",
-          "description": null,
+          "description": "braiNtropy/braintropy-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5639,7 +5669,7 @@
         {
           "node_type": "item",
           "title": "imgur-patches",
-          "description": null,
+          "description": "sushruth/imgur-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5660,7 +5690,7 @@
         {
           "node_type": "item",
           "title": "slight-patches",
-          "description": null,
+          "description": "HSlightsteel/slight-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5681,7 +5711,7 @@
         {
           "node_type": "item",
           "title": "iptv-morphe-patches",
-          "description": null,
+          "description": "Okazakee/iptv-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5690,8 +5720,8 @@
             "id": 1350741560,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T14:12:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-02T16:34:10Z",
+            "open_issues": 4,
             "owner": "Okazakee",
             "repo": "iptv-morphe-patches",
             "stars": 4,
@@ -5702,7 +5732,7 @@
         {
           "node_type": "item",
           "title": "diskwala-patches",
-          "description": null,
+          "description": "kuntal-devrat/diskwala-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5723,7 +5753,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "debakarr/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5732,7 +5762,7 @@
             "id": 1358117927,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T11:41:27Z",
+            "last_commit": "2026-10-02T15:59:57Z",
             "open_issues": 0,
             "owner": "debakarr",
             "repo": "morphe-patches",
@@ -5744,7 +5774,7 @@
         {
           "node_type": "item",
           "title": "morphe-ytvr-patches",
-          "description": null,
+          "description": "WalkTheEarth/morphe-ytvr-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5765,7 +5795,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-tiktok-lite-only",
-          "description": null,
+          "description": "MohamedElnaggar00/morphe-patches-tiktok-lite-only",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5786,7 +5816,7 @@
         {
           "node_type": "item",
           "title": "mixplorer-patches-for-morphe",
-          "description": null,
+          "description": "ak800i/mixplorer-patches-for-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5807,7 +5837,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "hackingguy/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5828,7 +5858,7 @@
         {
           "node_type": "item",
           "title": "twitch-morphe-patch",
-          "description": null,
+          "description": "Canic/twitch-morphe-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5849,7 +5879,7 @@
         {
           "node_type": "item",
           "title": "psychonaut-journal-patches",
-          "description": null,
+          "description": "adderalladmiral/psychonaut-journal-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5870,7 +5900,7 @@
         {
           "node_type": "item",
           "title": "oyasumi-patches",
-          "description": null,
+          "description": "dunecache/oyasumi-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5879,8 +5909,8 @@
             "id": 1379541355,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T00:37:53Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T01:08:54Z",
+            "open_issues": 3,
             "owner": "dunecache",
             "repo": "oyasumi-patches",
             "stars": 4,
@@ -5891,7 +5921,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "rahaaatul/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5912,7 +5942,7 @@
         {
           "node_type": "item",
           "title": "sbs-morphe-patches",
-          "description": null,
+          "description": "Supperelias2/sbs-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5937,7 +5967,7 @@
         {
           "node_type": "item",
           "title": "zotero-self-hosted-sync",
-          "description": null,
+          "description": "raphaelbahat/zotero-self-hosted-sync",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5967,7 +5997,7 @@
         {
           "node_type": "item",
           "title": "anghami-patches",
-          "description": null,
+          "description": "mohamedamrnady/anghami-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5988,7 +6018,7 @@
         {
           "node_type": "item",
           "title": "lawnchair-morphe-patches",
-          "description": null,
+          "description": "latanvillegas/lawnchair-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6009,7 +6039,7 @@
         {
           "node_type": "item",
           "title": "ggyasin-morphe-patches",
-          "description": null,
+          "description": "ggYasin/ggyasin-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6034,8 +6064,36 @@
         },
         {
           "node_type": "item",
+          "title": "nicoid-re-patches",
+          "description": "chikuwadon/nicoid-re-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "nicoid向けのMorpheパッチ。現在のニコニコ動画の仕様に対応し、ダークモードとAndroid 16をサポート。各種機能も改善・追加。",
+            "homepage": null,
+            "id": 1394793467,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-03T03:41:57Z",
+            "open_issues": 1,
+            "owner": "chikuwadon",
+            "repo": "nicoid-re-patches",
+            "stars": 4,
+            "topics": [
+              "android",
+              "morphe",
+              "morphe-patches",
+              "nicoid",
+              "niconico",
+              "nicovideo"
+            ]
+          },
+          "first_seen": "2026-10-02T15:05:56.844Z"
+        },
+        {
+          "node_type": "item",
           "title": "ultrasandbox",
-          "description": null,
+          "description": "alim-zanibekov/ultrasandbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6060,7 +6118,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "burgers1312/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6081,7 +6139,7 @@
         {
           "node_type": "item",
           "title": "custom-revanced-patches",
-          "description": null,
+          "description": "lluni/custom-revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6102,7 +6160,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches-galaxy",
-          "description": null,
+          "description": "xrogers/revanced-patches-galaxy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6123,7 +6181,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-navi",
-          "description": null,
+          "description": "vladon/morphe-patches-navi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6144,7 +6202,7 @@
         {
           "node_type": "item",
           "title": "revanced-rif-patches",
-          "description": null,
+          "description": "MojiRS/revanced-rif-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6165,7 +6223,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "ynotzort/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6186,7 +6244,7 @@
         {
           "node_type": "item",
           "title": "ytmusic-patches",
-          "description": null,
+          "description": "PrathxmOp/ytmusic-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6207,7 +6265,7 @@
         {
           "node_type": "item",
           "title": "morphe-watch-later",
-          "description": null,
+          "description": "ciraolone/morphe-watch-later",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6228,7 +6286,7 @@
         {
           "node_type": "item",
           "title": "niconico-yt-morphe-patches",
-          "description": null,
+          "description": "david419kr/niconico-yt-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6249,7 +6307,7 @@
         {
           "node_type": "item",
           "title": "atharv-patches",
-          "description": null,
+          "description": "madhu-gowda6/atharv-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6270,7 +6328,7 @@
         {
           "node_type": "item",
           "title": "Morphe-Portal-Patches-New",
-          "description": null,
+          "description": "BlazeFTL/Morphe-Portal-Patches-New",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6291,7 +6349,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-chicco",
-          "description": null,
+          "description": "chicco-carone/morphe-patches-chicco",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6312,7 +6370,7 @@
         {
           "node_type": "item",
           "title": "instagram-revanced-patches",
-          "description": null,
+          "description": "bluecxt/instagram-revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6333,7 +6391,7 @@
         {
           "node_type": "item",
           "title": "roadsync-patches",
-          "description": null,
+          "description": "subenoeva/roadsync-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6354,7 +6412,7 @@
         {
           "node_type": "item",
           "title": "educal-patches",
-          "description": null,
+          "description": "Educal72/educal-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6375,7 +6433,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "jaredcat/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6396,7 +6454,7 @@
         {
           "node_type": "item",
           "title": "Morphe-Patches",
-          "description": null,
+          "description": "Dan1elTheMan1el/Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6417,7 +6475,7 @@
         {
           "node_type": "item",
           "title": "mn-patches",
-          "description": null,
+          "description": "enccmp/mn-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6438,7 +6496,7 @@
         {
           "node_type": "item",
           "title": "oraimo-health-morphe-patches",
-          "description": null,
+          "description": "benzophury/oraimo-health-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6459,7 +6517,7 @@
         {
           "node_type": "item",
           "title": "xperia-1v-camera-patches",
-          "description": null,
+          "description": "alalloush/xperia-1v-camera-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6480,7 +6538,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "yann-soliman/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6501,7 +6559,7 @@
         {
           "node_type": "item",
           "title": "My-moprhe-patches",
-          "description": null,
+          "description": "picarica/My-moprhe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6522,7 +6580,7 @@
         {
           "node_type": "item",
           "title": "psylos-morphe-patches",
-          "description": null,
+          "description": "lootdev78/psylos-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6543,7 +6601,7 @@
         {
           "node_type": "item",
           "title": "tiktok-patches-for-morphe",
-          "description": null,
+          "description": "BlueDragon4251/tiktok-patches-for-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6564,7 +6622,7 @@
         {
           "node_type": "item",
           "title": "santodan-patches",
-          "description": null,
+          "description": "Santodan/santodan-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6584,8 +6642,29 @@
         },
         {
           "node_type": "item",
+          "title": "morphe-patches",
+          "description": "kanup4m/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Custom Morphe patches",
+            "homepage": null,
+            "id": 1365395814,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-01T05:19:02Z",
+            "open_issues": 3,
+            "owner": "kanup4m",
+            "repo": "morphe-patches",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-12T12:25:06.785Z"
+        },
+        {
+          "node_type": "item",
           "title": "travian-morphe-patches",
-          "description": null,
+          "description": "Amitaisela/travian-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6606,7 +6685,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "ahmedyarub/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6615,7 +6694,7 @@
             "id": 1369769463,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T14:11:33Z",
+            "last_commit": "2026-10-02T21:51:44Z",
             "open_issues": 7,
             "owner": "ahmedyarub",
             "repo": "morphe-patches",
@@ -6632,7 +6711,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "dhrubonai/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6653,7 +6732,7 @@
         {
           "node_type": "item",
           "title": "PixivPatches",
-          "description": null,
+          "description": "Fripe070/PixivPatches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6674,7 +6753,7 @@
         {
           "node_type": "item",
           "title": "pixelcamera-patches",
-          "description": null,
+          "description": "Gamer92000/pixelcamera-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6695,7 +6774,7 @@
         {
           "node_type": "item",
           "title": "jeff-patches",
-          "description": null,
+          "description": "Jeff-tek/jeff-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6716,7 +6795,7 @@
         {
           "node_type": "item",
           "title": "arsound",
-          "description": null,
+          "description": "Allvoid/arsound",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6742,7 +6821,7 @@
         {
           "node_type": "item",
           "title": "sbs-tv-morphe-patches",
-          "description": null,
+          "description": "Supperelias2/sbs-tv-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6763,7 +6842,7 @@
         {
           "node_type": "item",
           "title": "mahirsn-patches",
-          "description": null,
+          "description": "mahirsn/mahirsn-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6784,7 +6863,7 @@
         {
           "node_type": "item",
           "title": "morphe-waze-system-tts",
-          "description": null,
+          "description": "CasketPizza/morphe-waze-system-tts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6804,57 +6883,8 @@
         },
         {
           "node_type": "item",
-          "title": "nicoid-re-patches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "nicoid向けのMorpheパッチ。現在のニコニコ動画の仕様に対応し、ダークモードとAndroid 16をサポート。各種機能も改善・追加。",
-            "homepage": null,
-            "id": 1394793467,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T12:41:16Z",
-            "open_issues": 0,
-            "owner": "chikuwadon",
-            "repo": "nicoid-re-patches",
-            "stars": 3,
-            "topics": [
-              "android",
-              "morphe",
-              "morphe-patches",
-              "nicoid",
-              "niconico",
-              "nicovideo"
-            ]
-          },
-          "first_seen": "2026-10-02T15:05:56.844Z"
-        },
-        {
-          "node_type": "item",
-          "title": "morphe-fb-lite",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1399634493,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-01T14:11:12Z",
-            "open_issues": 2,
-            "owner": "ToThangGTVT",
-            "repo": "morphe-fb-lite",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-10-02T15:05:56.844Z"
-        },
-        {
-          "node_type": "item",
           "title": "revanced-instagram-viewonce",
-          "description": null,
+          "description": "daboynb/revanced-instagram-viewonce",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6881,7 +6911,7 @@
         {
           "node_type": "item",
           "title": "f1tv-patches",
-          "description": null,
+          "description": "Alexvbp/f1tv-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6902,7 +6932,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "forsyth47/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6923,7 +6953,7 @@
         {
           "node_type": "item",
           "title": "LuckyToolPatches",
-          "description": null,
+          "description": "Hepolise/LuckyToolPatches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6944,7 +6974,7 @@
         {
           "node_type": "item",
           "title": "revanced-patch",
-          "description": null,
+          "description": "blazskufca/revanced-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6965,7 +6995,7 @@
         {
           "node_type": "item",
           "title": "mtga",
-          "description": null,
+          "description": "MaebashiRamens/mtga",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6986,7 +7016,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "BrayDog2010/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7007,7 +7037,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "coronenic/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7028,7 +7058,7 @@
         {
           "node_type": "item",
           "title": "edge-revanced",
-          "description": null,
+          "description": "AriesAlex/edge-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7049,7 +7079,7 @@
         {
           "node_type": "item",
           "title": "cricinfo-tweaks",
-          "description": null,
+          "description": "isuruhg/cricinfo-tweaks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7079,7 +7109,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "theabhishekbhujang/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7089,7 +7119,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-09-13T06:47:09Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "theabhishekbhujang",
             "repo": "morphe-patches",
             "stars": 2,
@@ -7100,7 +7130,7 @@
         {
           "node_type": "item",
           "title": "apos-morphe-patches",
-          "description": null,
+          "description": "Apostolique/apos-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7121,7 +7151,7 @@
         {
           "node_type": "item",
           "title": "hh-patches",
-          "description": null,
+          "description": "hhawkinsau/hh-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7142,7 +7172,7 @@
         {
           "node_type": "item",
           "title": "beetle-patches",
-          "description": null,
+          "description": "homelander11/beetle-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7163,7 +7193,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "jancerny2001/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7190,7 +7220,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "Kecerim24/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7211,7 +7241,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "jackblk/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7234,7 +7264,7 @@
         {
           "node_type": "item",
           "title": "Morphe-patches",
-          "description": null,
+          "description": "canh0chua/Morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7255,7 +7285,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "csagataj2/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7276,7 +7306,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "rafag00/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7297,7 +7327,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "NullWaypoint/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7318,7 +7348,7 @@
         {
           "node_type": "item",
           "title": "bruddas-morphe-patches",
-          "description": null,
+          "description": "bruddaa/bruddas-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7347,7 +7377,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "archie9211/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7368,7 +7398,7 @@
         {
           "node_type": "item",
           "title": "multi-app-patches",
-          "description": null,
+          "description": "dumketo/multi-app-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7389,7 +7419,7 @@
         {
           "node_type": "item",
           "title": "Morphe-Patches",
-          "description": null,
+          "description": "PyFlat-JR/Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7410,7 +7440,7 @@
         {
           "node_type": "item",
           "title": "CrimeRadar-Morphe-Patches",
-          "description": null,
+          "description": "JacobPlaysGames/CrimeRadar-Morphe-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7431,7 +7461,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "LOCKhart07/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7452,7 +7482,7 @@
         {
           "node_type": "item",
           "title": "ekispert-morphe-patches",
-          "description": null,
+          "description": "Sfehhrths/ekispert-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7473,7 +7503,7 @@
         {
           "node_type": "item",
           "title": "patchweaver",
-          "description": null,
+          "description": "ispacecase/patchweaver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7493,29 +7523,8 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Custom Morphe patches",
-            "homepage": null,
-            "id": 1365395814,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-01T05:19:02Z",
-            "open_issues": 3,
-            "owner": "kanup4m",
-            "repo": "morphe-patches",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-09-12T12:25:06.785Z"
-        },
-        {
-          "node_type": "item",
           "title": "HelioFloxZ-Patches",
-          "description": null,
+          "description": "HelioFloxZ/HelioFloxZ-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7536,7 +7545,7 @@
         {
           "node_type": "item",
           "title": "cbc-patches",
-          "description": null,
+          "description": "LimeLimes/cbc-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7557,7 +7566,7 @@
         {
           "node_type": "item",
           "title": "channel-blacklist-patch",
-          "description": null,
+          "description": "0-BlackSpectrum-0/channel-blacklist-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7578,7 +7587,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "lchanc3/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7599,7 +7608,7 @@
         {
           "node_type": "item",
           "title": "airofit-pro2-morphe-patches",
-          "description": null,
+          "description": "nickcomua/airofit-pro2-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7620,7 +7629,7 @@
         {
           "node_type": "item",
           "title": "duy-patches",
-          "description": null,
+          "description": "phamleduy04/duy-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7641,7 +7650,7 @@
         {
           "node_type": "item",
           "title": "headboy-morphe-patches",
-          "description": null,
+          "description": "headboy99/headboy-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7662,7 +7671,7 @@
         {
           "node_type": "item",
           "title": "DnevnikNextPatch",
-          "description": null,
+          "description": "NextStepTeam/DnevnikNextPatch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7683,7 +7692,7 @@
         {
           "node_type": "item",
           "title": "supreme-patches",
-          "description": null,
+          "description": "drnhzn/supreme-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7704,7 +7713,7 @@
         {
           "node_type": "item",
           "title": "Pinterest-patch",
-          "description": null,
+          "description": "Insane96/Pinterest-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7725,7 +7734,7 @@
         {
           "node_type": "item",
           "title": "morphe-ai-caption-translator",
-          "description": null,
+          "description": "YYDarlinker/morphe-ai-caption-translator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7746,7 +7755,7 @@
         {
           "node_type": "item",
           "title": "foxxo-patches",
-          "description": null,
+          "description": "FoxxoOwO/foxxo-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7767,7 +7776,7 @@
         {
           "node_type": "item",
           "title": "morphe-maloja-patch",
-          "description": null,
+          "description": "ImEnigma2x0/morphe-maloja-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7788,7 +7797,7 @@
         {
           "node_type": "item",
           "title": "bestapp",
-          "description": null,
+          "description": "Thewanwan/bestapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7814,7 +7823,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-anilili",
-          "description": null,
+          "description": "thegibbonn/morphe-patches-anilili",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7835,7 +7844,7 @@
         {
           "node_type": "item",
           "title": "aidans-patches",
-          "description": null,
+          "description": "ihatenodejs/aidans-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7843,9 +7852,9 @@
             "homepage": null,
             "id": 1377925353,
             "language": "Kotlin",
-            "license": "WTFPL",
-            "last_commit": "2026-10-02T14:42:11Z",
-            "open_issues": 2,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-02T19:37:14Z",
+            "open_issues": 1,
             "owner": "ihatenodejs",
             "repo": "aidans-patches",
             "stars": 2,
@@ -7856,7 +7865,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "virzak/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7877,7 +7886,7 @@
         {
           "node_type": "item",
           "title": "jagas-morphe-patches",
-          "description": null,
+          "description": "Jagannath70086/jagas-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7898,7 +7907,7 @@
         {
           "node_type": "item",
           "title": "nifty-patches-selection",
-          "description": null,
+          "description": "giaaaacomo/nifty-patches-selection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7919,7 +7928,7 @@
         {
           "node_type": "item",
           "title": "Morphi-Patcho",
-          "description": null,
+          "description": "akzzy/Morphi-Patcho",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7940,7 +7949,7 @@
         {
           "node_type": "item",
           "title": "nyt-games-vrr-patch",
-          "description": null,
+          "description": "TimBuckrue/nyt-games-vrr-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7961,7 +7970,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "testiwy268/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7982,7 +7991,7 @@
         {
           "node_type": "item",
           "title": "moovit-patch",
-          "description": null,
+          "description": "loan-mgt/moovit-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8003,7 +8012,7 @@
         {
           "node_type": "item",
           "title": "redgifs-audio-patch",
-          "description": null,
+          "description": "ekazrahul100-web/redgifs-audio-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8024,7 +8033,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches-template",
-          "description": null,
+          "description": "ns1207/morphe-patches-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8045,7 +8054,7 @@
         {
           "node_type": "item",
           "title": "chessable-patches",
-          "description": null,
+          "description": "JCapretta/chessable-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8066,7 +8075,7 @@
         {
           "node_type": "item",
           "title": "edge-window-patches",
-          "description": null,
+          "description": "ymshin-dev/edge-window-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8087,7 +8096,7 @@
         {
           "node_type": "item",
           "title": "MightyMichs-Patches",
-          "description": null,
+          "description": "mich111discord/MightyMichs-Patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8108,16 +8117,16 @@
         {
           "node_type": "item",
           "title": "365score-patches",
-          "description": null,
+          "description": "non7043/365score-patches",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": null,
             "homepage": null,
             "id": 1388188254,
-            "language": "Kotlin",
+            "language": "Java",
             "license": null,
-            "last_commit": "2026-09-25T23:03:49Z",
+            "last_commit": "2026-10-02T19:17:11Z",
             "open_issues": 1,
             "owner": "non7043",
             "repo": "365score-patches",
@@ -8129,7 +8138,7 @@
         {
           "node_type": "item",
           "title": "ck-zombies-morphe-patches",
-          "description": null,
+          "description": "ComoEstaisAmigos/ck-zombies-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8138,8 +8147,8 @@
             "id": 1388315956,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T19:33:47Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-02T21:12:42Z",
+            "open_issues": 0,
             "owner": "ComoEstaisAmigos",
             "repo": "ck-zombies-morphe-patches",
             "stars": 2,
@@ -8153,7 +8162,7 @@
         {
           "node_type": "item",
           "title": "morpheus",
-          "description": null,
+          "description": "pixincreate/morpheus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8174,7 +8183,7 @@
         {
           "node_type": "item",
           "title": "3jPatch_Morphe",
-          "description": null,
+          "description": "jjjusf16-sys/3jPatch_Morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8195,7 +8204,7 @@
         {
           "node_type": "item",
           "title": "letterboxd-stremio-nuvio-morphe-patch",
-          "description": null,
+          "description": "feixiangdao/letterboxd-stremio-nuvio-morphe-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8216,7 +8225,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "Adish08/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8237,7 +8246,7 @@
         {
           "node_type": "item",
           "title": "den-patch",
-          "description": null,
+          "description": "tkiethuynh/den-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8258,7 +8267,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "bartlomiejfornalczyk/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8267,7 +8276,7 @@
             "id": 1391265973,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T10:04:39Z",
+            "last_commit": "2026-10-02T22:29:53Z",
             "open_issues": 1,
             "owner": "bartlomiejfornalczyk",
             "repo": "morphe-patches",
@@ -8279,7 +8288,7 @@
         {
           "node_type": "item",
           "title": "uyu",
-          "description": null,
+          "description": "bakwudo/uyu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8300,7 +8309,7 @@
         {
           "node_type": "item",
           "title": "reddit-morphe-patches",
-          "description": null,
+          "description": "sillyredsoup/reddit-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8321,7 +8330,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "0x0day-0wl/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8342,7 +8351,7 @@
         {
           "node_type": "item",
           "title": "morphe-patches",
-          "description": null,
+          "description": "Satwik-Miyyapuram/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8363,7 +8372,7 @@
         {
           "node_type": "item",
           "title": "bugg4s-patches",
-          "description": null,
+          "description": "Bugg4/bugg4s-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8384,7 +8393,7 @@
         {
           "node_type": "item",
           "title": "kizu-morphe-patches",
-          "description": null,
+          "description": "K8R8TO/kizu-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8393,7 +8402,7 @@
             "id": 1400039280,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T14:16:50Z",
+            "last_commit": "2026-10-03T04:23:55Z",
             "open_issues": 2,
             "owner": "K8R8TO",
             "repo": "kizu-morphe-patches",
@@ -8405,7 +8414,7 @@
         {
           "node_type": "item",
           "title": "fin-tweaks",
-          "description": null,
+          "description": "isuruhg/fin-tweaks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8426,7 +8435,7 @@
         {
           "node_type": "item",
           "title": "bakasura-patches",
-          "description": null,
+          "description": "BakasuraRCE/bakasura-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8447,7 +8456,7 @@
         {
           "node_type": "item",
           "title": "bt-keepalive-patch",
-          "description": null,
+          "description": "LeeeeT/bt-keepalive-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8468,7 +8477,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "LoV432/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8489,7 +8498,7 @@
         {
           "node_type": "item",
           "title": "sn-patching",
-          "description": null,
+          "description": "HZbutcoding/sn-patching",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8510,7 +8519,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "korhelyleves/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8531,7 +8540,7 @@
         {
           "node_type": "item",
           "title": "custom-revanced-patches",
-          "description": null,
+          "description": "4831c0/custom-revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8552,7 +8561,7 @@
         {
           "node_type": "item",
           "title": "perplexity-stt-android-patches",
-          "description": null,
+          "description": "dalapenko/perplexity-stt-android-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8573,7 +8582,7 @@
         {
           "node_type": "item",
           "title": "AppleMusicPatches",
-          "description": null,
+          "description": "VinkyV/AppleMusicPatches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8602,7 +8611,7 @@
         {
           "node_type": "item",
           "title": "chmate-revanced",
-          "description": null,
+          "description": "roflsunriz/chmate-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8626,7 +8635,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "simnple/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8647,7 +8656,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "D4NZ-jpg/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8668,7 +8677,7 @@
         {
           "node_type": "item",
           "title": "Expose-like-status-in-MediaSession",
-          "description": null,
+          "description": "vasyl91/Expose-like-status-in-MediaSession",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8689,7 +8698,7 @@
         {
           "node_type": "item",
           "title": "redflagdeals-revanced-patches",
-          "description": null,
+          "description": "Deadly-Bytes/redflagdeals-revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8710,7 +8719,7 @@
         {
           "node_type": "item",
           "title": "imgur-revanced",
-          "description": null,
+          "description": "roflsunriz/imgur-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8734,7 +8743,7 @@
         {
           "node_type": "item",
           "title": "nicomanga-revanced",
-          "description": null,
+          "description": "roflsunriz/nicomanga-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8758,7 +8767,7 @@
         {
           "node_type": "item",
           "title": "reddit-default-browser-patch",
-          "description": null,
+          "description": "aidancrane/reddit-default-browser-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8779,7 +8788,7 @@
         {
           "node_type": "item",
           "title": "vantage-patches",
-          "description": null,
+          "description": "pmaxhogan/vantage-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8800,7 +8809,7 @@
         {
           "node_type": "item",
           "title": "google-app-revanced",
-          "description": null,
+          "description": "roflsunriz/google-app-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8824,7 +8833,7 @@
         {
           "node_type": "item",
           "title": "povo-2.0-revanced",
-          "description": null,
+          "description": "roflsunriz/povo-2.0-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8849,7 +8858,7 @@
         {
           "node_type": "item",
           "title": "ymail-revanced",
-          "description": null,
+          "description": "roflsunriz/ymail-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8874,7 +8883,7 @@
         {
           "node_type": "item",
           "title": "revanced-telemetry",
-          "description": null,
+          "description": "ThetaBird/revanced-telemetry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8895,7 +8904,7 @@
         {
           "node_type": "item",
           "title": "tiktok-mini-drama-revanced-patch",
-          "description": null,
+          "description": "atticadayz/tiktok-mini-drama-revanced-patch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8916,7 +8925,7 @@
         {
           "node_type": "item",
           "title": "gboard-enc-patches",
-          "description": null,
+          "description": "ausamnco/gboard-enc-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8937,7 +8946,7 @@
         {
           "node_type": "item",
           "title": "youtube-home-assistant-patches",
-          "description": null,
+          "description": "permissionBRICK/youtube-home-assistant-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8958,7 +8967,7 @@
         {
           "node_type": "item",
           "title": "voice-over-translation-revanced",
-          "description": null,
+          "description": "SergeyBelentev/voice-over-translation-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8979,7 +8988,7 @@
         {
           "node_type": "item",
           "title": "sofascore-font-revanced",
-          "description": null,
+          "description": "KR1901/sofascore-font-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9000,7 +9009,7 @@
         {
           "node_type": "item",
           "title": "twitter-bookmarker",
-          "description": null,
+          "description": "Aorus22/twitter-bookmarker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9020,8 +9029,29 @@
         },
         {
           "node_type": "item",
+          "title": "rosaldivo-morphe-patches",
+          "description": "Rosaldivo/rosaldivo-morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rosaldivo's patches for use with Morphe",
+            "homepage": "https://morphe.software/add-source?github=Rosaldivo/rosaldivo-morphe-patches",
+            "id": 1401373373,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-02T08:29:31Z",
+            "open_issues": 0,
+            "owner": "Rosaldivo",
+            "repo": "rosaldivo-morphe-patches",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T04:28:14.341Z"
+        },
+        {
+          "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "bawr/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9042,7 +9072,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "Wyse-/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9063,7 +9093,7 @@
         {
           "node_type": "item",
           "title": "revanced-patches",
-          "description": null,
+          "description": "Vernoxvernax/revanced-patches",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9084,7 +9114,7 @@
         {
           "node_type": "item",
           "title": "Jam-Patches",
-          "description": null,
+          "description": "JamQueueSharing/Jam-Patches",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9111,7 +9141,7 @@
         {
           "node_type": "item",
           "title": "NexAlloy",
-          "description": null,
+          "description": "NexAlloy/NexAlloy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9124,7 +9154,7 @@
             "open_issues": 4,
             "owner": "NexAlloy",
             "repo": "NexAlloy",
-            "stars": 3023,
+            "stars": 3024,
             "topics": [
               "android",
               "morphe",
@@ -9140,7 +9170,7 @@
         {
           "node_type": "item",
           "title": "revanced-manager",
-          "description": null,
+          "description": "inotia00/revanced-manager",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9161,7 +9191,7 @@
         {
           "node_type": "item",
           "title": "Universal-ReVanced-Manager",
-          "description": null,
+          "description": "Jman-Github/Universal-ReVanced-Manager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9170,11 +9200,11 @@
             "id": 1075242574,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T01:48:53Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-03T03:52:43Z",
+            "open_issues": 53,
             "owner": "Jman-Github",
             "repo": "Universal-ReVanced-Manager",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "android",
               "apk",
@@ -9192,7 +9222,7 @@
         {
           "node_type": "item",
           "title": "ReVanced-Patch-Bundles",
-          "description": null,
+          "description": "Jman-Github/ReVanced-Patch-Bundles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9201,11 +9231,11 @@
             "id": 792505279,
             "language": "Kotlin",
             "license": "Unlicense",
-            "last_commit": "2026-10-02T12:39:46Z",
+            "last_commit": "2026-10-03T01:24:46Z",
             "open_issues": 1,
             "owner": "Jman-Github",
             "repo": "ReVanced-Patch-Bundles",
-            "stars": 691,
+            "stars": 692,
             "topics": [
               "koltin",
               "morphe",
@@ -9220,7 +9250,7 @@
         {
           "node_type": "item",
           "title": "MorpheX",
-          "description": null,
+          "description": "Svznify/MorpheX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9261,7 +9291,7 @@
         {
           "node_type": "item",
           "title": "revanced-creator",
-          "description": null,
+          "description": "XDream8/revanced-creator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9302,7 +9332,7 @@
         {
           "node_type": "item",
           "title": "helper-for-morphe",
-          "description": null,
+          "description": "rushiranpise/helper-for-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9323,7 +9353,7 @@
         {
           "node_type": "item",
           "title": "RVX-Lite-Modules",
-          "description": null,
+          "description": "selfmusing/RVX-Lite-Modules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9344,7 +9374,7 @@
         {
           "node_type": "item",
           "title": "Enhancify",
-          "description": null,
+          "description": "Graywizard888/Enhancify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9357,7 +9387,7 @@
             "open_issues": 13,
             "owner": "Graywizard888",
             "repo": "Enhancify",
-            "stars": 202,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -9365,7 +9395,7 @@
         {
           "node_type": "item",
           "title": "morphe-ai",
-          "description": null,
+          "description": "Paresh-Maheshwari/morphe-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9378,7 +9408,7 @@
             "open_issues": 6,
             "owner": "Paresh-Maheshwari",
             "repo": "morphe-ai",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "android",
               "apk",
@@ -9398,7 +9428,7 @@
         {
           "node_type": "item",
           "title": "revanced-manager-android5-7",
-          "description": null,
+          "description": "kitadai31/revanced-manager-android5-7",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9419,7 +9449,7 @@
         {
           "node_type": "item",
           "title": "MorpheUpdater",
-          "description": null,
+          "description": "LeddaZ/MorpheUpdater",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9440,7 +9470,7 @@
         {
           "node_type": "item",
           "title": "prevanced-manager",
-          "description": null,
+          "description": "prevanced/prevanced-manager",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9467,7 +9497,7 @@
         {
           "node_type": "item",
           "title": "revanced-external-bundles",
-          "description": null,
+          "description": "brosssh/revanced-external-bundles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9488,7 +9518,7 @@
         {
           "node_type": "item",
           "title": "revanced-web-app",
-          "description": null,
+          "description": "exconvinced/revanced-web-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9522,7 +9552,7 @@
         {
           "node_type": "item",
           "title": "revanced-downloader-plugins",
-          "description": null,
+          "description": "Aunali321/revanced-downloader-plugins",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9543,7 +9573,7 @@
         {
           "node_type": "item",
           "title": "Mystery-manager",
-          "description": null,
+          "description": "MarcaDian/Mystery-manager",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9564,7 +9594,7 @@
         {
           "node_type": "item",
           "title": "revanced-cli-arsclib",
-          "description": null,
+          "description": "inotia00/revanced-cli-arsclib",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9585,7 +9615,7 @@
         {
           "node_type": "item",
           "title": "revanced-patcher",
-          "description": null,
+          "description": "LisoUseInAIKyrios/revanced-patcher",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9606,7 +9636,7 @@
         {
           "node_type": "item",
           "title": "jadx-morphe",
-          "description": null,
+          "description": "hoo-dles/jadx-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9627,7 +9657,7 @@
         {
           "node_type": "item",
           "title": "jadx-revanced",
-          "description": null,
+          "description": "valonsodev/jadx-revanced",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9648,7 +9678,7 @@
         {
           "node_type": "item",
           "title": "revanced-manager-compose",
-          "description": null,
+          "description": "AmpleReVanced/revanced-manager-compose",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9669,7 +9699,7 @@
         {
           "node_type": "item",
           "title": "revanced-web-patcher-backend",
-          "description": null,
+          "description": "Aunali321/revanced-web-patcher-backend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9702,7 +9732,7 @@
         {
           "node_type": "item",
           "title": "morphe-mcp",
-          "description": null,
+          "description": "brosssh/morphe-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9723,7 +9753,7 @@
         {
           "node_type": "item",
           "title": "morphe_feature_flags",
-          "description": null,
+          "description": "jpa102/morphe_feature_flags",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9744,7 +9774,7 @@
         {
           "node_type": "item",
           "title": "revanced-patcher",
-          "description": null,
+          "description": "AmpleReVanced/revanced-patcher",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9765,7 +9795,7 @@
         {
           "node_type": "item",
           "title": "revanced-cli",
-          "description": null,
+          "description": "AmpleReVanced/revanced-cli",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9786,7 +9816,7 @@
         {
           "node_type": "item",
           "title": "revanced-api",
-          "description": null,
+          "description": "AmpleReVanced/revanced-api",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9813,7 +9843,7 @@
         {
           "node_type": "item",
           "title": "revanced-magisk-module",
-          "description": null,
+          "description": "j-hc/revanced-magisk-module",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9822,11 +9852,11 @@
             "id": 507288931,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T16:07:13Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-02T16:15:10Z",
+            "open_issues": 3,
             "owner": "j-hc",
             "repo": "revanced-magisk-module",
-            "stars": 7647,
+            "stars": 7650,
             "topics": [
               "magisk",
               "module",
@@ -9840,7 +9870,7 @@
         {
           "node_type": "item",
           "title": "revanced-extended",
-          "description": null,
+          "description": "NoName-exe/revanced-extended",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9849,11 +9879,11 @@
             "id": 584651752,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T00:45:07Z",
+            "last_commit": "2026-10-03T00:44:16Z",
             "open_issues": 4,
             "owner": "NoName-exe",
             "repo": "revanced-extended",
-            "stars": 4217,
+            "stars": 4218,
             "topics": [
               "magisk",
               "magisk-module",
@@ -9869,7 +9899,7 @@
         {
           "node_type": "item",
           "title": "Revanced-And-Revanced-Extended-Non-Root",
-          "description": null,
+          "description": "FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9882,7 +9912,7 @@
             "open_issues": 10,
             "owner": "FiorenMas",
             "repo": "Revanced-And-Revanced-Extended-Non-Root",
-            "stars": 2739,
+            "stars": 2740,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -9890,7 +9920,7 @@
         {
           "node_type": "item",
           "title": "revanced-builder",
-          "description": null,
+          "description": "reisxd/revanced-builder",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9911,7 +9941,7 @@
         {
           "node_type": "item",
           "title": "Morphe-AutoBuilds",
-          "description": null,
+          "description": "RookieEnough/Morphe-AutoBuilds",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9921,10 +9951,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T14:14:50Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "RookieEnough",
             "repo": "Morphe-AutoBuilds",
-            "stars": 1219,
+            "stars": 1222,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -9932,7 +9962,7 @@
         {
           "node_type": "item",
           "title": "Revancify",
-          "description": null,
+          "description": "decipher3114/Revancify",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9958,7 +9988,7 @@
         {
           "node_type": "item",
           "title": "rvx-builder",
-          "description": null,
+          "description": "inotia00/rvx-builder",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9979,7 +10009,7 @@
         {
           "node_type": "item",
           "title": "uni-apks",
-          "description": null,
+          "description": "krvstek/uni-apks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10014,7 +10044,7 @@
         {
           "node_type": "item",
           "title": "docker-py-revanced",
-          "description": null,
+          "description": "nikhilbadyal/docker-py-revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10023,8 +10053,8 @@
             "id": 524139377,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T08:02:21Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T03:49:11Z",
+            "open_issues": 3,
             "owner": "nikhilbadyal",
             "repo": "docker-py-revanced",
             "stars": 655,
@@ -10046,7 +10076,7 @@
         {
           "node_type": "item",
           "title": "revanced-morphe-builder",
-          "description": null,
+          "description": "peternmuller/revanced-morphe-builder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10088,7 +10118,7 @@
         {
           "node_type": "item",
           "title": "GmsCore",
-          "description": null,
+          "description": "fromhgbwithluv/GmsCore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10109,7 +10139,7 @@
         {
           "node_type": "item",
           "title": "auto-cli",
-          "description": null,
+          "description": "taku-nm/auto-cli",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -10130,7 +10160,7 @@
         {
           "node_type": "item",
           "title": "AT-YT",
-          "description": null,
+          "description": "Kakathic/AT-YT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10139,7 +10169,7 @@
             "id": 684861242,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-22T01:57:03Z",
+            "last_commit": "2026-10-03T02:24:45Z",
             "open_issues": 0,
             "owner": "Kakathic",
             "repo": "AT-YT",
@@ -10171,7 +10201,7 @@
         {
           "node_type": "item",
           "title": "revanced-build-template",
-          "description": null,
+          "description": "n0k0m3/revanced-build-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10192,7 +10222,7 @@
         {
           "node_type": "item",
           "title": "Revancify-Xisr",
-          "description": null,
+          "description": "Xisrr1/Revancify-Xisr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10201,7 +10231,7 @@
             "id": 924676462,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-08-25T01:56:36Z",
+            "last_commit": "2026-10-02T18:46:06Z",
             "open_issues": 4,
             "owner": "Xisrr1",
             "repo": "Revancify-Xisr",
@@ -10213,7 +10243,7 @@
         {
           "node_type": "item",
           "title": "builder-for-morphe",
-          "description": null,
+          "description": "nvbangg/builder-for-morphe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10226,7 +10256,7 @@
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "builder-for-morphe",
-            "stars": 107,
+            "stars": 106,
             "topics": [
               "adblock",
               "android",
@@ -10242,7 +10272,7 @@
         {
           "node_type": "item",
           "title": "YouTube-Patcher",
-          "description": null,
+          "description": "farag2/YouTube-Patcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10263,7 +10293,7 @@
         {
           "node_type": "item",
           "title": "ReVancedRepackaged",
-          "description": null,
+          "description": "programminghoch10/ReVancedRepackaged",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -10293,7 +10323,7 @@
         {
           "node_type": "item",
           "title": "Messenger-Revanced",
-          "description": null,
+          "description": "mentalblank/Messenger-Revanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10324,7 +10354,7 @@
         {
           "node_type": "item",
           "title": "morphe-repo",
-          "description": null,
+          "description": "LeddaZ/morphe-repo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -10345,7 +10375,7 @@
         {
           "node_type": "item",
           "title": "RVX-MMT-module",
-          "description": null,
+          "description": "kazimmt/RVX-MMT-module",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10366,7 +10396,7 @@
         {
           "node_type": "item",
           "title": "revanced",
-          "description": null,
+          "description": "elliottophellia/revanced",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -10394,7 +10424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:05:56.844Z",
+    "last_updated": "2026-10-03T04:28:14.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.",
@@ -10402,7 +10432,7 @@
       "id": 841485399,
       "language": "Python",
       "license": "Unlicense",
-      "last_commit": "2026-10-02T12:00:45Z",
+      "last_commit": "2026-10-02T19:32:28Z",
       "open_issues": 0,
       "owner": "Jman-Github",
       "repo": "Awesome-ReVanced",
@@ -10417,7 +10447,7 @@
         "revanced-extended"
       ]
     },
-    "original_repository_sha": "be71ba7549d434228c6e30e5eac47c4000353104",
+    "original_repository_sha": "b04d6d2f81ba49a064ca53e17e35223693822f94",
     "enhanced_repository": "enhansome/enhansome-Awesome-ReVanced",
     "enhanced_repository_description": null,
     "title": "Jman-Github/Awesome-ReVanced with stars"
