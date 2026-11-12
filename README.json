@@ -24,7 +24,7 @@
                 "open_issues": 228,
                 "owner": "ReVanced",
                 "repo": "revanced-manager",
-                "stars": 30143,
+                "stars": 30154,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -52,7 +52,7 @@
                 "open_issues": 31,
                 "owner": "ReVanced",
                 "repo": "GmsCore",
-                "stars": 4811,
+                "stars": 4813,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:15.028Z"
@@ -101,7 +101,7 @@
                 "open_issues": 53,
                 "owner": "ReVanced",
                 "repo": "revanced-patcher",
-                "stars": 3554,
+                "stars": 3556,
                 "topics": [
                   "aapt",
                   "android",
@@ -133,7 +133,7 @@
                 "open_issues": 15,
                 "owner": "ReVanced",
                 "repo": "revanced-cli",
-                "stars": 1603,
+                "stars": 1601,
                 "topics": [
                   "cli",
                   "manager",
@@ -207,7 +207,7 @@
                 "open_issues": 28,
                 "owner": "ReVanced",
                 "repo": "revanced-website",
-                "stars": 486,
+                "stars": 485,
                 "topics": [
                   "frontend",
                   "revanced",
@@ -234,7 +234,7 @@
                 "open_issues": 15,
                 "owner": "ReVanced",
                 "repo": "revanced-api",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "api",
                   "kotlin",
@@ -286,7 +286,7 @@
                 "open_issues": 21,
                 "owner": "ReVanced",
                 "repo": "revanced-library",
-                "stars": 146,
+                "stars": 148,
                 "topics": [
                   "gradle",
                   "kotlin",
@@ -426,11 +426,11 @@
                 "id": 1104751416,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T12:09:50Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-12T12:10:22Z",
+                "open_issues": 42,
                 "owner": "MorpheApp",
                 "repo": "morphe-manager",
-                "stars": 10282,
+                "stars": 10319,
                 "topics": [
                   "android",
                   "apk",
@@ -456,10 +456,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-04T09:19:03Z",
-                "open_issues": 27,
+                "open_issues": 29,
                 "owner": "MorpheApp",
                 "repo": "MicroG-RE",
-                "stars": 6304,
+                "stars": 6314,
                 "topics": [
                   "android",
                   "microg",
@@ -480,11 +480,11 @@
                 "id": 1104583075,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T16:35:45Z",
-                "open_issues": 525,
+                "last_commit": "2026-11-12T17:08:21Z",
+                "open_issues": 546,
                 "owner": "MorpheApp",
                 "repo": "morphe-patches",
-                "stars": 4762,
+                "stars": 4795,
                 "topics": [
                   "android",
                   "morphe"
@@ -504,11 +504,11 @@
                 "id": 1104582686,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T03:21:04Z",
+                "last_commit": "2026-11-12T04:31:31Z",
                 "open_issues": 19,
                 "owner": "MorpheApp",
                 "repo": "morphe-desktop",
-                "stars": 800,
+                "stars": 810,
                 "topics": [
                   "android",
                   "apk",
@@ -534,7 +534,7 @@
                 "open_issues": 9,
                 "owner": "MorpheApp",
                 "repo": "morphe-patcher",
-                "stars": 259,
+                "stars": 258,
                 "topics": [
                   "android",
                   "morphe"
@@ -558,7 +558,7 @@
                 "open_issues": 3,
                 "owner": "MorpheApp",
                 "repo": "morphe-documentation",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "morphe"
                 ]
@@ -744,11 +744,11 @@
                 "id": 1214513718,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T14:55:16Z",
+                "last_commit": "2026-11-12T16:09:06Z",
                 "open_issues": 0,
                 "owner": "Reseam",
                 "repo": "reseam",
-                "stars": 94,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-10-25T13:23:49.849Z"
@@ -765,11 +765,11 @@
                 "id": 1232773115,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T15:43:53Z",
+                "last_commit": "2026-11-12T16:53:57Z",
                 "open_issues": 0,
                 "owner": "Reseam",
                 "repo": "manager",
-                "stars": 80,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-10-25T13:23:49.849Z"
@@ -786,11 +786,11 @@
                 "id": 1214514843,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T14:55:33Z",
+                "last_commit": "2026-11-12T16:49:47Z",
                 "open_issues": 0,
                 "owner": "Reseam",
                 "repo": "patches",
-                "stars": 47,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-10-25T13:23:49.849Z"
@@ -807,7 +807,7 @@
                 "id": 1214506549,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T14:55:13Z",
+                "last_commit": "2026-11-12T16:56:04Z",
                 "open_issues": 0,
                 "owner": "Reseam",
                 "repo": "website",
@@ -828,7 +828,7 @@
                 "id": 1394947883,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-10T14:24:56Z",
+                "last_commit": "2026-11-12T16:50:49Z",
                 "open_issues": 0,
                 "owner": "Reseam",
                 "repo": "patches-template",
@@ -849,7 +849,7 @@
                 "id": 1214512859,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-04T19:49:34Z",
+                "last_commit": "2026-11-12T16:08:27Z",
                 "open_issues": 0,
                 "owner": "Reseam",
                 "repo": "api",
@@ -903,7 +903,7 @@
             "open_issues": 99,
             "owner": "thedjchi",
             "repo": "Shizuku",
-            "stars": 6862,
+            "stars": 6882,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -988,11 +988,11 @@
                 "id": 1104751416,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T12:09:50Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-12T12:10:22Z",
+                "open_issues": 42,
                 "owner": "MorpheApp",
                 "repo": "morphe-manager",
-                "stars": 10282,
+                "stars": 10319,
                 "topics": [
                   "android",
                   "apk",
@@ -1021,7 +1021,7 @@
                 "open_issues": 3,
                 "owner": "MorpheApp",
                 "repo": "morphe-documentation",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "morphe"
                 ]
@@ -1044,7 +1044,7 @@
                 "open_issues": 3,
                 "owner": "MorpheApp",
                 "repo": "morphe-documentation",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "morphe"
                 ]
@@ -1063,7 +1063,7 @@
             "open_issues": 3,
             "owner": "MorpheApp",
             "repo": "morphe-documentation",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "morphe"
             ]
@@ -1103,7 +1103,7 @@
             "id": 1278644333,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-11T05:18:24Z",
+            "last_commit": "2026-11-12T06:46:01Z",
             "open_issues": 2,
             "owner": "rushiforai",
             "repo": "morphe-archive",
@@ -1148,7 +1148,7 @@
             "id": 1274962994,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T08:02:02Z",
+            "last_commit": "2026-11-12T13:00:57Z",
             "open_issues": 0,
             "owner": "drnx64",
             "repo": "fresh-morphe",
@@ -1174,11 +1174,11 @@
                 "id": 1219854771,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-11T15:16:56Z",
+                "last_commit": "2026-11-12T11:18:22Z",
                 "open_issues": 1,
                 "owner": "nvbangg",
                 "repo": "awesome-morphe",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1268,7 +1268,7 @@
                 "open_issues": 4,
                 "owner": "Paresh-Maheshwari",
                 "repo": "patch-explorer",
-                "stars": 70,
+                "stars": 69,
                 "topics": [
                   "morphe",
                   "patch-bundles",
@@ -1332,11 +1332,11 @@
             "id": 750390942,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T14:53:39Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-11T16:49:38Z",
+            "open_issues": 180,
             "owner": "crimera",
             "repo": "piko",
-            "stars": 5956,
+            "stars": 5963,
             "topics": [
               "morphe",
               "morphe-patches"
@@ -1360,7 +1360,7 @@
             "open_issues": 55,
             "owner": "BiliRoamingX",
             "repo": "BiliRoamingX",
-            "stars": 3910,
+            "stars": 3913,
             "topics": [
               "android",
               "bilibili",
@@ -1447,10 +1447,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-06T16:37:33Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "anddea",
             "repo": "revanced-patches",
-            "stars": 1939,
+            "stars": 1941,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1468,10 +1468,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-10T05:15:43Z",
-            "open_issues": 63,
+            "open_issues": 65,
             "owner": "Akshayykadam",
             "repo": "PixelBoard",
-            "stars": 1510,
+            "stars": 1523,
             "topics": [
               "ai-writing-tools",
               "android",
@@ -1507,7 +1507,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-04T16:35:03Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "RookieEnough",
             "repo": "De-Vanced",
             "stars": 1352,
@@ -1531,7 +1531,7 @@
             "open_issues": 83,
             "owner": "hoo-dles",
             "repo": "morphe-patches",
-            "stars": 1324,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1549,10 +1549,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T06:12:22Z",
-            "open_issues": 34,
+            "open_issues": 37,
             "owner": "jasonwu1994",
             "repo": "Gboard-patches",
-            "stars": 1093,
+            "stars": 1109,
             "topics": [
               "android",
               "gboard",
@@ -1576,10 +1576,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-08T16:05:50Z",
-            "open_issues": 215,
+            "open_issues": 216,
             "owner": "rushiranpise",
             "repo": "morphe-patches",
-            "stars": 1046,
+            "stars": 1050,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1596,8 +1596,8 @@
             "id": 1127001316,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T15:12:46Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-11T18:47:43Z",
+            "open_issues": 60,
             "owner": "wchill",
             "repo": "patcheddit",
             "stars": 862,
@@ -1664,7 +1664,7 @@
             "open_issues": 69,
             "owner": "crimera",
             "repo": "piko-newx",
-            "stars": 620,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-09-20T13:14:20.476Z"
@@ -1681,11 +1681,11 @@
             "id": 1386442796,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T16:26:07Z",
-            "open_issues": 137,
+            "last_commit": "2026-11-12T14:51:45Z",
+            "open_issues": 138,
             "owner": "SysAdminDoc",
             "repo": "HushFacebook",
-            "stars": 513,
+            "stars": 517,
             "topics": [
               "ad-blocker",
               "android",
@@ -1712,11 +1712,11 @@
             "id": 1252844671,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T23:45:37Z",
-            "open_issues": 92,
+            "last_commit": "2026-11-12T10:41:00Z",
+            "open_issues": 94,
             "owner": "icysymmetra",
             "repo": "tiktok-patches-for-morphe",
-            "stars": 463,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1733,11 +1733,11 @@
             "id": 1396702546,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T16:31:12Z",
-            "open_issues": 173,
+            "last_commit": "2026-11-12T16:09:40Z",
+            "open_issues": 148,
             "owner": "SysAdminDoc",
             "repo": "HushGram",
-            "stars": 388,
+            "stars": 398,
             "topics": [
               "ad-blocker",
               "android",
@@ -1763,11 +1763,11 @@
             "id": 1358094656,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T15:20:21Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-12T16:07:09Z",
+            "open_issues": 45,
             "owner": "SysAdminDoc",
             "repo": "HushFeed",
-            "stars": 381,
+            "stars": 385,
             "topics": [
               "android",
               "customization",
@@ -1794,11 +1794,11 @@
             "id": 1303692775,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T10:13:39Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-12T06:59:34Z",
+            "open_issues": 23,
             "owner": "hxreborn",
             "repo": "morphe-patches",
-            "stars": 351,
+            "stars": 356,
             "topics": [
               "adblock",
               "amoled",
@@ -1831,10 +1831,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T23:55:23Z",
-            "open_issues": 116,
+            "open_issues": 120,
             "owner": "bearinmindcat",
             "repo": "morphe-patches",
-            "stars": 351,
+            "stars": 353,
             "topics": []
           },
           "first_seen": "2026-09-26T13:24:39.871Z"
@@ -1873,7 +1873,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-08T11:44:55Z",
-            "open_issues": 23,
+            "open_issues": 27,
             "owner": "jkennethcarino",
             "repo": "adobo",
             "stars": 311,
@@ -1906,11 +1906,11 @@
             "id": 1241018623,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T16:05:50Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-12T17:02:16Z",
+            "open_issues": 14,
             "owner": "ajstrick81",
             "repo": "morphe-androidtv-patches",
-            "stars": 295,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1931,7 +1931,7 @@
             "open_issues": 29,
             "owner": "arandomhooman",
             "repo": "hoomans-morphe-patches",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -1948,11 +1948,11 @@
             "id": 1376321176,
             "language": "Smali",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T11:08:04Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-12T12:31:28Z",
+            "open_issues": 27,
             "owner": "Akshayykadam",
             "repo": "Pixel-Camera",
-            "stars": 243,
+            "stars": 247,
             "topics": [
               "gcam",
               "google",
@@ -2038,10 +2038,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-08T20:28:07Z",
-            "open_issues": 43,
+            "open_issues": 46,
             "owner": "SysAdminDoc",
             "repo": "HushMessenger",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "android",
               "facebook",
@@ -2106,27 +2106,6 @@
         },
         {
           "node_type": "item",
-          "title": "bannerhub-revanced",
-          "description": "The412Banner/bannerhub-revanced",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ReVanced patches for GameHub — BannerHub features as true ReVanced patches",
-            "homepage": null,
-            "id": 1220932653,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2026-11-11T16:21:22Z",
-            "open_issues": 12,
-            "owner": "The412Banner",
-            "repo": "bannerhub-revanced",
-            "stars": 182,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "Venus-Patches",
           "description": "VenusIsJaded/Venus-Patches",
           "children": [],
@@ -2138,13 +2117,34 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-05T19:50:38Z",
-            "open_issues": 32,
+            "open_issues": 36,
             "owner": "VenusIsJaded",
             "repo": "Venus-Patches",
-            "stars": 180,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-10-11T15:08:26.160Z"
+        },
+        {
+          "node_type": "item",
+          "title": "bannerhub-revanced",
+          "description": "The412Banner/bannerhub-revanced",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ReVanced patches for GameHub — BannerHub features as true ReVanced patches",
+            "homepage": null,
+            "id": 1220932653,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2026-11-12T12:58:04Z",
+            "open_issues": 12,
+            "owner": "The412Banner",
+            "repo": "bannerhub-revanced",
+            "stars": 182,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
         },
         {
           "node_type": "item",
@@ -2158,8 +2158,8 @@
             "id": 1340143124,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T03:05:48Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-11T19:09:18Z",
+            "open_issues": 14,
             "owner": "kveld9",
             "repo": "kveld-morphe-patches",
             "stars": 169,
@@ -2170,6 +2170,27 @@
               "privacy",
               "telemetry-blocker"
             ]
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
+          "title": "morphe-patches",
+          "description": "binarymend/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of unofficial Android patches built with the Morphe framework",
+            "homepage": null,
+            "id": 1208613461,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-01T13:09:48Z",
+            "open_issues": 32,
+            "owner": "binarymend",
+            "repo": "morphe-patches",
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
         },
@@ -2202,24 +2223,34 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": "binarymend/morphe-patches",
+          "title": "HushTelegram",
+          "description": "SysAdminDoc/HushTelegram",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A collection of unofficial Android patches built with the Morphe framework",
-            "homepage": null,
-            "id": 1208613461,
-            "language": "Kotlin",
+            "description": "HushTelegram v0.0.24: Morphe patches that take sponsored messages, search ads, Stories and upsells out of Telegram and keep its usage reports on your phone. 69 patches for Telegram 13.2.0.",
+            "homepage": "https://github.com/SysAdminDoc/HushTelegram/releases/latest",
+            "id": 1399078002,
+            "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-01T13:09:48Z",
-            "open_issues": 32,
-            "owner": "binarymend",
-            "repo": "morphe-patches",
-            "stars": 152,
-            "topics": []
+            "last_commit": "2026-11-12T16:11:39Z",
+            "open_issues": 25,
+            "owner": "SysAdminDoc",
+            "repo": "HushTelegram",
+            "stars": 137,
+            "topics": [
+              "ad-blocker",
+              "android",
+              "customization",
+              "morphe",
+              "morphe-patches",
+              "patches",
+              "privacy",
+              "revanced",
+              "telegram"
+            ]
           },
-          "first_seen": "2026-08-28T20:26:15.028Z"
+          "first_seen": "2026-10-02T15:05:56.844Z"
         },
         {
           "node_type": "item",
@@ -2244,34 +2275,39 @@
         },
         {
           "node_type": "item",
-          "title": "HushTelegram",
-          "description": "SysAdminDoc/HushTelegram",
+          "title": "morphe-google-photos",
+          "description": "Akash-Sriram/morphe-google-photos",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "HushTelegram v0.0.24: Morphe patches that take sponsored messages, search ads, Stories and upsells out of Telegram and keep its usage reports on your phone. 69 patches for Telegram 13.2.0.",
-            "homepage": "https://github.com/SysAdminDoc/HushTelegram/releases/latest",
-            "id": 1399078002,
+            "description": "Morphe Patches for Google Photos and Android Apps",
+            "homepage": null,
+            "id": 1367783330,
             "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-11T13:45:34Z",
-            "open_issues": 28,
-            "owner": "SysAdminDoc",
-            "repo": "HushTelegram",
-            "stars": 134,
+            "license": null,
+            "last_commit": "2026-11-11T09:44:51Z",
+            "open_issues": 2,
+            "owner": "Akash-Sriram",
+            "repo": "morphe-google-photos",
+            "stars": 132,
             "topics": [
-              "ad-blocker",
-              "android",
-              "customization",
+              "amoled-theme",
+              "dcim-backup",
+              "flag-manager",
+              "gmscore",
+              "google-photos",
+              "google-photos-mod",
+              "google-photos-patches",
+              "magic-editor",
               "morphe",
               "morphe-patches",
-              "patches",
-              "privacy",
-              "revanced",
-              "telegram"
+              "phenotype",
+              "pixel-spoof",
+              "toolkit",
+              "unlimited-backup"
             ]
           },
-          "first_seen": "2026-10-02T15:05:56.844Z"
+          "first_seen": "2026-09-17T13:49:07.902Z"
         },
         {
           "node_type": "item",
@@ -2318,42 +2354,6 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-google-photos",
-          "description": "Akash-Sriram/morphe-google-photos",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe Patches for Google Photos and Android Apps",
-            "homepage": null,
-            "id": 1367783330,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2026-11-11T09:44:51Z",
-            "open_issues": 1,
-            "owner": "Akash-Sriram",
-            "repo": "morphe-google-photos",
-            "stars": 127,
-            "topics": [
-              "amoled-theme",
-              "dcim-backup",
-              "flag-manager",
-              "gmscore",
-              "google-photos",
-              "google-photos-mod",
-              "google-photos-patches",
-              "magic-editor",
-              "morphe",
-              "morphe-patches",
-              "phenotype",
-              "pixel-spoof",
-              "toolkit",
-              "unlimited-backup"
-            ]
-          },
-          "first_seen": "2026-09-17T13:49:07.902Z"
-        },
-        {
-          "node_type": "item",
           "title": "morphe-patches",
           "description": "spicetify/morphe-patches",
           "children": [],
@@ -2368,7 +2368,7 @@
             "open_issues": 8,
             "owner": "spicetify",
             "repo": "morphe-patches",
-            "stars": 126,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-09-18T13:11:38.802Z"
@@ -2449,8 +2449,8 @@
             "id": 1329734561,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T19:35:47Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-12T16:09:49Z",
+            "open_issues": 8,
             "owner": "heval99",
             "repo": "Heval-Morphe-Patches",
             "stars": 110,
@@ -2470,8 +2470,8 @@
             "id": 1329734561,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T19:35:47Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-12T16:09:49Z",
+            "open_issues": 8,
             "owner": "heval99",
             "repo": "Heval-Morphe-Patches",
             "stars": 110,
@@ -2558,7 +2558,7 @@
             "open_issues": 2,
             "owner": "WaggBR",
             "repo": "Wagg13Patch_Morphe",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-09-23T13:53:17.690Z"
@@ -2681,7 +2681,7 @@
             "open_issues": 2,
             "owner": "browzomje",
             "repo": "browzomje-patches",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -2702,7 +2702,7 @@
             "open_issues": 19,
             "owner": "dh6k",
             "repo": "morphe-patches",
-            "stars": 80,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -2741,7 +2741,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-08T17:49:42Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "SysAdminDoc",
             "repo": "HushThreads",
             "stars": 73,
@@ -2775,11 +2775,32 @@
             "open_issues": 20,
             "owner": "kiraio-moe",
             "repo": "Lain-Patches",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "morphe",
               "morphe-patches"
             ]
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Pairip-Patches",
+          "description": "sjshb57/Pairip-Patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "基于 Morphe Patcher 的纯字节码补丁，用于还原被 pairip 加固或代码抽离的 Android 应用。",
+            "homepage": null,
+            "id": 1255526395,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-07T14:26:49Z",
+            "open_issues": 2,
+            "owner": "sjshb57",
+            "repo": "Pairip-Patches",
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
         },
@@ -2828,55 +2849,6 @@
         },
         {
           "node_type": "item",
-          "title": "Pairip-Patches",
-          "description": "sjshb57/Pairip-Patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "基于 Morphe Patcher 的纯字节码补丁，用于还原被 pairip 加固或代码抽离的 Android 应用。",
-            "homepage": null,
-            "id": 1255526395,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-07T14:26:49Z",
-            "open_issues": 2,
-            "owner": "sjshb57",
-            "repo": "Pairip-Patches",
-            "stars": 67,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FTL-Patches",
-          "description": "BlazeFTL/FTL-Patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics, unused languages, and use custom dpi☠️",
-            "homepage": "https://morphe.software/add-source?github=BlazeFTL/FTL-Patches",
-            "id": 1327050341,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-09T10:31:21Z",
-            "open_issues": 3,
-            "owner": "BlazeFTL",
-            "repo": "FTL-Patches",
-            "stars": 64,
-            "topics": [
-              "blazeftl",
-              "ftl",
-              "ftl-patches",
-              "ftlpatch",
-              "morphe",
-              "morphe-patches"
-            ]
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "Morning-Entree-Patches",
           "description": "Entree3k/Morning-Entree-Patches",
           "children": [],
@@ -2893,6 +2865,34 @@
             "repo": "Morning-Entree-Patches",
             "stars": 63,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FTL-Patches",
+          "description": "BlazeFTL/FTL-Patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics, unused languages, and use custom dpi☠️",
+            "homepage": "https://morphe.software/add-source?github=BlazeFTL/FTL-Patches",
+            "id": 1327050341,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-12T13:14:19Z",
+            "open_issues": 1,
+            "owner": "BlazeFTL",
+            "repo": "FTL-Patches",
+            "stars": 63,
+            "topics": [
+              "blazeftl",
+              "ftl",
+              "ftl-patches",
+              "ftlpatch",
+              "morphe",
+              "morphe-patches"
+            ]
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
         },
@@ -2929,11 +2929,11 @@
             "id": 1286728102,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T14:59:02Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-12T04:49:15Z",
+            "open_issues": 5,
             "owner": "byehi98",
             "repo": "okish-morphe-patches",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -2950,8 +2950,8 @@
             "id": 1362917541,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T10:24:41Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-12T15:04:32Z",
+            "open_issues": 9,
             "owner": "areteruhiro",
             "repo": "Haiagaru-Morphe",
             "stars": 61,
@@ -2982,27 +2982,6 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": "xob0t/morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1232849222,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-11T15:45:18Z",
-            "open_issues": 7,
-            "owner": "xob0t",
-            "repo": "morphe-patches",
-            "stars": 58,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "myspoti-morphe-patches",
           "description": "amit-0i/myspoti-morphe-patches",
           "children": [],
@@ -3014,13 +2993,34 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-06T05:35:22Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "amit-0i",
             "repo": "myspoti-morphe-patches",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-10-27T14:57:18.586Z"
+        },
+        {
+          "node_type": "item",
+          "title": "morphe-patches",
+          "description": "xob0t/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1232849222,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-12T14:28:49Z",
+            "open_issues": 5,
+            "owner": "xob0t",
+            "repo": "morphe-patches",
+            "stars": 58,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
         },
         {
           "node_type": "item",
@@ -3035,7 +3035,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T15:02:12Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "ImNoammm",
             "repo": "Noams-Morphe-Patches",
             "stars": 56,
@@ -3066,10 +3066,42 @@
             "open_issues": 25,
             "owner": "durgesh0505",
             "repo": "chiggi_morphe_patches",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MightyMichs-Patches",
+          "description": "mich111discord/MightyMichs-Patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Making patches for play store apps and manyyyyy others :)",
+            "homepage": "https://mich111discord.github.io/MightyMichs-Patches/",
+            "id": 1385803403,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-12T13:22:19Z",
+            "open_issues": 10,
+            "owner": "mich111discord",
+            "repo": "MightyMichs-Patches",
+            "stars": 52,
+            "topics": [
+              "android-apk",
+              "android-app",
+              "android-app-bundle",
+              "android-app-modifications",
+              "android-apps",
+              "morphe",
+              "morphe-patches",
+              "revanced",
+              "revanced-alternative",
+              "revanced-patches"
+            ]
+          },
+          "first_seen": "2026-09-26T13:24:39.871Z"
         },
         {
           "node_type": "item",
@@ -3087,7 +3119,7 @@
             "open_issues": 14,
             "owner": "quantavil",
             "repo": "edge-morphe-patches",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "android",
               "browser",
@@ -3119,38 +3151,6 @@
         },
         {
           "node_type": "item",
-          "title": "MightyMichs-Patches",
-          "description": "mich111discord/MightyMichs-Patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Making patches for play store apps and manyyyyy others :)",
-            "homepage": null,
-            "id": 1385803403,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-11T14:58:33Z",
-            "open_issues": 12,
-            "owner": "mich111discord",
-            "repo": "MightyMichs-Patches",
-            "stars": 47,
-            "topics": [
-              "android-apk",
-              "android-app",
-              "android-app-bundle",
-              "android-app-modifications",
-              "android-apps",
-              "morphe",
-              "morphe-patches",
-              "revanced",
-              "revanced-alternative",
-              "revanced-patches"
-            ]
-          },
-          "first_seen": "2026-09-26T13:24:39.871Z"
-        },
-        {
-          "node_type": "item",
           "title": "HushPinterest",
           "description": "SysAdminDoc/HushPinterest",
           "children": [],
@@ -3162,7 +3162,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-05T10:47:00Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "SysAdminDoc",
             "repo": "HushPinterest",
             "stars": 47,
@@ -3179,6 +3179,39 @@
             ]
           },
           "first_seen": "2026-10-05T17:27:37.358Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pinterest-morphed",
+          "description": "SouBryan/pinterest-morphed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patches for Pinterest — removes ads, ad SDKs, trackers and analytics for a clean, distraction-free feed.",
+            "homepage": "https://morphe.software/add-source?github=SouBryan/pinterest-morphed",
+            "id": 1130547777,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-27T16:43:34Z",
+            "open_issues": 7,
+            "owner": "SouBryan",
+            "repo": "pinterest-morphed",
+            "stars": 45,
+            "topics": [
+              "ad-blocker",
+              "android",
+              "morphe",
+              "morphe-patches",
+              "no-ads",
+              "no-tracker",
+              "no-trackers",
+              "pinterest",
+              "pinterest-tool",
+              "privacy",
+              "revanced-alternative"
+            ]
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
         },
         {
           "node_type": "item",
@@ -3224,39 +3257,6 @@
         },
         {
           "node_type": "item",
-          "title": "pinterest-morphed",
-          "description": "SouBryan/pinterest-morphed",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe patches for Pinterest — removes ads, ad SDKs, trackers and analytics for a clean, distraction-free feed.",
-            "homepage": "https://morphe.software/add-source?github=SouBryan/pinterest-morphed",
-            "id": 1130547777,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-27T16:43:34Z",
-            "open_issues": 7,
-            "owner": "SouBryan",
-            "repo": "pinterest-morphed",
-            "stars": 44,
-            "topics": [
-              "ad-blocker",
-              "android",
-              "morphe",
-              "morphe-patches",
-              "no-ads",
-              "no-tracker",
-              "no-trackers",
-              "pinterest",
-              "pinterest-tool",
-              "privacy",
-              "revanced-alternative"
-            ]
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "carbridge-patches",
           "description": "jmwerk/carbridge-patches",
           "children": [],
@@ -3271,31 +3271,10 @@
             "open_issues": 0,
             "owner": "jmwerk",
             "repo": "carbridge-patches",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-11-07T15:13:53.107Z"
-        },
-        {
-          "node_type": "item",
-          "title": "morphe-patches",
-          "description": "kondratjev/morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1255901065,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-07T17:48:33Z",
-            "open_issues": 5,
-            "owner": "kondratjev",
-            "repo": "morphe-patches",
-            "stars": 41,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
         },
         {
           "node_type": "item",
@@ -3313,10 +3292,31 @@
             "open_issues": 0,
             "owner": "notBrian2",
             "repo": "revanced-rif-fixes",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-10-31T14:50:57.182Z"
+        },
+        {
+          "node_type": "item",
+          "title": "morphe-patches",
+          "description": "kondratjev/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1255901065,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-07T17:48:33Z",
+            "open_issues": 6,
+            "owner": "kondratjev",
+            "repo": "morphe-patches",
+            "stars": 41,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
         },
         {
           "node_type": "item",
@@ -3382,10 +3382,43 @@
             "open_issues": 27,
             "owner": "MiguelNinja19",
             "repo": "miguel-morphe-patches",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lurk-morphe-patches",
+          "description": "jordanwoodson/lurk-morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe privacy patches for Twitch, Kick and Rumble. Watch the stream, skip the tracking.",
+            "homepage": "https://morphe.software/add-source?github=jordanwoodson/lurk-morphe-patches&name=Lurk",
+            "id": 1419048180,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-05T15:16:09Z",
+            "open_issues": 14,
+            "owner": "jordanwoodson",
+            "repo": "lurk-morphe-patches",
+            "stars": 37,
+            "topics": [
+              "7tv",
+              "ad-blocker",
+              "android",
+              "kick",
+              "morphe",
+              "morphe-patches",
+              "privacy",
+              "revanced",
+              "rumble",
+              "streaming",
+              "twitch"
+            ]
+          },
+          "first_seen": "2026-10-15T13:43:40.531Z"
         },
         {
           "node_type": "item",
@@ -3421,34 +3454,6 @@
         },
         {
           "node_type": "item",
-          "title": "nicoid-re-patches",
-          "description": "chikuwadon/nicoid-re-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ニコニコ動画プレイヤー「nicoid」向けMorpheパッチ。現在の動画再生形式に対応し、再生・コメント・検索・動画管理の機能を拡張。ダークモード・Material You対応。",
-            "homepage": "https://morphe.software/add-source?github=chikuwadon%2Fnicoid-re-patches&name=nicoid%20Re",
-            "id": 1394793467,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-11T16:05:45Z",
-            "open_issues": 0,
-            "owner": "chikuwadon",
-            "repo": "nicoid-re-patches",
-            "stars": 35,
-            "topics": [
-              "android",
-              "morphe",
-              "morphe-patches",
-              "nicoid",
-              "niconico",
-              "nicovideo"
-            ]
-          },
-          "first_seen": "2026-10-02T15:05:56.844Z"
-        },
-        {
-          "node_type": "item",
           "title": "piko-ig-lite",
           "description": "crimera/piko-ig-lite",
           "children": [],
@@ -3463,10 +3468,59 @@
             "open_issues": 7,
             "owner": "crimera",
             "repo": "piko-ig-lite",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-10-05T17:27:37.358Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gmaps-patches",
+          "description": "fangkampanat/gmaps-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Google Maps patches for MicroG-RE",
+            "homepage": null,
+            "id": 1299988482,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-02T13:53:38Z",
+            "open_issues": 0,
+            "owner": "fangkampanat",
+            "repo": "gmaps-patches",
+            "stars": 35,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nicoid-re-patches",
+          "description": "chikuwadon/nicoid-re-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ニコニコ動画プレイヤー「nicoid」向けMorpheパッチ。現在の動画再生形式に対応し、再生・コメント・検索・動画管理の機能を拡張。ダークモード・Material You対応。",
+            "homepage": "https://morphe.software/add-source?github=chikuwadon%2Fnicoid-re-patches&name=nicoid%20Re",
+            "id": 1394793467,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-12T17:03:33Z",
+            "open_issues": 2,
+            "owner": "chikuwadon",
+            "repo": "nicoid-re-patches",
+            "stars": 35,
+            "topics": [
+              "android",
+              "morphe",
+              "morphe-patches",
+              "nicoid",
+              "niconico",
+              "nicovideo"
+            ]
+          },
+          "first_seen": "2026-10-02T15:05:56.844Z"
         },
         {
           "node_type": "item",
@@ -3502,57 +3556,24 @@
         },
         {
           "node_type": "item",
-          "title": "gmaps-patches",
-          "description": "fangkampanat/gmaps-patches",
+          "title": "revanced-rif-patches",
+          "description": "MojiRS/revanced-rif-patches",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Google Maps patches for MicroG-RE",
+            "description": "Custom ReVanced patch bundle for rif is fun (Reddit is Fun)",
             "homepage": null,
-            "id": 1299988482,
+            "id": 1265680041,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T13:53:38Z",
-            "open_issues": 0,
-            "owner": "fangkampanat",
-            "repo": "gmaps-patches",
-            "stars": 34,
+            "last_commit": "2026-11-11T20:02:34Z",
+            "open_issues": 1,
+            "owner": "MojiRS",
+            "repo": "revanced-rif-patches",
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lurk-morphe-patches",
-          "description": "jordanwoodson/lurk-morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe privacy patches for Twitch, Kick and Rumble. Watch the stream, skip the tracking.",
-            "homepage": "https://morphe.software/add-source?github=jordanwoodson/lurk-morphe-patches&name=Lurk",
-            "id": 1419048180,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-05T15:16:09Z",
-            "open_issues": 13,
-            "owner": "jordanwoodson",
-            "repo": "lurk-morphe-patches",
-            "stars": 34,
-            "topics": [
-              "7tv",
-              "ad-blocker",
-              "android",
-              "kick",
-              "morphe",
-              "morphe-patches",
-              "privacy",
-              "revanced",
-              "rumble",
-              "streaming",
-              "twitch"
-            ]
-          },
-          "first_seen": "2026-10-15T13:43:40.531Z"
         },
         {
           "node_type": "item",
@@ -3603,27 +3624,6 @@
               "x",
               "xml"
             ]
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
-          "title": "revanced-rif-patches",
-          "description": "MojiRS/revanced-rif-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Custom ReVanced patch bundle for rif is fun (Reddit is Fun)",
-            "homepage": null,
-            "id": 1265680041,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-10T00:24:51Z",
-            "open_issues": 1,
-            "owner": "MojiRS",
-            "repo": "revanced-rif-patches",
-            "stars": 31,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
         },
@@ -3774,7 +3774,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-03T12:15:47Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "franticg33k",
             "repo": "morphe-patches",
             "stars": 28,
@@ -3794,7 +3794,7 @@
             "id": 1294820814,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-11T04:27:48Z",
+            "last_commit": "2026-11-12T05:30:28Z",
             "open_issues": 18,
             "owner": "totsiaw",
             "repo": "proxma-patches",
@@ -3873,24 +3873,55 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": "zeldrisho/morphe-patches",
+          "title": "HushTumblr",
+          "description": "SysAdminDoc/HushTumblr",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Yet another Morphe Patches",
-            "homepage": "https://morphe.software/add-source?github=zeldrisho/morphe-patches",
-            "id": 1359105618,
+            "description": "HushTumblr Morphe patches for Tumblr. Takes ads and clutter out of your dashboard, and much more.",
+            "homepage": null,
+            "id": 1414710540,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-06T21:43:02Z",
+            "open_issues": 6,
+            "owner": "SysAdminDoc",
+            "repo": "HushTumblr",
+            "stars": 26,
+            "topics": [
+              "ad-blocker",
+              "android",
+              "customization",
+              "morphe",
+              "morphe-patches",
+              "patches",
+              "privacy",
+              "revanced",
+              "tumblr"
+            ]
+          },
+          "first_seen": "2026-10-12T18:15:23.870Z"
+        },
+        {
+          "node_type": "item",
+          "title": "morphe-patches-samsung",
+          "description": "bigyank/morphe-patches-samsung",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patches for Samsung Health on Knox-tripped Galaxy devices",
+            "homepage": null,
+            "id": 1276945934,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T08:58:32Z",
-            "open_issues": 8,
-            "owner": "zeldrisho",
-            "repo": "morphe-patches",
-            "stars": 26,
+            "last_commit": "2026-10-31T21:25:29Z",
+            "open_issues": 5,
+            "owner": "bigyank",
+            "repo": "morphe-patches-samsung",
+            "stars": 25,
             "topics": []
           },
-          "first_seen": "2026-09-09T13:11:05.193Z"
+          "first_seen": "2026-08-28T20:26:15.028Z"
         },
         {
           "node_type": "item",
@@ -3915,6 +3946,27 @@
             ]
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
+          "title": "morphe-patches",
+          "description": "zeldrisho/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Yet another Morphe Patches",
+            "homepage": "https://morphe.software/add-source?github=zeldrisho/morphe-patches",
+            "id": 1359105618,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-11T18:46:31Z",
+            "open_issues": 7,
+            "owner": "zeldrisho",
+            "repo": "morphe-patches",
+            "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-09-09T13:11:05.193Z"
         },
         {
           "node_type": "item",
@@ -3945,37 +3997,6 @@
         },
         {
           "node_type": "item",
-          "title": "HushTumblr",
-          "description": "SysAdminDoc/HushTumblr",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "HushTumblr Morphe patches for Tumblr. Takes ads and clutter out of your dashboard, and much more.",
-            "homepage": null,
-            "id": 1414710540,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-06T21:43:02Z",
-            "open_issues": 3,
-            "owner": "SysAdminDoc",
-            "repo": "HushTumblr",
-            "stars": 25,
-            "topics": [
-              "ad-blocker",
-              "android",
-              "customization",
-              "morphe",
-              "morphe-patches",
-              "patches",
-              "privacy",
-              "revanced",
-              "tumblr"
-            ]
-          },
-          "first_seen": "2026-10-12T18:15:23.870Z"
-        },
-        {
-          "node_type": "item",
           "title": "reseam-patches",
           "description": "madkarmaa/reseam-patches",
           "children": [],
@@ -3986,8 +4007,8 @@
             "id": 1363710080,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T16:03:19Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-11T19:46:18Z",
+            "open_issues": 3,
             "owner": "madkarmaa",
             "repo": "reseam-patches",
             "stars": 25,
@@ -4001,27 +4022,6 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches-samsung",
-          "description": "bigyank/morphe-patches-samsung",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe patches for Samsung Health on Knox-tripped Galaxy devices",
-            "homepage": null,
-            "id": 1276945934,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-31T21:25:29Z",
-            "open_issues": 5,
-            "owner": "bigyank",
-            "repo": "morphe-patches-samsung",
-            "stars": 24,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "letterboxd-morphe-patches",
           "description": "mvaishak/letterboxd-morphe-patches",
           "children": [],
@@ -4032,7 +4032,7 @@
             "id": 1354506325,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T07:11:33Z",
+            "last_commit": "2026-11-11T23:39:04Z",
             "open_issues": 3,
             "owner": "mvaishak",
             "repo": "letterboxd-morphe-patches",
@@ -4061,8 +4061,8 @@
             "id": 1348006273,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T06:13:16Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-12T15:36:46Z",
+            "open_issues": 1,
             "owner": "RashKash103",
             "repo": "sync-up",
             "stars": 24,
@@ -4161,7 +4161,7 @@
             "id": 1406215922,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T10:25:05Z",
+            "last_commit": "2026-11-12T10:42:07Z",
             "open_issues": 4,
             "owner": "heyymichii",
             "repo": "michii-patches",
@@ -4224,8 +4224,8 @@
             "id": 1373943995,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T16:28:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-11T19:20:47Z",
+            "open_issues": 6,
             "owner": "SatanMerde",
             "repo": "D-moniakPatches",
             "stars": 20,
@@ -4259,7 +4259,7 @@
             "id": 1428257709,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T16:02:08Z",
+            "last_commit": "2026-11-12T16:34:57Z",
             "open_issues": 4,
             "owner": "ineednotitle",
             "repo": "Proteus-Patches",
@@ -4274,6 +4274,27 @@
             ]
           },
           "first_seen": "2026-11-05T16:57:44.860Z"
+        },
+        {
+          "node_type": "item",
+          "title": "oyasumi-patches",
+          "description": "dunecache/oyasumi-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patches for ADM (com.dv.adm): ad suppression, rating prompt removal, and download/torrent limit tweaks.",
+            "homepage": null,
+            "id": 1379541355,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-01T00:36:25Z",
+            "open_issues": 11,
+            "owner": "dunecache",
+            "repo": "oyasumi-patches",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-09-23T13:53:17.690Z"
         },
         {
           "node_type": "item",
@@ -4371,7 +4392,7 @@
             "id": 1322965491,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T19:53:02Z",
+            "last_commit": "2026-11-12T16:19:30Z",
             "open_issues": 3,
             "owner": "AngelDark92",
             "repo": "xr-porting-hub",
@@ -4392,35 +4413,14 @@
             "id": 1359167433,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-10T12:37:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-12T15:09:35Z",
+            "open_issues": 4,
             "owner": "ryuya0124",
             "repo": "gemini-microg-patches",
             "stars": 18,
             "topics": []
           },
           "first_seen": "2026-09-07T14:29:16.869Z"
-        },
-        {
-          "node_type": "item",
-          "title": "oyasumi-patches",
-          "description": "dunecache/oyasumi-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe patches for ADM (com.dv.adm): ad suppression, rating prompt removal, and download/torrent limit tweaks.",
-            "homepage": null,
-            "id": 1379541355,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-01T00:36:25Z",
-            "open_issues": 11,
-            "owner": "dunecache",
-            "repo": "oyasumi-patches",
-            "stars": 18,
-            "topics": []
-          },
-          "first_seen": "2026-09-23T13:53:17.690Z"
         },
         {
           "node_type": "item",
@@ -4435,7 +4435,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-09T00:44:11Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ginDoki19",
             "repo": "GinArena-patch",
             "stars": 18,
@@ -4459,6 +4459,27 @@
             ]
           },
           "first_seen": "2026-10-25T13:23:49.849Z"
+        },
+        {
+          "node_type": "item",
+          "title": "google-maps-automotive-patches",
+          "description": "fangkampanat/google-maps-automotive-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Google Maps Automotive for MicroG-RE on BYD head units",
+            "homepage": null,
+            "id": 1437446685,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-11T15:44:08Z",
+            "open_issues": 1,
+            "owner": "fangkampanat",
+            "repo": "google-maps-automotive-patches",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T15:29:42.563Z"
         },
         {
           "node_type": "item",
@@ -4593,27 +4614,6 @@
         },
         {
           "node_type": "item",
-          "title": "google-maps-automotive-patches",
-          "description": "fangkampanat/google-maps-automotive-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Google Maps Automotive for MicroG-RE on BYD head units",
-            "homepage": null,
-            "id": 1437446685,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-11T15:44:08Z",
-            "open_issues": 2,
-            "owner": "fangkampanat",
-            "repo": "google-maps-automotive-patches",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-11-01T15:29:42.563Z"
-        },
-        {
-          "node_type": "item",
           "title": "my-morphe-patches",
           "description": "Almewty/my-morphe-patches",
           "children": [],
@@ -4656,6 +4656,27 @@
         },
         {
           "node_type": "item",
+          "title": "morphe-patches",
+          "description": "legendsciber/morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "legendsciber's Patches - Morphe patches",
+            "homepage": null,
+            "id": 1343938695,
+            "language": "Kotlin",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-08T19:01:00Z",
+            "open_issues": 1,
+            "owner": "legendsciber",
+            "repo": "morphe-patches",
+            "stars": 15,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
           "title": "dual-vot-patches",
           "description": "sashade8-ship-it/dual-vot-patches",
           "children": [],
@@ -4666,7 +4687,7 @@
             "id": 1309958250,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T22:41:03Z",
+            "last_commit": "2026-11-11T18:36:04Z",
             "open_issues": 8,
             "owner": "sashade8-ship-it",
             "repo": "dual-vot-patches",
@@ -4804,7 +4825,7 @@
             "id": 1405119594,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T16:09:43Z",
+            "last_commit": "2026-11-12T15:50:36Z",
             "open_issues": 5,
             "owner": "lavinhoque33",
             "repo": "revanced-patches",
@@ -4850,27 +4871,6 @@
             "open_issues": 6,
             "owner": "LaKakaReal",
             "repo": "LaKakaShitPatches",
-            "stars": 14,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
-          "title": "morphe-patches",
-          "description": "legendsciber/morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "legendsciber's Patches - Morphe patches",
-            "homepage": null,
-            "id": 1343938695,
-            "language": "Kotlin",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-08T19:01:00Z",
-            "open_issues": 1,
-            "owner": "legendsciber",
-            "repo": "morphe-patches",
             "stars": 14,
             "topics": []
           },
@@ -4983,6 +4983,27 @@
         },
         {
           "node_type": "item",
+          "title": "rustore-privacy-patches",
+          "description": "Freeman022026/rustore-privacy-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Selectable RuStore privacy patches for Morphe with verified automatic releases.",
+            "homepage": "https://morphe.software/add-source?github=Freeman022026/rustore-privacy-patches",
+            "id": 1337609962,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-04T14:46:45Z",
+            "open_issues": 4,
+            "owner": "Freeman022026",
+            "repo": "rustore-privacy-patches",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
           "title": "anxy-patches",
           "description": "anxyis/anxy-patches",
           "children": [],
@@ -5035,14 +5056,42 @@
             "id": 1279784143,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T12:21:08Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-12T09:24:21Z",
+            "open_issues": 3,
             "owner": "HellveticaStandard",
             "repo": "HellveticaPatches",
             "stars": 13,
             "topics": []
           },
           "first_seen": "2026-09-23T13:53:17.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "waze-patches",
+          "description": "Forsigh/waze-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patches for Waze",
+            "homepage": "https://morphe.software/add-source?github=Forsigh/waze-patches",
+            "id": 1404955661,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-08T21:01:17Z",
+            "open_issues": 1,
+            "owner": "Forsigh",
+            "repo": "waze-patches",
+            "stars": 13,
+            "topics": [
+              "android",
+              "morphe",
+              "morphe-patches",
+              "patches",
+              "revanced",
+              "waze"
+            ]
+          },
+          "first_seen": "2026-10-11T15:08:26.160Z"
         },
         {
           "node_type": "item",
@@ -5056,8 +5105,8 @@
             "id": 1403457688,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T13:37:56Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-12T11:37:17Z",
+            "open_issues": 1,
             "owner": "BlazeFTL",
             "repo": "FaceBook-Lite-Morphe",
             "stars": 13,
@@ -5094,27 +5143,6 @@
         },
         {
           "node_type": "item",
-          "title": "rustore-privacy-patches",
-          "description": "Freeman022026/rustore-privacy-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Selectable RuStore privacy patches for Morphe with verified automatic releases.",
-            "homepage": "https://morphe.software/add-source?github=Freeman022026/rustore-privacy-patches",
-            "id": 1337609962,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-04T14:46:45Z",
-            "open_issues": 4,
-            "owner": "Freeman022026",
-            "repo": "rustore-privacy-patches",
-            "stars": 12,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:15.028Z"
-        },
-        {
-          "node_type": "item",
           "title": "aimal-patches",
           "description": "hashtagbasit/aimal-patches",
           "children": [],
@@ -5144,31 +5172,29 @@
         },
         {
           "node_type": "item",
-          "title": "waze-patches",
-          "description": "Forsigh/waze-patches",
+          "title": "arsound",
+          "description": "Allvoid/arsound",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Morphe patches for Waze",
-            "homepage": "https://morphe.software/add-source?github=Forsigh/waze-patches",
-            "id": 1404955661,
-            "language": "Kotlin",
+            "description": "Arsound — a SoundCloud mod for Android: no ads, offline tracks, your own music, YouTube Music search, themes. / Мод SoundCloud: без рекламы, офлайн-треки, своя музыка, поиск в YouTube Music, темы",
+            "homepage": null,
+            "id": 1370662919,
+            "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T21:01:17Z",
-            "open_issues": 1,
-            "owner": "Forsigh",
-            "repo": "waze-patches",
+            "last_commit": "2026-11-11T22:05:24Z",
+            "open_issues": 0,
+            "owner": "Allvoid",
+            "repo": "arsound",
             "stars": 12,
             "topics": [
               "android",
-              "morphe",
-              "morphe-patches",
-              "patches",
               "revanced",
-              "waze"
+              "revanced-patches",
+              "soundcloud"
             ]
           },
-          "first_seen": "2026-10-11T15:08:26.160Z"
+          "first_seen": "2026-09-23T13:53:17.690Z"
         },
         {
           "node_type": "item",
@@ -5240,32 +5266,6 @@
         },
         {
           "node_type": "item",
-          "title": "arsound",
-          "description": "Allvoid/arsound",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Arsound — a SoundCloud mod for Android: no ads, offline tracks, your own music, YouTube Music search, themes. / Мод SoundCloud: без рекламы, офлайн-треки, своя музыка, поиск в YouTube Music, темы",
-            "homepage": null,
-            "id": 1370662919,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-10T13:34:39Z",
-            "open_issues": 0,
-            "owner": "Allvoid",
-            "repo": "arsound",
-            "stars": 11,
-            "topics": [
-              "android",
-              "revanced",
-              "revanced-patches",
-              "soundcloud"
-            ]
-          },
-          "first_seen": "2026-09-23T13:53:17.690Z"
-        },
-        {
-          "node_type": "item",
           "title": "telegram-morphe-patches-",
           "description": "newuser7171/telegram-morphe-patches-",
           "children": [],
@@ -5331,6 +5331,27 @@
             "topics": []
           },
           "first_seen": "2026-10-05T17:27:37.358Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Retro-Bowl-College",
+          "description": "mwbra130/Retro-Bowl-College",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zdrgon's Morphe Patches including Direct-to-Cell Satellite Data Optimization",
+            "homepage": null,
+            "id": 1382527739,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-11T17:03:07Z",
+            "open_issues": 0,
+            "owner": "mwbra130",
+            "repo": "Retro-Bowl-College",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-11-05T16:57:44.860Z"
         },
         {
           "node_type": "item",
@@ -5506,35 +5527,14 @@
             "id": 1440606642,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T08:53:01Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-12T09:54:51Z",
+            "open_issues": 10,
             "owner": "semicoloncolonel",
             "repo": "mobile-morphe-patches",
             "stars": 10,
             "topics": []
           },
           "first_seen": "2026-11-01T15:29:42.563Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Retro-Bowl-College",
-          "description": "mwbra130/Retro-Bowl-College",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Zdrgon's Morphe Patches including Direct-to-Cell Satellite Data Optimization",
-            "homepage": null,
-            "id": 1382527739,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-11T16:36:03Z",
-            "open_issues": 0,
-            "owner": "mwbra130",
-            "repo": "Retro-Bowl-College",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-11-05T16:57:44.860Z"
         },
         {
           "node_type": "item",
@@ -5706,7 +5706,7 @@
             "id": 1434234032,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T03:26:36Z",
+            "last_commit": "2026-11-12T15:15:54Z",
             "open_issues": 0,
             "owner": "amfakh",
             "repo": "fakh-patches",
@@ -6122,7 +6122,7 @@
             "id": 1352700739,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T09:01:19Z",
+            "last_commit": "2026-11-12T04:33:39Z",
             "open_issues": 0,
             "owner": "uta-a",
             "repo": "linimal",
@@ -6411,7 +6411,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-30T08:22:41Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "romanchukg-cloud",
             "repo": "maps-automotive-for-byd-patches",
             "stars": 7,
@@ -6431,8 +6431,8 @@
             "id": 1431097134,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T15:07:16Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-12T16:33:56Z",
+            "open_issues": 1,
             "owner": "JoanComasFdz",
             "repo": "baconreader-morphe-patches",
             "stars": 7,
@@ -6494,7 +6494,7 @@
             "id": 1299627118,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T14:38:10Z",
+            "last_commit": "2026-11-11T16:42:08Z",
             "open_issues": 6,
             "owner": "TheRealCrazyfuy",
             "repo": "abeja-morphe-patches",
@@ -6830,7 +6830,7 @@
             "id": 1419529364,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T11:50:29Z",
+            "last_commit": "2026-11-12T08:59:55Z",
             "open_issues": 0,
             "owner": "jzl1",
             "repo": "morphe-patches",
@@ -6899,7 +6899,7 @@
             "id": 1429975643,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T15:02:57Z",
+            "last_commit": "2026-11-12T16:17:48Z",
             "open_issues": 0,
             "owner": "JoanComasFdz",
             "repo": "baconreader-reseam-patches",
@@ -6970,6 +6970,37 @@
             "topics": []
           },
           "first_seen": "2026-11-01T15:29:42.563Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gtasa-de-morphe-patches",
+          "description": "RAZORRZR0/gtasa-de-morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patches: AML mod loader and PC mod ports for GTA: San Andreas - Definitive Edition (Android)",
+            "homepage": null,
+            "id": 1441883440,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-05T13:47:43Z",
+            "open_issues": 0,
+            "owner": "RAZORRZR0",
+            "repo": "gtasa-de-morphe-patches",
+            "stars": 6,
+            "topics": [
+              "android",
+              "definitive-edition",
+              "gta-san-andreas",
+              "gta-trilogy",
+              "kotlin",
+              "modding",
+              "morphe",
+              "patches",
+              "reverse-engineering"
+            ]
+          },
+          "first_seen": "2026-11-05T16:57:44.860Z"
         },
         {
           "node_type": "item",
@@ -7198,7 +7229,7 @@
             "id": 1307092309,
             "language": "Smali",
             "license": null,
-            "last_commit": "2026-11-11T13:28:25Z",
+            "last_commit": "2026-11-12T16:37:11Z",
             "open_issues": 2,
             "owner": "JonnyVR1",
             "repo": "morph-patches",
@@ -7219,7 +7250,7 @@
             "id": 1323831664,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T21:20:00Z",
+            "last_commit": "2026-11-12T01:22:14Z",
             "open_issues": 3,
             "owner": "spookyexe",
             "repo": "morphe-patches",
@@ -7379,8 +7410,8 @@
             "id": 1347684244,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T05:48:19Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-12T07:42:09Z",
+            "open_issues": 3,
             "owner": "Dan1elTheMan1el",
             "repo": "Morphe-Patches",
             "stars": 5,
@@ -7804,7 +7835,7 @@
             "id": 1417517048,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T13:16:46Z",
+            "last_commit": "2026-11-12T11:10:05Z",
             "open_issues": 4,
             "owner": "sahilwasgood",
             "repo": "patches",
@@ -7852,8 +7883,8 @@
             "id": 1420536959,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T16:23:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-11T17:25:46Z",
+            "open_issues": 4,
             "owner": "callMeBeyonder",
             "repo": "morphe-patches",
             "stars": 5,
@@ -8062,7 +8093,7 @@
             "id": 1441443119,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T05:26:29Z",
+            "last_commit": "2026-11-12T07:49:28Z",
             "open_issues": 1,
             "owner": "VexingVertigo",
             "repo": "spicetify-sandbox",
@@ -8075,34 +8106,24 @@
         },
         {
           "node_type": "item",
-          "title": "gtasa-de-morphe-patches",
-          "description": "RAZORRZR0/gtasa-de-morphe-patches",
+          "title": "morphe-patches",
+          "description": "mmenzyns/morphe-patches",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Morphe patches: AML mod loader and PC mod ports for GTA: San Andreas - Definitive Edition (Android)",
+            "description": null,
             "homepage": null,
-            "id": 1441883440,
+            "id": 1442114001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T13:47:43Z",
-            "open_issues": 0,
-            "owner": "RAZORRZR0",
-            "repo": "gtasa-de-morphe-patches",
+            "last_commit": "2026-11-06T15:13:04Z",
+            "open_issues": 1,
+            "owner": "mmenzyns",
+            "repo": "morphe-patches",
             "stars": 5,
-            "topics": [
-              "android",
-              "definitive-edition",
-              "gta-san-andreas",
-              "gta-trilogy",
-              "kotlin",
-              "modding",
-              "morphe",
-              "patches",
-              "reverse-engineering"
-            ]
+            "topics": []
           },
-          "first_seen": "2026-11-05T16:57:44.860Z"
+          "first_seen": "2026-11-04T16:37:55.380Z"
         },
         {
           "node_type": "item",
@@ -8116,7 +8137,7 @@
             "id": 1443007913,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T12:40:47Z",
+            "last_commit": "2026-11-12T16:30:43Z",
             "open_issues": 1,
             "owner": "Piracola",
             "repo": "Pixiv-Patched",
@@ -8224,8 +8245,8 @@
             "id": 1299457515,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T09:24:38Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-12T02:21:37Z",
+            "open_issues": 10,
             "owner": "variablenine",
             "repo": "morphe-patches",
             "stars": 4,
@@ -8351,7 +8372,7 @@
             "language": "Kotlin",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T13:37:09Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "canh0chua",
             "repo": "Morphe-patches",
             "stars": 4,
@@ -8393,7 +8414,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T03:16:35Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "kuntal-devrat",
             "repo": "diskwala-patches",
             "stars": 4,
@@ -9009,27 +9030,6 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": "mmenzyns/morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1442114001,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-06T15:13:04Z",
-            "open_issues": 1,
-            "owner": "mmenzyns",
-            "repo": "morphe-patches",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-11-04T16:37:55.380Z"
-        },
-        {
-          "node_type": "item",
           "title": "LiquidMusic",
           "description": "myvoow/LiquidMusic",
           "children": [],
@@ -9061,7 +9061,7 @@
             "id": 1444320427,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T16:39:29Z",
+            "last_commit": "2026-11-12T14:12:24Z",
             "open_issues": 7,
             "owner": "vippium",
             "repo": "brokenn-patches",
@@ -9957,7 +9957,7 @@
             "id": 1413768343,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T23:48:30Z",
+            "last_commit": "2026-11-11T23:34:23Z",
             "open_issues": 1,
             "owner": "sqzass",
             "repo": "patches",
@@ -10333,8 +10333,8 @@
             "id": 1440016582,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T14:21:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-12T12:20:53Z",
+            "open_issues": 0,
             "owner": "quwi26",
             "repo": "Quwis-Patches",
             "stars": 3,
@@ -10439,27 +10439,6 @@
         },
         {
           "node_type": "item",
-          "title": "Morphe",
-          "description": "Mlkem/Morphe",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1441323812,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-11T14:33:10Z",
-            "open_issues": 5,
-            "owner": "Mlkem",
-            "repo": "Morphe",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-11-01T15:29:42.563Z"
-        },
-        {
-          "node_type": "item",
           "title": "rex-ig-lite",
           "description": "xboyrex/rex-ig-lite",
           "children": [],
@@ -10531,6 +10510,27 @@
         },
         {
           "node_type": "item",
+          "title": "YT-Music-Morphe-Pitch-Patch",
+          "description": "AnTo88-svg/YT-Music-Morphe-Pitch-Patch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pitch patch for YouTube Music, compatible with Morphe",
+            "homepage": null,
+            "id": 1441777696,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-01T12:23:21Z",
+            "open_issues": 0,
+            "owner": "AnTo88-svg",
+            "repo": "YT-Music-Morphe-Pitch-Patch",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-11-04T16:37:55.380Z"
+        },
+        {
+          "node_type": "item",
           "title": "kplus-root-bypass",
           "description": "ak-a-ra/kplus-root-bypass",
           "children": [],
@@ -10570,6 +10570,27 @@
             "topics": []
           },
           "first_seen": "2026-11-04T16:37:55.380Z"
+        },
+        {
+          "node_type": "item",
+          "title": "morphe-patches-gemini-ask",
+          "description": "vaas1k/morphe-patches-gemini-ask",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1444771100,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-03T21:05:30Z",
+            "open_issues": 0,
+            "owner": "vaas1k",
+            "repo": "morphe-patches-gemini-ask",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-11-05T16:57:44.860Z"
         },
         {
           "node_type": "item",
@@ -10763,7 +10784,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-10T19:28:22Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jair1c",
             "repo": "farotv-patches",
             "stars": 3,
@@ -10902,6 +10923,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
+        },
+        {
+          "node_type": "item",
+          "title": "netease-ja",
+          "description": "sas-news/netease-ja",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": null,
+            "homepage": null,
+            "id": 1430574345,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-06T03:09:37Z",
+            "open_issues": 0,
+            "owner": "sas-news",
+            "repo": "netease-ja",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-25T13:23:49.849Z"
         },
         {
           "node_type": "item",
@@ -11789,9 +11831,9 @@
             "description": null,
             "homepage": null,
             "id": 1406830446,
-            "language": "JavaScript",
+            "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T13:35:23Z",
+            "last_commit": "2026-11-12T09:08:56Z",
             "open_issues": 0,
             "owner": "dongmin8350",
             "repo": "fmkorea-splash-patches",
@@ -12054,6 +12096,27 @@
         },
         {
           "node_type": "item",
+          "title": "brave-immersive-statusbar",
+          "description": "thrkingunknown/brave-immersive-statusbar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1425184826,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-29T23:21:01Z",
+            "open_issues": 1,
+            "owner": "thrkingunknown",
+            "repo": "brave-immersive-statusbar",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-20T13:52:57.597Z"
+        },
+        {
+          "node_type": "item",
           "title": "moodle-browser-login-patch",
           "description": "AlonResearch/moodle-browser-login-patch",
           "children": [],
@@ -12106,7 +12169,7 @@
             "id": 1430058259,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T06:53:24Z",
+            "last_commit": "2026-11-12T09:52:37Z",
             "open_issues": 0,
             "owner": "BDCrusher",
             "repo": "ytmusic-lyrics",
@@ -12256,8 +12319,8 @@
             "id": 1430612906,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T20:30:30Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-12T10:33:20Z",
+            "open_issues": 1,
             "owner": "Prisoner-24601",
             "repo": "custom-morphe-patches",
             "stars": 2,
@@ -12375,27 +12438,6 @@
         },
         {
           "node_type": "item",
-          "title": "drtv-morphe-patches",
-          "description": "zenthora/drtv-morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Permanent dark theme patch for the DRTV Android TV app (dk.dr.tvplayer)",
-            "homepage": null,
-            "id": 1436029681,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-01T09:48:21Z",
-            "open_issues": 4,
-            "owner": "zenthora",
-            "repo": "drtv-morphe-patches",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-10-30T15:22:26.269Z"
-        },
-        {
-          "node_type": "item",
           "title": "overhypedcat-twitch-patches",
           "description": "Overhypedcat/overhypedcat-twitch-patches",
           "children": [],
@@ -12464,6 +12506,27 @@
             ]
           },
           "first_seen": "2026-10-30T15:22:26.269Z"
+        },
+        {
+          "node_type": "item",
+          "title": "es-file-explorer-morphe-patches",
+          "description": "azkiabenington/es-file-explorer-morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patches for ES File Explorer: Lifetime VIP, Block Ads, Block Tracking, and Lightweight Fast Launch",
+            "homepage": null,
+            "id": 1439476658,
+            "language": "Kotlin",
+            "license": null,
+            "last_commit": "2026-10-30T09:22:42Z",
+            "open_issues": 1,
+            "owner": "azkiabenington",
+            "repo": "es-file-explorer-morphe-patches",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-31T14:50:57.182Z"
         },
         {
           "node_type": "item",
@@ -12607,6 +12670,27 @@
         },
         {
           "node_type": "item",
+          "title": "Morphe",
+          "description": "Mlkem/Morphe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1441323812,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-12T14:31:02Z",
+            "open_issues": 1,
+            "owner": "Mlkem",
+            "repo": "Morphe",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T15:29:42.563Z"
+        },
+        {
+          "node_type": "item",
           "title": "revanced-sync-fixes",
           "description": "bstamper4/revanced-sync-fixes",
           "children": [],
@@ -12634,27 +12718,6 @@
         },
         {
           "node_type": "item",
-          "title": "YT-Music-Morphe-Pitch-Patch",
-          "description": "AnTo88-svg/YT-Music-Morphe-Pitch-Patch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Pitch patch for YouTube Music, compatible with Morphe",
-            "homepage": null,
-            "id": 1441777696,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-01T12:23:21Z",
-            "open_issues": 0,
-            "owner": "AnTo88-svg",
-            "repo": "YT-Music-Morphe-Pitch-Patch",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-11-04T16:37:55.380Z"
-        },
-        {
-          "node_type": "item",
           "title": "Wordfeud-Word-Finder",
           "description": "Jeroenimo02/Wordfeud-Word-Finder",
           "children": [],
@@ -12665,8 +12728,8 @@
             "id": 1444672655,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T20:34:02Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-12T13:42:48Z",
+            "open_issues": 4,
             "owner": "Jeroenimo02",
             "repo": "Wordfeud-Word-Finder",
             "stars": 2,
@@ -12795,27 +12858,6 @@
             "open_issues": 2,
             "owner": "MangoTornado",
             "repo": "morphe-patches-suchi",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-11-05T16:57:44.860Z"
-        },
-        {
-          "node_type": "item",
-          "title": "morphe-patches-gemini-ask",
-          "description": "vaas1k/morphe-patches-gemini-ask",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1444771100,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-03T21:05:30Z",
-            "open_issues": 0,
-            "owner": "vaas1k",
-            "repo": "morphe-patches-gemini-ask",
             "stars": 2,
             "topics": []
           },
@@ -13127,7 +13169,7 @@
             "id": 1441017270,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T07:29:03Z",
+            "last_commit": "2026-11-12T13:07:43Z",
             "open_issues": 4,
             "owner": "srinath1848",
             "repo": "nobrokerhood-patches",
@@ -13665,7 +13707,7 @@
             "id": 1446404249,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T04:09:37Z",
+            "last_commit": "2026-11-12T17:08:08Z",
             "open_issues": 0,
             "owner": "Sabrina-Moonlight",
             "repo": "gracie-patches",
@@ -13715,6 +13757,43 @@
             "topics": []
           },
           "first_seen": "2026-11-06T16:20:15.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Vogelkop-MorphePatches",
+          "description": "maniesh-NR/Vogelkop-MorphePatches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Morphe patches that de-ads Opera Browser / Opera Beta / Opera GX: removes sponsored Speed Dial tiles, the hidden Acceptable-Ads partner whitelists and third-party ad modules. Built by the Z.ai agent (GLM).",
+            "homepage": "https://morphe.software/add-source?github=maniesh-NR/Vogelkop-MophePatches",
+            "id": 1449160780,
+            "language": "Smali",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-12T05:06:39Z",
+            "open_issues": 1,
+            "owner": "maniesh-NR",
+            "repo": "Vogelkop-MorphePatches",
+            "stars": 2,
+            "topics": [
+              "acceptable-ads",
+              "ad-blocking",
+              "adblock",
+              "android",
+              "apk-patcher",
+              "kotlin",
+              "morphe",
+              "morphe-patches",
+              "opera",
+              "opera-browser",
+              "opera-gx",
+              "patch-bundle",
+              "privacy",
+              "revanced",
+              "reverse-engineering"
+            ]
+          },
+          "first_seen": "2026-11-08T15:37:15.729Z"
         },
         {
           "node_type": "item",
@@ -13786,17 +13865,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Morphe patches for Keyflow (com.angkin.keyflow) 1.5.8 - PairIP, signer-identity, Pro unlock",
+            "description": "A collection of Morphe patches.",
             "homepage": null,
             "id": 1450707744,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T11:47:21Z",
+            "last_commit": "2026-11-12T04:02:21Z",
             "open_issues": 0,
             "owner": "Globberry",
             "repo": "morphe-patches",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "android",
+              "morphe",
+              "morphe-patches"
+            ]
           },
           "first_seen": "2026-11-11T16:39:58.726Z"
         },
@@ -13816,6 +13899,59 @@
             "open_issues": 1,
             "owner": "Kenny201",
             "repo": "medium-morphe-patches",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-11-11T16:39:58.726Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kanye-morphe-patches",
+          "description": "zimza1abim/kanye-morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Custom fonts and small fixes for Android browsers, note apps and Bitwarden, for use with Morphe.",
+            "homepage": null,
+            "id": 1452105320,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-12T02:00:27Z",
+            "open_issues": 0,
+            "owner": "zimza1abim",
+            "repo": "kanye-morphe-patches",
+            "stars": 2,
+            "topics": [
+              "android",
+              "anytype",
+              "bitwarden",
+              "brave-browser",
+              "custom-fonts",
+              "joplin",
+              "morphe",
+              "morphe-patches",
+              "notesnook",
+              "patches"
+            ]
+          },
+          "first_seen": "2026-11-11T16:39:58.726Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rajs-morphe-patches",
+          "description": "Rajdave69/rajs-morphe-patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1451596037,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-10T14:38:45Z",
+            "open_issues": 0,
+            "owner": "Rajdave69",
+            "repo": "rajs-morphe-patches",
             "stars": 2,
             "topics": []
           },
@@ -13970,24 +14106,24 @@
         },
         {
           "node_type": "item",
-          "title": "netease-ja",
-          "description": "sas-news/netease-ja",
+          "title": "drtv-morphe-patches",
+          "description": "zenthora/drtv-morphe-patches",
           "children": [],
           "repo_info": {
             "archived": true,
-            "description": null,
+            "description": "Permanent dark theme patch for the DRTV Android TV app (dk.dr.tvplayer)",
             "homepage": null,
-            "id": 1430574345,
-            "language": "Java",
+            "id": 1436029681,
+            "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T03:09:37Z",
-            "open_issues": 0,
-            "owner": "sas-news",
-            "repo": "netease-ja",
+            "last_commit": "2026-11-01T09:48:21Z",
+            "open_issues": 4,
+            "owner": "zenthora",
+            "repo": "drtv-morphe-patches",
             "stars": 2,
             "topics": []
           },
-          "first_seen": "2026-10-25T13:23:49.849Z"
+          "first_seen": "2026-10-30T15:22:26.269Z"
         },
         {
           "node_type": "item",
@@ -14424,7 +14560,7 @@
             "id": 1390767585,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-30T13:43:16Z",
+            "last_commit": "2026-11-12T01:05:41Z",
             "open_issues": 1,
             "owner": "Aorus22",
             "repo": "twitter-bookmarker",
@@ -14537,27 +14673,6 @@
             "topics": []
           },
           "first_seen": "2026-10-16T13:33:52.559Z"
-        },
-        {
-          "node_type": "item",
-          "title": "brave-immersive-statusbar",
-          "description": "thrkingunknown/brave-immersive-statusbar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1425184826,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-29T23:21:01Z",
-            "open_issues": 1,
-            "owner": "thrkingunknown",
-            "repo": "brave-immersive-statusbar",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-10-20T13:52:57.597Z"
         },
         {
           "node_type": "item",
@@ -14844,27 +14959,6 @@
         },
         {
           "node_type": "item",
-          "title": "es-file-explorer-morphe-patches",
-          "description": "azkiabenington/es-file-explorer-morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe patches for ES File Explorer: Lifetime VIP, Block Ads, Block Tracking, and Lightweight Fast Launch",
-            "homepage": null,
-            "id": 1439476658,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2026-10-30T09:22:42Z",
-            "open_issues": 1,
-            "owner": "azkiabenington",
-            "repo": "es-file-explorer-morphe-patches",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-10-31T14:50:57.182Z"
-        },
-        {
-          "node_type": "item",
           "title": "notes-morphe-patches",
           "description": "jibon-k/notes-morphe-patches",
           "children": [],
@@ -15132,7 +15226,7 @@
             "id": 1422228569,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T23:31:18Z",
+            "last_commit": "2026-11-12T08:47:34Z",
             "open_issues": 2,
             "owner": "byDimasik",
             "repo": "vk-video-revanced-patches",
@@ -15325,7 +15419,7 @@
             "id": 1448069615,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T14:26:58Z",
+            "last_commit": "2026-11-11T18:14:56Z",
             "open_issues": 0,
             "owner": "GahahaWang",
             "repo": "TWRailway-patch",
@@ -15388,7 +15482,7 @@
             "id": 1449345046,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T05:19:32Z",
+            "last_commit": "2026-11-12T09:28:33Z",
             "open_issues": 0,
             "owner": "bryceaspringfield",
             "repo": "morphe",
@@ -15415,43 +15509,6 @@
             "repo": "Maps-AA-AnyMode-Morphe",
             "stars": 1,
             "topics": []
-          },
-          "first_seen": "2026-11-08T15:37:15.729Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Vogelkop-MorphePatches",
-          "description": "maniesh-NR/Vogelkop-MorphePatches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Morphe patches that de-ads Opera Browser / Opera Beta / Opera GX: removes sponsored Speed Dial tiles, the hidden Acceptable-Ads partner whitelists and third-party ad modules. Built by the Z.ai agent (GLM).",
-            "homepage": "https://morphe.software/add-source?github=maniesh-NR/Vogelkop-MophePatches",
-            "id": 1449160780,
-            "language": "Kotlin",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T16:35:16Z",
-            "open_issues": 1,
-            "owner": "maniesh-NR",
-            "repo": "Vogelkop-MorphePatches",
-            "stars": 1,
-            "topics": [
-              "acceptable-ads",
-              "ad-blocking",
-              "adblock",
-              "android",
-              "apk-patcher",
-              "kotlin",
-              "morphe",
-              "morphe-patches",
-              "opera",
-              "opera-browser",
-              "opera-gx",
-              "patch-bundle",
-              "privacy",
-              "revanced",
-              "reverse-engineering"
-            ]
           },
           "first_seen": "2026-11-08T15:37:15.729Z"
         },
@@ -16028,38 +16085,6 @@
         },
         {
           "node_type": "item",
-          "title": "kanye-morphe-patches",
-          "description": "zimza1abim/kanye-morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Custom fonts and small fixes for Android browsers, note apps and Bitwarden, for use with Morphe.",
-            "homepage": null,
-            "id": 1452105320,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-11T10:58:49Z",
-            "open_issues": 0,
-            "owner": "zimza1abim",
-            "repo": "kanye-morphe-patches",
-            "stars": 1,
-            "topics": [
-              "android",
-              "anytype",
-              "bitwarden",
-              "brave-browser",
-              "custom-fonts",
-              "joplin",
-              "morphe",
-              "morphe-patches",
-              "notesnook",
-              "patches"
-            ]
-          },
-          "first_seen": "2026-11-11T16:39:58.726Z"
-        },
-        {
-          "node_type": "item",
           "title": "sby-patches",
           "description": "saadbinyousaf1/sby-patches",
           "children": [],
@@ -16070,7 +16095,7 @@
             "id": 1452403377,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T22:54:06Z",
+            "last_commit": "2026-11-12T16:30:51Z",
             "open_issues": 0,
             "owner": "saadbinyousaf1",
             "repo": "sby-patches",
@@ -16107,19 +16132,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Claude Morphe Patches",
-            "homepage": "https://github.com/nivalox/Larpude/releases",
-            "id": 1453025027,
+            "description": "Morphe Patches for the Claude Android application",
+            "homepage": null,
+            "id": 1454468205,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-11T15:35:44Z",
+            "last_commit": "2026-11-11T22:49:02Z",
             "open_issues": 0,
             "owner": "nivalox",
             "repo": "Larpude",
             "stars": 1,
             "topics": []
           },
-          "first_seen": "2026-11-11T16:39:58.726Z"
+          "first_seen": "2026-11-12T17:08:50.975Z"
         },
         {
           "node_type": "item",
@@ -16133,31 +16158,10 @@
             "id": 1452196802,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T10:43:44Z",
+            "last_commit": "2026-11-12T11:28:42Z",
             "open_issues": 0,
             "owner": "sabbirdj",
             "repo": "viper-patches",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-11-11T16:39:58.726Z"
-        },
-        {
-          "node_type": "item",
-          "title": "rajs-morphe-patches",
-          "description": "Rajdave69/rajs-morphe-patches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1451596037,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-10T14:38:45Z",
-            "open_issues": 0,
-            "owner": "Rajdave69",
-            "repo": "rajs-morphe-patches",
             "stars": 1,
             "topics": []
           },
@@ -16175,7 +16179,7 @@
             "id": 1452645155,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T14:31:33Z",
+            "last_commit": "2026-11-11T22:21:19Z",
             "open_issues": 6,
             "owner": "Martinikaws",
             "repo": "spotify-merged-patches",
@@ -16196,7 +16200,7 @@
             "id": 1452259654,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T11:51:05Z",
+            "last_commit": "2026-11-12T05:02:15Z",
             "open_issues": 0,
             "owner": "ShortEnigma0",
             "repo": "expertraw-morphe-patches",
@@ -16301,8 +16305,8 @@
             "id": 1441429018,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T14:35:48Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-12T15:30:48Z",
+            "open_issues": 0,
             "owner": "XBadFellaX",
             "repo": "BadFella-Patches",
             "stars": 0,
@@ -16343,7 +16347,7 @@
             "id": 1451739080,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-11T15:23:39Z",
+            "last_commit": "2026-11-11T16:40:55Z",
             "open_issues": 0,
             "owner": "hkopenclaw",
             "repo": "viutv-patches",
@@ -16413,10 +16417,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-11T10:10:05Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "NexAlloy",
             "repo": "NexAlloy",
-            "stars": 3153,
+            "stars": 3157,
             "topics": [
               "android",
               "morphe",
@@ -16445,7 +16449,7 @@
             "open_issues": 0,
             "owner": "inotia00",
             "repo": "revanced-manager",
-            "stars": 1698,
+            "stars": 1697,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -16462,11 +16466,11 @@
             "id": 1075242574,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T04:00:57Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-12T01:27:41Z",
+            "open_issues": 31,
             "owner": "Jman-Github",
             "repo": "Universal-Patch-Manager",
-            "stars": 1425,
+            "stars": 1429,
             "topics": [
               "android",
               "apk",
@@ -16572,7 +16576,7 @@
             "open_issues": 18,
             "owner": "rushiranpise",
             "repo": "helper-for-morphe",
-            "stars": 468,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -16630,11 +16634,11 @@
             "id": 1200601256,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T21:19:10Z",
+            "last_commit": "2026-11-12T10:28:02Z",
             "open_issues": 3,
             "owner": "Valenced",
             "repo": "valenced",
-            "stars": 241,
+            "stars": 244,
             "topics": [
               "android",
               "discord",
@@ -16665,7 +16669,7 @@
             "open_issues": 0,
             "owner": "selfmusing",
             "repo": "RVX-Lite-Modules",
-            "stars": 227,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -16682,8 +16686,8 @@
             "id": 1427389017,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T15:52:59Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-12T04:58:38Z",
+            "open_issues": 6,
             "owner": "holjab",
             "repo": "AutoMorph",
             "stars": 209,
@@ -16728,7 +16732,7 @@
             "open_issues": 2,
             "owner": "Paresh-Maheshwari",
             "repo": "morphe-ai",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "android",
               "apk",
@@ -16997,20 +17001,20 @@
         },
         {
           "node_type": "item",
-          "title": "more_feature_flags",
-          "description": "jpa102/more_feature_flags",
+          "title": "morphe_feature_flags",
+          "description": "jpa102/morphe_feature_flags",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "collection of feature flags from apps patched with morphe, also compatible with reseam",
+            "description": "collection of feature flags from apps patched with morphe, can also possibly work with reseam and others",
             "homepage": null,
             "id": 1196899760,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-29T13:45:36Z",
+            "last_commit": "2026-11-12T11:30:40Z",
             "open_issues": 0,
             "owner": "jpa102",
-            "repo": "more_feature_flags",
+            "repo": "morphe_feature_flags",
             "stars": 8,
             "topics": []
           },
@@ -17122,7 +17126,7 @@
             "open_issues": 2,
             "owner": "j-hc",
             "repo": "revanced-magisk-module",
-            "stars": 7715,
+            "stars": 7719,
             "topics": [
               "magisk",
               "module",
@@ -17149,7 +17153,7 @@
             "open_issues": 4,
             "owner": "NoName-exe",
             "repo": "revanced-extended",
-            "stars": 4244,
+            "stars": 4246,
             "topics": [
               "magisk",
               "magisk-module",
@@ -17174,7 +17178,7 @@
             "id": 609906498,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T09:41:11Z",
+            "last_commit": "2026-11-12T04:06:15Z",
             "open_issues": 13,
             "owner": "FiorenMas",
             "repo": "Revanced-And-Revanced-Extended-Non-Root",
@@ -17216,11 +17220,11 @@
             "id": 1132144356,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T15:12:31Z",
+            "last_commit": "2026-11-11T18:35:46Z",
             "open_issues": 95,
             "owner": "RookieEnough",
             "repo": "Morphe-AutoBuilds",
-            "stars": 1249,
+            "stars": 1250,
             "topics": [
               "android",
               "automation",
@@ -17273,7 +17277,7 @@
             "open_issues": 27,
             "owner": "inotia00",
             "repo": "rvx-builder",
-            "stars": 714,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:15.028Z"
@@ -17325,7 +17329,7 @@
             "id": 524139377,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T12:00:10Z",
+            "last_commit": "2026-11-12T12:00:09Z",
             "open_issues": 2,
             "owner": "nikhilbadyal",
             "repo": "docker-py-revanced",
@@ -17358,10 +17362,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-11-10T17:28:21Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "peternmuller",
             "repo": "revanced-morphe-builder",
-            "stars": 297,
+            "stars": 296,
             "topics": [
               "apk",
               "extended",
@@ -17696,7 +17700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:39:58.726Z",
+    "last_updated": "2026-11-12T17:08:50.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Android application patching ecosystems built around ReVanced, Morphe, Reseam, and compatible community tooling.",
@@ -17704,11 +17708,11 @@
       "id": 841485399,
       "language": "Python",
       "license": "Unlicense",
-      "last_commit": "2026-11-11T13:45:11Z",
+      "last_commit": "2026-11-12T14:49:04Z",
       "open_issues": 0,
       "owner": "Jman-Github",
       "repo": "Awesome-Android-Patching",
-      "stars": 369,
+      "stars": 370,
       "topics": [
         "awesome",
         "awesome-list",
@@ -17720,7 +17724,7 @@
         "revanced-extended"
       ]
     },
-    "original_repository_sha": "28aa69e46bf72b43f8fa2d2832891b260c65b544",
+    "original_repository_sha": "635c6bd28feaf41e5af772949f29d368a7a629a8",
     "enhanced_repository": "enhansome/enhansome-Awesome-ReVanced",
     "enhanced_repository_description": null,
     "title": "Awesome Android Patching with stars"
